@@ -1,0 +1,300 @@
+CF1,PCMA Convening Leaders,2020-01-05,2020-01-06,San Francisco,United States,Technology,540,CO123
+CF2,Consumer Electronics Show,2020-01-07,2020-01-09,Las Vegas,United States,Technology,225,CO63
+CF3,AntarctiConf,2020-01-05,2020-01-21,San Antonio,Chile,Computer Science,340,CO9
+CF4,CodeMash,2020-01-07,2020-01-10,Sandusky,United States,Computer Science,225,CO134
+CF5,GitLab Commit San Franciso,2020-01-14,2020-01-15,San Francisco,United States,DevOps,500,CO30
+CF6,CPX 360,2020-01-14,2020-01-16,Bangkok,Thailand,CyberSecurity,735,CO21
+CF7,BaseConf powered by Techsauce,2020-01-15,2020-01-16,Johor Bahru,Malaysia,Technology,275,CO118
+CF8,TYPO3 Camp MItteldeutschland,2020-01-16,2020-01-18,Dresden,Germany,Data Science,480,CO110
+CF9,iOS Conf SG,2020-01-16,2020-01-18,Singapore,Singapore,iOS,600,CO133
+CF10,HalfStack,2020-01-17,2020-01-20,Phoenix,United States,JavaScript,720,CO32
+CF11,You Got This,2020-01-18,2020-01-21,Birmingham,United Kingdom,Technology,350,CO15
+CF12,Digital Life Design,2020-01-18,2020-01-19,Munich,Germany,Computer Science,750,CO15
+CF13,Digital Geospatial Intelligence,2020-01-20,2020-01-20,London,United Kingdom,Technology,150,CO138
+CF14,osquery@scale,2020-01-22,2020-01-23,San Francisco,United States,CyberSecurity,866,CO123
+CF15,Agent Conf,2020-01-23,2020-01-26,Dornbirn,Austria,JavaScript,605,CO50
+CF16,Conf42: Chaos Engineering ,2020-01-23,2020-01-23,London,United Kingdom,Computer Science,375,CO94
+CF17,Awwwards Conference Tokyo,2020-01-23,2020-01-24,Tokyo,Japan,JavaScript,880,CO100
+CF18,PHPBenelux,2020-01-24,2020-01-25,Edegem,Belgium,PHP,630,CO32
+CF19,Covalence,2020-01-24,2020-01-25,San Francisco,United States,JavaScript,950,CO133
+CF20,7th International CoSIT,2020-01-25,2020-01-26,Zurich,Switzerland,Technology,995,CO15
+CF21,7th International AIAPP,2020-01-25,2020-01-26,Zurich,Switzerland,Artificial Intelligence,450,CO2
+CF22,CPX360,2020-01-27,2020-01-29,New Orleans ,United States,CyberSecurity,500,CO14
+CF23,Cisco Live,2020-01-27,2020-01-28,Barcelona,Spain,Technology,200,CO140
+CF24,AdExchanger's Industry Preview,2020-01-28,2020-01-28,New York,United States,Technology,275,CO136
+CF25,Digital Transformation In Sports Summit,2020-01-29,2020-01-30,San Francisco,United States,Technology,875,CO80
+CF26,Deep Learning Summit,2020-01-30,2020-01-30,San Francisco,United States,Artificial Intelligence,550,CO131
+CF27,East Meets West,2020-01-30,2020-02-01,Waikiki,United States,Technology,775,CO69
+CF28,The Deep Learning Summit,2020-01-30,2020-01-31,San Francisco,United States,Artificial Intelligence,450,CO27
+CF29,Upfront Summit,2020-01-30,2020-02-02,Pasadena ,United States,Computer Science,600,CO91
+CF30,FOSDEM,2020-02-01,2020-02-02,Brussels,Belgium,Computer Science,235,CO133
+CF31,dotSwift,2020-02-03,2020-02-05,Paris ,France,iOS,778,CO60
+CF32,dotSwift,2020-02-03,2020-02-05,Paris ,France,CyberSecurity,725,CO38
+CF33,Future Festival,2020-02-03,2020-02-05,Seattle,United States,Technology,500,CO84
+CF34,O'Reilly: Software Architecture Conference,2020-02-03,2020-02-07,New York,United States,DevOps,250,CO58
+CF35,CPX 360 Cyber Security Conference ,2020-02-04,2020-02-07,Vienna,Austria,CyberSecurity,880,CO136
+CF36,CPX 360,2020-02-04,2020-02-06,Vienna,Austria,CyberSecurity,750,CO51
+CF37,JSConf Hawai'i,2020-02-05,2020-02-07,Honolulu,United States,JavaScript,745,CO129
+CF38,Pause Fest,2020-02-05,2020-02-07,Melbourne,Australia,Computer Science,940,CO103
+CF39,Microsoft Ignite,2020-02-06,2020-02-08,Washington DC,United States,Technology,680,CO20
+CF40,SunshinePHP,2020-02-06,2020-02-08,Miami,United States,PHP,595,CO148
+CF41,DDD Europe ,2020-02-06,2020-02-07,Amsterdam,Netherlands,Technology,745,CO29
+CF42,devopsdays Vitoria,2020-02-08,2020-02-09,Vitoria ,Brazil,DevOps,650,CO123
+CF43,PyCascades,2020-02-08,2020-02-09,Portland,United States,Python,675,CO112
+CF44,Future Stores ,2020-02-09,2020-02-10,Miami,United States,Technology,550,CO83
+CF45,Flasback Conference ,2020-02-10,2020-02-11,Orlando ,United States,JavaScript,225,CO111
+CF46,Startup Grind Global Conference ,2020-02-11,2020-02-13,Silicon Valley,United States,Computer Science,114,CO63
+CF47,STEP Conference,2020-02-11,2020-02-13,Dubai,United Arab Emirates,Technology,740,CO69
+CF48,Developer Week,2020-02-12,2020-02-20,San Francisco,United States,DevOps,800,CO68
+CF49,Mobile Growth Summit,2020-02-12,2020-02-15,San Francisco,United States,Technology,700,CO20
+CF50,Gartner Data & Analysis Summit,2020-02-17,2020-02-20,Sydney,Australia,Data Science,705,CO108
+CF51,DevNexus,2020-02-19,2020-02-22,Atlanta ,United States,DevOps,525,CO2
+CF52,RubyConf Au,2020-02-20,2020-02-21,Melbourne,Australia,Ruby,147,CO95
+CF53,Agent Conf,2020-02-23,2020-02-26,Lech,Austria,JavaScript,250,CO2
+CF54,Mobile World Congress ,2020-02-24,2020-02-26,Barcelona,Spain,DevOps,800,CO145
+CF55,sec4dev Conference,2020-02-24,2020-02-27,Vienna,Austria,CyberSecurity,475,CO130
+CF56,RSA Conference,2020-02-24,2020-02-26,San Francisco,United States,CyberSecurity,500,CO85
+CF57,EmTech Asia 2020,2020-02-25,2020-02-28,Singapore,Singapore,Technology,115,CO62
+CF58,ConFoo,2020-02-26,2020-02-28,Montreal,Canada,Computer Science,505,CO124
+CF59,ng India,2020-02-29,2020-02-29,Gurgaon,India,JavaScript,800,CO82
+CF60,Vueconf.us,2020-03-02,2020-03-03,Austin,United States,JavaScript,700,CO65
+CF61,building IoT,2020-03-02,2020-03-04,Paris ,France,Internet of Things,650,CO73
+CF62,ConveyUX,2020-03-03,2020-03-05,Seattle ,United States,Computer Science,825,CO111
+CF63,Node.TLV,2020-03-03,2020-03-05,Tel Aviv,Israel,JavaScript,405,CO119
+CF64,SummitX Jackson Hole,2020-03-04,2020-03-06,Teton Village ,United States,Technology,650,CO59
+CF65,SCALE,2020-03-05,2020-03-08,Pasadena,United States,DevOps,308,CO131
+CF66,Devopsdays Los Angeles,2020-03-06,2020-03-06,Pasadena,United States,DevOps,850,CO88
+CF67,DataFest 2020,2020-03-09,2020-03-11,Edinburgh,Scotland,Data Science,330,CO38
+CF68,Strata Data Conference,2020-03-15,2020-03-18,San Francisco,United States,Data Science,275,CO33
+CF69,EmberConf,2020-03-16,2020-03-19,Portland,United States,JavaScript,710,CO116
+CF70,AI & Big Data Expo Global,2020-03-17,2020-03-20,London ,United Kingdom,Artificial Intelligence,602,CO65
+CF71,try! Swift Conference,2020-03-18,2020-03-20,Tokyo,Japan,iOS,405,CO122
+CF72,DevOps Fusion,2020-03-18,2020-03-19,Zurich,Switzerland,DevOps,415,CO91
+CF73,MidCamp,2020-03-18,2020-03-21,Chicago,United States,PHP,475,CO50
+CF74,FrontConf - Munich Fron-end Conference,2020-03-20,2020-03-21,Munich,Germany,JavaScript,355,CO99
+CF75,CSSConf Colombia,2020-03-21,2020-03-22,Medellin,Colombia,CSS,775,CO33
+CF76,Bsides Rochester,2020-03-21,2020-03-23,Rochester,United States,CyberSecurity,800,CO51
+CF77,GPU Technology Conference ,2020-03-22,2020-03-25,San Jose,United States,Technology,600,CO9
+CF78,DevOps Talks Conference,2020-03-22,2020-03-24,Auckland,New Zealand,DevOps,500,CO15
+CF79,Linaro Connect,2020-03-23,2020-03-25,Budapest,Hungary,Open Source,200,CO39
+CF80,Flink Forward San Francisco,2020-03-23,2020-03-25,San Francisco,United States,Data Science,240,CO28
+CF81,Machine Learning Conference,2020-03-24,2020-03-26,Singapore,Singapore,Data Science,350,CO34
+CF82,World Summit AI Americas,2020-03-25,2020-03-26,Montreal,Canada,Artificial Intelligence,375,CO99
+CF83,IoT Device Security Summit,2020-03-26,2020-03-28,Santa Clara,United States,Internet of Things,844,CO147
+CF84,CityJS,2020-03-27,2020-03-28,London ,United Kingdom,JavaScript,740,CO89
+CF85,Fleurix,2020-03-27,2020-03-28,Charlotte ,United States,Technology,770,CO124
+CF86,PyCon SK,2020-03-27,2020-03-28,Bratislava,Slovakia,Python,500,CO143
+CF87,dotGo,2020-03-30,2020-03-31,Paris ,France,CyberSecurity,995,CO110
+CF88,Black Hat Asia,2020-03-31,2020-03-31,Singapore,Singapore,CyberSecurity,411,CO132
+CF89,AI in Finance & Insurance Summit,2020-03-31,2020-03-31,London ,United Kingdom,Artificial Intelligence,466,CO84
+CF90,#PerfMatters Conference,2020-03-31,2020-03-31,Redwood City,United States,Technology,540,CO107
+CF91,ng-conf,2020-04-01,2020-04-03,Salt Lake City,United States,JavaScript,699,CO54
+CF92,Midwest PHP,2020-04-02,2020-04-04,Minneapolis,United States,PHP,500,CO137
+CF93,vueday,2020-04-03,2020-04-05,Verona,Italy,JavaScript,700,CO50
+CF94,HolyJS Piter,2020-04-10,2020-04-11,Saint Petersburg,Russia,JavaScript,600,CO95
+CF95,Open Data Science Conference,2020-04-13,2020-04-17,Boston ,United States,Data Science,500,CO147
+CF96,Open Data Science Conference East,2020-04-13,2020-04-15,Boston ,United States,Data Science,500,CO7
+CF97,Sharepoint Fest DC,2020-04-13,2020-04-14,Washington DC,United States,Technology,750,CO50
+CF98,JS Kongress 2020,2020-04-15,2020-04-18,Munich ,Germany,Data Science,415,CO100
+CF99,IoTFuse Conference,2020-04-16,2020-04-18,Minneapolis,United States,Internet of Things,475,CO99
+CF100,React Summit Amsterdam,2020-04-17,2020-04-20,Amsterdam,Netherlands,JavaScript,750,CO31
+CF101,droidcon 2020,2020-04-18,2020-04-20,Turin,Italy,Android,650,CO51
+CF102,ContentTECH 2020,2020-04-20,2020-04-23,San Diego,United States,Technology,550,CO129
+CF103,DIG South Tech Summit,2020-04-22,2020-04-25,Charleston ,United States,Technology,550,CO19
+CF104,Dublin Tech Summit,2020-04-22,2020-04-23,Dublin,Ireland,Computer Science,320,CO13
+CF105,QuBit Prague,2020-04-22,2020-04-23,Prague,Czech Republic,CyberSecurity,455,CO138
+CF106,TechDay NY,2020-04-23,2020-04-24,New York,United States,Technology,999,CO147
+CF107,Kafka Summit 2020,2020-04-27,2020-04-29,London ,United Kingdom,Data Science,222,CO16
+CF108,Red Hat Summit,2020-04-27,2020-04-30,San Francisco,United States,Open Source,375,CO85
+CF109,GOTO Chicago,2020-04-28,2020-04-30,Chicago ,Illinois,Computer Science,775,CO78
+CF110,VRX Europe 2020,2020-04-28,2020-04-30,London ,United Kingdom,Technology,415,CO99
+CF111,Knowledge 2020,2020-05-03,2020-05-05,Orlando ,United States,Technology,660,CO24
+CF112,Dell EMC World,2020-05-04,2020-05-07,Las Vegas,United States,Technology,105,CO74
+CF113,Think 2020,2020-05-04,2020-05-08,San Francisco,United States,Artificial Intelligence,205,CO137
+CF114,RenderATL,2020-05-04,2020-05-06,Atlanta,United States,JavaScript,115,CO100
+CF115,RuhrSec,2020-05-05,2020-05-08,Bodhum,Germany,CyberSecurity,355,CO130
+CF116,HalfStack,2020-05-11,2020-05-15,Tel Aviv,Israel,JavaScript,433,CO27
+CF117,Rise of AI,2020-05-13,2020-05-14,Berlin ,Germany,Artificial Intelligence,777,CO46
+CF118,You Gotta Love Frontend,2020-05-14,2020-05-15,Vilnius,Lithuania,JavaScript,850,CO99
+CF119,Stableconf Colombia,2020-05-14,2020-05-17,Medellin,Colombia,DevOps,290,CO42
+CF120,Bucharest Technology Week,2020-05-18,2020-05-20,Bucharest ,Romania,Technology,881,CO35
+CF121,php[tek] 2020,2020-05-18,2020-05-20,Nashville ,United States,PHP,885,CO84
+CF122,Manhattan Momentum ,2020-05-18,2020-05-21,Las Vegas,United States,Technology,450,CO117
+CF123,DrupalCon,2020-05-18,2020-05-22,Minneapolis,United States,PHP,400,CO144
+CF124,TEQnation Conference,2020-05-20,2020-05-22,Utrecht,Netherlands,Technology,228,CO74
+CF125,PHP Serbia,2020-05-21,2020-05-23,Belgrade ,Serbia,PHP,139,CO51
+CF126,Inspire Fest,2020-05-21,2020-05-23,Dublin,Ireland,Technology,479,CO149
+CF127,React Finland,2020-05-26,2020-05-28,Helsinki,Finland,JavaScript,179,CO64
+CF128,Nomadays,2020-05-27,2020-05-28,Paris,France,Networking,189,CO4
+CF129,AWE USA 2020,2020-05-27,2020-05-30,Santa Clara,United States,Computer Science,159,CO108
+CF130,WeAreDevelopers World Congress 2020,2020-05-28,2020-05-30,Berlin ,Germany,DevOps,189,CO53
+CF131,Mendix World,2020-06-02,2020-06-04,Rotterdam,Netherlands,Technology,199,CO150
+CF132,99UConference,2020-06-03,2020-06-05,New York ,United States,Technology,500,CO104
+CF133,Big Data x AI Toronto Conference,2020-06-03,2020-06-05,Toronto,Canada,Artificial Intelligence,411,CO96
+CF134,Women in Analystics Conference,2020-06-03,2020-06-05,Columbus,United States,Data Science,899,CO148
+CF135,JSNation,2020-06-03,2020-06-05,Amsterdam,Netherlands,JavaScript,755,CO12
+CF136,Evolve Technology Conference,2020-06-08,2020-06-10,Las Vegas,United States,Computer Science,700,CO106
+CF137,ReMeP,2020-06-08,2020-06-11,Vienna,Austria,Artificial Intelligence,164,CO141
+CF138,LiveWorx,2020-06-08,2020-06-10,Boston ,United States,Internet of Things,699,CO116
+CF139,London Tech Week,2020-06-08,2020-06-15,London ,United Kingdom,Technology,109,CO75
+CF140,SmashingConf,2020-06-09,2020-06-10,Austin ,United States,JavaScript,800,CO68
+CF141,VivaTech,2020-06-11,2020-06-14,Paris ,France,Technology,741,CO27
+CF142,TYPO3camp Stuttgart,2020-06-11,2020-06-13,Ostfildern,Germany,PHP,335,CO87
+CF143,angularday,2020-06-12,2020-06-12,Verona,Italy,JavaScript,255,CO39
+CF144,Webit.Festival Europe,2020-06-17,2020-06-20,Valencia,Spain,Computer Science,265,CO111
+CF145,Devoxx Poland,2020-06-17,2020-06-18,Krakow,Poland,Java,145,CO29
+CF146,ML Conference Munich,2020-06-17,2020-06-19,Munich,Germany,Data Science,205,CO140
+CF147,React Loop,2020-06-19,2020-06-21,Chicago,United States,JavaScript,450,CO27
+CF148,4Front,2020-06-23,2020-06-25,Denver,United States,Networking,399,CO63
+CF149,enterJS,2020-06-23,2020-06-26,Darmstadt,Germany,JavaScript,199,CO82
+CF150,FullStack London 2020,2020-06-24,2020-06-28,London ,United Kingdom,JavaScript,179,CO18
+CF151,Esri User Conference,2020-07-13,2020-07-17,San Diego,United States,Information System,499,CO25
+CF152,Open Source Software Conference,2020-07-13,2020-07-16,Portland,United States,Open Source,139,CO86
+CF153,Tech Open Air,2020-09-10,2020-09-14,Tokyo,Japan,Technology,419,CO35
+CF154,Tech Open Air,2020-11-19,2020-11-20,Cape Town,South Africa,Technology,319,CO116
+CF155,AI & Big Data Expo ,2020-07-01,2020-07-02,Amsterdam,Netherlands,Artificial Intelligence,750,CO87
+CF156,ÜberConf,2020-07-14,2020-07-17,Denver,United States,Computer Science,774,CO5
+CF157,O'Reilly Software Architecture Conference,2020-11-16,2020-11-19,Berlin,Germany,Software,499,CO116
+CF158,O'Reilly Strata Data & AI Conference,2020-09-14,2020-09-17,New York City,United States,Big Data,845,CO12
+CF159,O'Reilly TensorFlow World,2020-10-19,2020-10-22,Santa Clara,United States,Artificial Intelligence,845,CO149
+CF160,The Disney Data & Analytics Conference,2020-10-19,2020-10-22,Orlando,United States,Data Science,845,CO64
+CF161,Black Hat Europe,2020-12-02,2020-12-05,London,United Kingdom,Information Security,179,CO107
+CF162,Black Hat USA,2020-08-01,2020-08-06,Orlando,United States,Information Security,149,CO146
+CF163,THAT Conference,2020-08-03,2020-08-06,Wisconsin Dells,United States,Computer Science,799,CO124
+CF164,Visual Studio LIVE!,2020-08-03,2020-08-07,Redmond,United States,Computer Science,219,CO87
+CF165,Business Tech Expo,2020-08-06,2020-08-07,Austin,United States,Technology,30,CO96
+CF166,UX and Digital Design Week,2020-08-10,2020-08-14,London,United Kingdom,Technology,220,CO110
+CF167,Javascript and Friends Conference,2020-08-13,2020-08-14,Columbus,United States,Javascript,599,CO130
+CF168,DevOps Talks Conference,2020-08-17,2020-08-19,Singapore,Singapore,DevOps,190,CO92
+CF169,ILTACON,2020-08-23,2020-08-27,Nashville,United States,Technology,399,CO81
+CF170,Gartner Catalyst Conference,2020-08-24,2020-08-27,San Diego,United States,Data Science,887,CO127
+CF171,VMWorld,2020-08-30,2020-09-03,San Francisco,United States,Technology,549,CO65
+CF172,ApacheCon,2020-08-24,2020-08-27,New Orleans,United States,Computer Science,399,CO94
+CF173,Cloud Foundry Summit,2020-08-30,2020-09-03,The Hague,Netherlands,Cloud Computing,349,CO133
+CF174,Future Port Prague,2020-09-10,2020-09-11,Prague,Czech Republic,Artificial Intelligence,479,CO134
+CF175,Open Networking Summit,2020-09-23,2020-09-25,Antwerp,Belgium,Open Source,129,CO127
+CF176,ProductCon,2020-09-10,2020-09-14,New York City,United States,Artificial Intelligence,799,CO98
+CF177,SLUSH,2020-11-19,2020-11-20,Helsinki,Finland,Technology,459,CO145
+CF178,The Personalization & CDP Summit,2020-09-18,2020-09-20,Boston,United States,Machine Learning,129,CO128
+CF179,TechCrunch Disrupt,2020-09-14,2020-09-16,San Francisco,United States,Technology,799,CO64
+CF180,DATAx,2020-08-27,2020-08-28,Singapore,Singapore,Data Science,795,CO15
+CF181,SpiceWorld,2020-09-15,2020-09-17,Austin,United States,Information Technology,395,CO44
+CF182,Business of Software,2020-09-21,2020-09-23,Boston,United States,Software,178,CO40
+CF183,INDUSTRY: The Product Conference,2020-09-21,2020-09-23,Cleveland,United States,Software,795,CO76
+CF184,REWORK AI Summit,2020-09-24,2020-09-25,London,United Kingdom,Artificial Intelligence,395,CO87
+CF185,IT Arena,2020-09-25,2020-09-27,Lviv,Ukraine,Information Technology,875,CO83
+CF186,Visual Studio LIVE!,2020-09-27,2020-10-01,San Diego,United States,Computer Science,850,CO26
+CF187,Visual Studio LIVE!,2020-11-15,2020-11-20,Orlando,United States,Computer Science,755,CO33
+CF188,Bloomreach Connect,2020-10-29,2020-10-29,Amsterdam,Netherlands,Digital Experience,450,CO128
+CF189,Caribbean Developers Conference,2020-09-30,2020-10-03,Punta Cana,Dominican Republic,Computer Science,215,CO69
+CF190,MedFuse,2020-10-24,2020-10-24,Minneapolis,United States,Medical IoT,199,CO1
+CF191,.NET Developer Days,2020-10-20,2020-10-21,Warsaw,Poland,.NET,429,CO84
+CF192,Open Data Science Conference West,2020-10-26,2020-10-30,San Francisco,United States,Data Science,549,CO50
+CF193,Open Data Science Conference Europe,2020-11-19,2020-11-22,London,United Kingdom,Data Science,129,CO143
+CF194,Open Data Science Conference India,2020-09-16,2020-09-19,Bengalaru,India,Data Science,349,CO33
+CF195,Open Data Science Conference Brazil,2020-10-15,2020-10-15,Sao Paulo,Brazil,Data Science,359,CO1
+CF196,PHP[world],2020-10-23,2020-10-24,Washington D.C.,United States,PHP,195,CO51
+CF197,Reactive Conf,2020-10-30,2020-11-01,Prague,Czech Republic,Javascript,499,CO115
+CF198,Hosting and Cloud Transformation Summit,2020-10-05,2020-10-07,Las Vegas,United States,Cloud Computing,299,CO71
+CF199,VOICE Summit,2020-10-05,2020-10-08,Washington D.C.,United States,Voice Technology,499,CO72
+CF200,Arm TechCon,2020-10-06,2020-10-08,San Jose,United States,Artificial Intelligence,845,CO22
+CF201,Future In Review,2020-10-06,2020-10-09,La Jolla,United States,Technology,999,CO9
+CF202,ITEN Wired,2020-10-07,2020-10-09,Pensacola Beach,United States,Cybersecurity,849,CO30
+CF203,Reach,2020-10-07,2020-10-08,Chicago,United States,Software,499,CO85
+CF204,SaaStock,2020-10-12,2020-10-14,Dublin,Ireland,Software,845,CO116
+CF205,SaaStock,2019-12-03,2019-12-04,Sydney,Australia,Software,179,CO127
+CF206,WSJ Tech D.Live,2020-10-19,2020-10-21,Laguna Beach,United States,Technology,659,CO52
+CF207,REWORK AI Summit,2020-10-22,2020-10-23,Toronto,Canda,Artificial Intelligence,395,CO14
+CF208,AI DevWorld,2020-10-27,2020-10-29,San Jose,United States,Artificial Intelligence,419,CO33
+CF209,Mobile World Congress,2020-10-28,2020-10-30,Los Angeles,United States,Technology,219,CO21
+CF210,Microsoft Ignite,2020-11-04,2020-11-08,Orlando,United States,Technology,359,CO142
+CF211,O'Reilly Velocity Conference,2020-11-04,2020-11-07,Berlin,Germany,Cloud Computing,279,CO122
+CF212,IEEE Rebooting Computing Week,2020-11-04,2020-11-08,San Mateo,United States,Technology,549,CO141
+CF213,Qt World Summit,2020-11-04,2020-11-06,Berlin,Germany,Technology,750,CO87
+CF214,Qt World Summit,2020-11-29,2020-11-29,Tokyo,Japan,Technology,399,CO92
+CF215,Voiced and Advanced Communications Summit,2020-11-05,2020-11-06,Berlin,Germany,Technology,499,CO99
+CF216,DeveloperWeek,2020-11-16,2020-11-18,Austin,United States,Technology,845,CO21
+CF217,Odoo Connect,2020-11-05,2020-11-07,San Francisco,United States,Technology,179,CO125
+CF218,The Big Elixir,2020-11-07,2020-11-08,New Orleans,United States,Elixir,179,CO95
+CF219,Ai4 Health,2020-11-11,2020-11-12,New York City,United States,Artificial Intellience,559,CO69
+CF220,Big Data London,2020-11-23,2020-11-24,London,United Kingdom,Big Data,595,CO70
+CF221,Spinnaker Summit,2020-11-15,2020-11-17,San Diego,United States,Spinnaker,800,CO68
+CF222,KubeCon + CloudNativeCon,2020-11-18,2020-11-21,San Diego,United States,Cloud Computing,600,CO147
+CF223,Info-Tech LIVE,2020-11-19,2020-11-21,Las Vegas,United States,Information Technology,291,CO129
+CF224,The MIT AI and the Work of the Future Congress,2020-11-21,2020-11-22,Cambridge,United States,Artificial Intellience,595,CO135
+CF225,DevOps World,2019-12-03,2019-12-05,Lisbon,Portugal,DevOps,800,CO34
+CF226,ConTech,2019-12-05,2019-12-06,London,United Kingdom,Data Science,795,CO31
+CF227,Future of AI,2019-12-11,2019-12-12,Berlin,Germany,Artificial Intellience,109,CO92
+CF228,FinTech Junction,2019-12-11,2019-12-12,Berlin,Germany,Technology,54,CO42
+CF229,The AI Summit,2019-12-11,2019-12-12,New York City,United States,Artificial Intellience,229,CO98
+CF230,Savvy UX Summit,2019-12-12,2019-12-13,Bangkok,Thailand,User Experience,291,CO124
+CF231,Big Data Conference,2019-11-26,2019-11-28,Vilnius,Lithuania,Big Data,632,CO98
+CF232,FrontEnd Con,2019-11-26,2019-11-27,Warsaw,Poland,Javascript,749,CO62
+CF233,ColdFront,2019-11-26,2019-11-28,Copenhagen,Denmark,Javascript,632,CO58
+CF234,Devopsday,2019-11-27,2019-11-28,Berlin,Germany,DevOps,160,CO90
+CF235,RubyConf,2019-11-28,2019-11-29,Sao Paulo,Brazil,Ruby,366,CO25
+CF236,Swiftable,2019-11-28,2019-11-29,Buenos Aires,Argentina,iOS,750,CO72
+CF237,Chief Information Officer Innovation Conference,2019-11-28,2019-11-29,Singapore,Singapore,Data Science,780,CO70
+CF238,BSides Lisbon,2019-11-28,2019-11-29,Lisbon,Portugal,Cybersecurity,499,CO111
+CF239,Swift Alps,2019-11-28,2019-11-29,Crans-Montana,Switzerland,iOS,845,CO10
+CF240,JavaScript Conference Armenia,2019-11-30,2019-11-30,Yerevan,Armenia,Javascript,845,CO120
+CF241,jsconf.jp,2019-11-30,2019-12-01,Tokyo,Japan,Javascript,649,CO3
+CF242,DevOpsCon,2019-12-02,2019-12-05,Munich,Germany,DevOps,950,CO149
+CF243,AWS re:Invent ,2019-12-02,2019-12-06,Las Vegas,United States,DevOps,740,CO44
+CF244,dotCSS,2019-12-04,2019-12-04,Paris,France,CSS,129,CO149
+CF245,dotJS,2919-12-05,2019-12-06,Paris,France,Javascript,699,CO100
+CF246,KotlinConf,2019-12-04,2019-12-05,Copenhagen,Denmark,Android,845,CO24
+CF247,YOW! Sydney,2019-12-05,2019-12-06,Sydney,Australia,Technology,900,CO43
+CF248,WWCode Connect,2019-12-05,2019-12-05,New York City,United States,Technology,149,CO5
+CF249,React Day,2019-12-06,2019-12-06,Berlin,Germany,Javascript,300,CO22
+CF250,DevTernity,2019-12-07,2019-12-08,Riga,Latvia,Javascript,845,CO110
+CF251,DevFest,2019-12-07,2019-12-07,Lisbon,Portugal,Javascript,20,CO79
+CF252,Lead Dev Berlin,2019-12-06,2019-12-06,Berlin,Germany,Leadership,600,CO86
+CF253,NationJS,2019-12-06,2019-12-06,Washington D.C.,United States,Javascript,175,CO4
+CF254,ConFrontJS,2019-12-07,2019-12-07,Warsaw,Poland,Javascript,539,CO119
+CF255,An Event Apart,2019-12-09,2019-12-11,San Francisco,United States,User Experience,749,CO87
+CF256,BSides Cape Town,2019-12-07,2019-12-07,Cape Town,South Africa,Cybersecurity,225,CO86
+CF257,Microservices Summit,2019-12-09,2019-12-11,Berlin,Germany,DevOps,549,CO148
+CF258,API Summit,2019-12-09,2019-12-11,Berlin,Germany,Technology,329,CO111
+CF259,ArchConf,2019-12-09,2019-12-12,Clearwater,United States,Technology,777,CO7
+CF260,Machine Learning Conference,2019-12-09,2019-12-11,Berlin,Germany,Machine Learning,879,CO19
+CF261,Voice Conference,2019-12-09,2019-12-11,Berlin,Germany,Voice Technology,489,CO29
+CF262,YOW! Sydney,2019-12-09,2019-12-10,Brisbane,Australia,Technology,900,CO112
+CF263,Node+JS Interactive,2019-12-11,2019-12-12,Montreal,Canada,Javascript,699,CO3
+CF264,YOW! Sydney,2019-12-12,2019-12-13,Melbourne,Australia,Technology,900,CO16
+CF265,PyData,2019-12-12,2019-12-13,Warsaw,Poland,Data Science,768,CO69
+CF266,DevSecOps Days,2019-12-16,2019-12-16,Austin,United States,Cybersecurity,249,CO64
+CF267,DevOpsDays,2019-12-18,2019-12-19,Tel Aviv,Israel,DevOps,350,CO39
+CF268,droidcon,2019-12-20,2019-12-21,Madrid,Spain,Android,180,CO55
+CF269,CSSCamp,2020-07-15,2020-07-15,Barcelona,Spain,CSS,350,CO66
+CF270,JSCamp,2020-07-16,2020-07-17,Barcelona,Spain,Javascript,650,CO85
+CF271,SHPE National Convention,2020-10-30,2020-11-03,Phoenix,United States,STEM,350,CO138
+CF272,Grace Hopper Celebration,2020-09-29,2020-10-02,Orlando,United States,Technology,650,CO83
+CF273,GMiS Conference,2020-09-25,2020-09-29,Buena Vista,United States,STEM,249,CO135
+CF274,Richard Tapia Celebration,2020-09-18,2020-09-21,San Diego,United States,STEM,350,CO68
+CF275,SACNAS Conference,2020-10-22,2020-10-24,Long Beach,United States,STEM,180,CO124
+CF276,Ai4,2020-09-01,2020-09-02,Las Vegas,United States,Technology,495,CO51
+CF277,SmashingConf,2020-09-07,2020-09-08,Freiburg,Germany,Javascript,499,CO19
+CF278,SmashingConf,2020-10-20,2020-10-21,New York City,United States,Javascript,499,CO96
+CF279,SymfonyLive,2019-12-01,2019-12-05,Paris,France,PHP,399,CO89
+CF280,FOSS4G,2020-08-24,2020-08-29,Calgary,Canada,Technology,725,CO136
+CF281,Euroko,2020-08-21,2020-08-22,Helsinki,Finland,Ruby,499,CO2
+CF282,DevOpsCon,2020-09-28,2020-10-01,New York City,United States,DevOps,680,CO140
+CF283,DevOpsDays Cairo,2020-09-20,2020-09-20,Cairo,Egypt,DevOps,799,CO94
+CF284,HalfStack,2020-09-18,2020-09-18,Vienna,Austria,Javascript,150,CO43
+CF285,NEXT Conference,2020-09-17,2020-09-18,Hamburg,Germany,Technology,249,CO132
+CF286,DevOpsDays Columbus,2020-09-16,2020-09-17,Columbus,United States,DevOps,750,CO93
+CF287,React Day New York Conference,2020-09-11,2020-09-11,New York City,United States,Javascript,295,CO110
+CF288,dConstruct,2020-09-11,2020-09-11,Brighton,United Kingdom,User Experience,295,CO93
+CF289,Women in Tech Summit: West,2020-10-04,2020-10-04,Denver,United States,Technology,295,CO16
+CF290,SwiftLeeds,2020-10-08,2020-10-08,Leeds,United Kingdom,iOS,499,CO128
+CF291,React Live,2020-10-02,2020-10-02,Amsterdam,Netherlands,Javascript,175,CO65
+CF292,Armada JS,2020-10-01,2020-10-02,Novi Sad,Serbia,Javascript,299,CO119
+CF293,European Women in Technology,2020-11-26,2020-11-27,Amsterdam,Netherlands,Technology,495,CO117
+CF294,Wonder Women Tech,2020-11-07,2020-11-08,Long Beach,United States,Technology,199,CO125
+CF295,Women in Tech Summit: Southeast,2020-11-08,2020-11-08,Raleigh,United States,Technology,495,CO79
+CF296,Tech Up for Women,2020-11-12,2020-11-12,New York City,United States,Technology,499,CO94
+CF297,Perspektywy Women in Tech Summit,2020-11-13,2020-11-14,Warsaw,Poland,Technology,499,CO16
+CF298,Women | Future Conference,2020-11-12,2020-11-13,Las Vegas,United States,Technology,399,CO115
+CF299,IP EXPO Nordic,2020-11-08,2020-11-09,Stockholm,Sweden,Computer Science,150,CO18
+CF300,SASE National Conference,2020-10-10,2020-10-12,Pittsburgh,United States,STEM,249,CO61

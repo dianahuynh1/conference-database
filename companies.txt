@@ -1,0 +1,150 @@
+CO1,Accenture,Foreign,Professional Services
+CO2,Acer,Foreign,Electronics
+CO3,Adobe,Domestic,Software
+CO4,Advanced Micro Devices (AMD),Domestic,Semiconductors
+CO5,Advantest,Foreign,Semiconductors
+CO6,Akamai Technologies,Domestic,Cloud Computing
+CO7,Alphabet,Domestic,E-commerce
+CO8,Amazon,Domestic,E-commerce
+CO9,Amdocs,Domestic,Electronics
+CO10,AmerisourceBergen,Domestic,Semiconductors
+CO11,Analog Devices,Domestic,Electronics
+CO12,Anthem,Foreign,Semiconductors
+CO13,Apple,Foreign,Electronics
+CO14,Applied Materials,Foreign,IT Services
+CO15,Archer Daniels Midland,Domestic,Software
+CO16,ARRIS International,Domestic,Software
+CO17,ASE Group,Foreign,Electronics
+CO18,ASM Pacific Technology,Foreign,IT Services
+CO19,ASUS,Foreign,Electronics
+CO20,AT&T,Foreign,Telecommunications
+CO21,Atos,Domestic,Networking
+CO22,Autodesk,Domestic,IT Services
+CO23,Bank of America,Domestic,Telecommunications
+CO24,BenQ,Foreign,IT Services
+CO25,Berkshire Hathaway,Foreign,Finance
+CO26,Boeing,Foreign,Transportation
+CO27,CA Technologies,Domestic,IT Services
+CO28,Canon,Domestic,Electronics
+CO29,Capgemini,Foreign,Consulting
+CO30,Cardinal Health,Domestic,Healthcare
+CO31,Celestica,Foreign,Photography
+CO32,CGI,Foreign,Electronics
+CO33,Chevron,Foreign,Energy
+CO34,Cisco,Foreign,Software
+CO35,Citigroup,Foreign,Finance
+CO36,Cognizant,Domestic,Information Technology
+CO37,Comcast,Domestic,Telecommunications
+CO38,CommScope,Domestic,Computer Hardware
+CO39,Computacenter,Foreign,Electronics
+CO40,Computershare,Foreign,IT Services
+CO41,Costco Wholesale,Domestic,Retail
+CO42,CVS Health,Domestic,Healthcare
+CO43,Deere,Domestic,Agriculture
+CO44,Dell Technologies,Domestic,Electronics
+CO45,dormakaba,Foreign,Computer Hardware
+CO46,DuPont de Nemours,Foreign,Conglomorate
+CO47,DXC Technology,Foreign,Data Storage
+CO48,eBay Inc.,Domestic,E-commerce
+CO49,Enterprise Products Partners,Domestic,Finance
+CO50,Ericsson,Domestic,Electronics
+CO51,Exxon Mobil,Domestic,Energy
+CO52,Facebook,Domestic,Social Media
+CO53,Fannie Mae,Foreign,Finance
+CO54,FedEx,Domestic,Logistics
+CO55,Ford Motor,Domestic,Transportation
+CO56,Freddie Mac,Foreign,Finance
+CO57,FUJIFILM,Foreign,Electronics
+CO58,Fujikura Ltd.,Domestic,Semiconductors
+CO59,Fujitsu Ltd.,Foreign,Electronics
+CO60,Gemalto,Foreign,Electronics
+CO61,General Electric,Domestic,Electronics
+CO62,General Motors,Domestic,Transportation
+CO63,Goldman Sachs,Domestic,Finance
+CO64,HCL Technologies Ltd.,Foreign,Electronics
+CO65,Hewlett Packard Enterprise,Foreign,Electronics
+CO66,Home Depot,Foreign,Retail
+CO67,HP,Foreign,Computer Hardware
+CO68,IBM,Foreign,Electronics
+CO69,Infineon Technologies,Foreign,Electronics
+CO70,Infosys,Foreign,IT Services
+CO71,Intel,Foreign,Software
+CO72,Intuit,Foreign,Electronics
+CO73,Johnson & Johnson,Foreign,Pharmaceuticals
+CO74,JPMorgan Chase,Foreign,Finance
+CO75,Kroger,Foreign,Retail
+CO76,Lam Research,Foreign,Conglomorate
+CO77,Leidos,Foreign,Information Technology
+CO78,Lenovo,Foreign,Electronics
+CO79,LG Electronics,Domestic,Electronics
+CO80,LITE-ON Technology,Foreign,Semiconductors
+CO81,Lowe's,Foreign,Retail
+CO82,ManTech International Corporation,Foreign,IT Services
+CO83,Marathon Petroleum,Foreign,Energy
+CO84,Mastercard,Domestic,Finance
+CO85,McKesson,Domestic,Semiconductors
+CO86,MetLife,Foreign,Insurance
+CO87,Micron Technology,Domestic,Finance
+CO88,Microsoft,Domestic,Software
+CO89,Motorola Solutions,Foreign,Electronics
+CO90,Nanya Technology,Domestic,Software
+CO91,National Instruments,Foreign,Conglomorate
+CO92,NCR Corporation,Foreign,Information Technology
+CO93,NEC,Domestic,Cloud Computing
+CO94,Nike,Domestic,Retail
+CO95,Nokia,Foreign,Electronics
+CO96,NortonLifeLock,Foreign,Software
+CO97,Nvidia,Foreign,Semiconductors
+CO98,NXP Semiconductors,Foreign,Semiconductors
+CO99,OKI Electric Industry Co. Ltd.,Foreign,Semiconductors
+CO100,ON Semiconductor,Foreign,Cloud Computing
+CO101,Oracle,Domestic,Software
+CO102,PEGATRON Corporation,Foreign,Communcation
+CO103,PepsiCo,Foreign,Retail
+CO104,Phillips 66,Foreign,Energy
+CO105,Powertech Technology Inc.,Domestic,Telecommunications
+CO106,Procter & Gamble,Domestic,Pharmaceuticals
+CO107,Prudential Financial,Foreign,Finance
+CO108,Publix Super Markets,Foreign,Retail
+CO109,Qualcomm,Foreign,Semiconductors
+CO110,Quanta Computer,Foreign,Software
+CO111,Renesas Electronics Corporation,Foreign,Software
+CO112,ROHM,Domestic,Electronics
+CO113,Salesforce,Foreign,IT Services
+CO114,Samsung Electronics,Foreign,Electronics
+CO115,SAP,Foreign,Electronics
+CO116,Seiko Epson Corporation,Foreign,Software
+CO117,Sharp Corporation,Domestic,Electronics
+CO118,Siliconware Precision Industries Ltd. (SPIL),Domestic,Semiconductors
+CO119,SK Hynix Inc.,Foreign,Cloud Computing
+CO120,SONY,Foreign,Electronics
+CO121,Sopra Steria,Foreign,Communcation
+CO122,State Farm Insurance,Foreign,Insurance
+CO123,STMicroelectronics,Foreign,Electronics
+CO124,Taiwan Semiconductor Manufacturing Co. Ltd. (TSMC),Domestic,Semiconductors
+CO125,Target,Foreign,Retail
+CO126,Tata Consultancy Services,Foreign,IT Services
+CO127,Tech Data,Foreign,Semiconductors
+CO128,Tech Mahindra,Foreign,IT Services
+CO129,Tencent,Domestic,Social Media
+CO130,Teradata,Domestic,Software
+CO131,Texas Instruments,Foreign,Electronics
+CO132,Tieto,Foreign,Electronics
+CO133,Tokyo Electron,Foreign,IT Services
+CO134,Total System Services (TSYS),Foreign,Electronics
+CO135,Unisys,Domestic,Software
+CO136,United Microelectronics Corporation,Foreign,Semiconductors
+CO137,United Parcel Service,Foreign,Logistics
+CO138,United Technologies,Foreign,Cloud Computing
+CO139,UnitedHealth Group,Foreign,Healthcare
+CO140,Valero Energy,Domestic,Energy
+CO141,Verizon Communications,Domestic,Telecommunications
+CO142,VMware,Domestic,Software
+CO143,Walgreens Boots Alliance,Foreign,Retail
+CO144,Walmart,Domestic,Retail
+CO145,Wells Fargo,Domestic,Finance
+CO146,Wipro,Foreign,E-commerce
+CO147,Wistron Corporation,Domestic,Communcation
+CO148,Workday,Foreign,Semiconductors
+CO149,Xerox Corporation,Domestic,Electronics
+CO150,ZTE Corporation,Foreign,Semiconductors

@@ -1,0 +1,1000 @@
+E1,Lockheed Martin Resume Room,Cloud Computing,John Donahoe,Afternoon,CF188,CO87
+E2,Leadership Begins With Me Sponsored by General Dynamics,Data Science,Katia Beauchamp,Evening,CF272,CO101
+E3,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Information Technology,Paul Graham,Morning,CF136,CO108
+E4,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Web Applications,Christine Kelley,Afternoon,CF74,CO147
+E5,Branching Out: GitHub and Core Skills for Contributing to Open Source,Computer Engineering,Richard Scott,Afternoon,CF31,CO92
+E6,Designing with Intent: The Value of Culture,Database Management,David Carr,Evening,CF120,CO67
+E7,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Database Management,Scott Belsky,Morning,CF102,CO29
+E8,Creating Meaningful Impact through Tech non-profits,Internet of Things,Keith Teare,Morning,CF41,CO35
+E9,Keeping Them Flying Safely: Airline Maintenance Engineering Presented by American Airlines,Systems Engineering,Marissa Mayer,Morning,CF136,CO89
+E10,Pathways to Google Panel Presented by Google,Mobile Applications,Peter Arvai,Evening,CF159,CO107
+E11,Pathways to Google Panel Presented by Google,Data Mining,Kevin Rose,Afternoon,CF155,CO6
+E12,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Artificial Intelligence,Tony Hawk,Evening,CF32,CO67
+E13,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Machine Learning,Melanie Knight,Morning,CF135,CO118
+E14,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Quantum Computing,Steven Green,Morning,CF215,CO87
+E15,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Internet of Things,Carlos Lopez,Afternoon,CF123,CO134
+E16,Project to Product Leadership: Where to Begin,Machine Learning,Meg Whitman,Evening,CF157,CO39
+E17,Bill.com's Excellent Adventure into Machine Learning,Mobile Applications,David Rowan,Morning,CF137,CO132
+E18,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Internet of Things,Mark Benioff,Afternoon,CF130,CO39
+E19,Build With Us: IoT to Keep Your Plants Alive!,Full Stack,Gina Mack,Afternoon,CF262,CO64
+E20,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Full Stack,Sarah Lacy,Afternoon,CF68,CO139
+E21,Big Data + Data Science = Big Value for Chevron,Cloud Computing,Katia Beauchamp,Morning,CF165,CO142
+E22,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Computer Engineering,Martin Bryant,Morning,CF85,CO17
+E23,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Cyber Security,Gina Mack,Evening,CF3,CO13
+E24,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Machine Learning,Sandra Kennedy,Morning,CF161,CO131
+E25,Building a (Better) Open Source Community,Computer Engineering,Shervin Pishevar,Morning,CF122,CO10
+E26,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Computer Networks,Albert Castro,Afternoon,CF133,CO102
+E27,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Systems Engineering,Dave McClure,Afternoon,CF165,CO19
+E28,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Internet of Things,Martha Lawson,Afternoon,CF76,CO132
+E29,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Web Development,Matt Mullenweg,Afternoon,CF189,CO78
+E30,Creating Meaningful Impact through Tech non-profits,Machine Learning,Geoff Keighley,Evening,CF233,CO84
+E31,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,User Interface Design,Jeff Weiner,Afternoon,CF172,CO139
+E32,Excellence in STEM Luncheon,Automation,Sam Shank,Evening,CF281,CO144
+E33,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Cryptography,Dave McClure,Evening,CF109,CO87
+E34,Designing Data Visuals That Sparkle: Building Insight You Can See,Back End,April Webb,Evening,CF293,CO47
+E35,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Information Management,Jennifer Hyman,Evening,CF169,CO138
+E36,Creating Meaningful Impact through Tech non-profits,Systems Analysis,Cynthia Richards,Morning,CF30,CO20
+E37,CC: Rapid Change - Personal Roadmap Development,Cryptography,Mark Zuckerberg,Evening,CF106,CO57
+E38,Engineering in Technical Sales Presented by Lincoln Electric,Automation,Rose Mcguire,Morning,CF141,CO118
+E39,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Web Applications,Aaron Levie,Morning,CF19,CO72
+E40,Design It: Bring Forth the Innovation,Web Applications,Kevin Rose,Evening,CF28,CO111
+E41,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Web Development,Ben Horowitz,Morning,CF247,CO49
+E42,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Front End,Wanda Nunez,Evening,CF17,CO89
+E43,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Cyber Security,Adrian Cockcroft,Afternoon,CF132,CO92
+E44,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Data Science,Jeff Clavier,Morning,CF226,CO6
+E45,Cyber Security Challenge,Web Applications,Gary Vaynerchuk,Evening,CF247,CO3
+E46,Automation & Process Improvement with Bots Presented by Goldman Sachs,Full Stack,Gina Mack,Morning,CF128,CO87
+E47,Communication Is The Key to Project Management Presented by Turner Construction Company,Machine Learning,Steven Grant,Evening,CF161,CO55
+E48,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Software Engineering,Ryan Holmes,Evening,CF56,CO18
+E49,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Software Engineering,Mario Clark,Afternoon,CF278,CO106
+E50,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Information Management,David Karp,Morning,CF21,CO79
+E51,Faculty Development Symposium: Welcome Remarks,Data Science,Robert Scoble,Afternoon,CF58,CO30
+E52,Innovation Challenge Career Fair,Robotics,Werner Vogels,Afternoon,CF62,CO72
+E53,Collaborative Robots for a Beautiful Supply Chain Presented by P&G,Artificial Intelligence,David Karp,Evening,CF120,CO105
+E54,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Artificial Intelligence,Sarah Lacy,Morning,CF68,CO66
+E55,LGBTQ: Understanding the Scientific and Social Constructs of Gender,Voice Technology,Carlos Lopez,Afternoon,CF279,CO121
+E56,Own Your Career: Practical Tips to Accelerate Success Presented by United Technologies Corporation,Back End,Jimmy Maymann,Morning,CF88,CO105
+E57,Collaborative Robots for a Beautiful Supply Chain Presented by P&G,Cryptography,Pamela Mendez,Morning,CF83,CO46
+E58,Clash of the Codes - Making Software Code out of Legal Code,Automation,Valerie Klein,Morning,CF254,CO24
+E59,Getting More for Less - Hardware Compression in Storage Systems,Database Management,Adeo Ressi,Afternoon,CF83,CO18
+E60,CC: Rapid Change - Dream Big,Data Mining,Dick Costolo,Afternoon,CF32,CO24
+E61,A Hitchhiker's Guide to the Open-Source Space,Web Applications,Bruce Austin,Evening,CF267,CO19
+E62,Big Data + Data Science = Big Value for Chevron,Data Mining,Lori Moss,Afternoon,CF227,CO17
+E63,Lockheed Martin Resume Room,Data Mining,Scott Belsky,Afternoon,CF165,CO73
+E64,Amazon and the Future of Accessible Technology,Systems Engineering,Alexia Tsotsis,Afternoon,CF274,CO110
+E65,Engineering Best Practices Presented by Lincoln Electric,User Interface Design,Amber Kay,Afternoon,CF260,CO133
+E66,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,User Interface Design,Brian Solis,Evening,CF148,CO74
+E67,Automation & Process Improvement with Bots Presented by Goldman Sachs,Full Stack,Jeff Clavier,Morning,CF6,CO27
+E68,Branching Out: GitHub and Core Skills for Contributing to Open Source,Human Computer Interaction,Ryan Holmes,Morning,CF151,CO111
+E69,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Mobile Applications,Paul Graham,Afternoon,CF174,CO13
+E70,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Information Management,Cyan Banister,Afternoon,CF146,CO33
+E71,Branching Out: GitHub and Core Skills for Contributing to Open Source,Machine Learning,Ben Horowitz,Evening,CF244,CO129
+E72,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Database Management,Cheryl Reynolds,Afternoon,CF113,CO117
+E73,Leading Machine Learning at Capital One Presented by Capital One,Mobile Applications,Adrian Cockcroft,Afternoon,CF177,CO18
+E74,Be Your Career CEO: Establishing your Board of Directors Sponsored by Goldman Sachs,Machine Learning,Cynthia Richards,Morning,CF161,CO46
+E75,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Cloud Computing,Christine Watts,Evening,CF3,CO85
+E76,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,User Interface Design,Jay Bregman,Evening,CF97,CO35
+E77,Dress For Success,User Experience Design,Mark Benioff,Morning,CF180,CO103
+E78,Big Data + Data Science = Big Value for Chevron,Computer Networks,Anna Connolly,Afternoon,CF247,CO100
+E79,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Information Management,Dick Costolo,Morning,CF206,CO48
+E80,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Database Management,Bernard Holt,Evening,CF206,CO49
+E81,Excellence in STEM Luncheon,Front End,Marissa Mayer,Evening,CF258,CO90
+E82,Cyber Security Challenge,Voice Technology,David Carr,Afternoon,CF250,CO64
+E83,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,User Interface Design,Linda Knight,Evening,CF294,CO79
+E84,Keeping Them Flying Safely: Airline Maintenance Engineering Presented by American Airlines,Automation,Kristian Segerstrale,Morning,CF279,CO45
+E85,Designing with Intent: The Value of Culture,Front End,Kevin Rose,Morning,CF49,CO68
+E86,Entrepreneurship: Funding Your Business Idea,Information Technology,Kate Matsudaira,Morning,CF294,CO31
+E87,Microservice Architecture: Orchestration to Reactive Approach,User Interface Design,David Sacks,Evening,CF106,CO105
+E88,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Information Technology,Chamath Palihapitiya,Afternoon,CF76,CO149
+E89,3D Audio for XR (Virtual and Augmented Reality) Presented by Qualcomm,Database Management,Drew Houston,Evening,CF241,CO81
+E90,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Computer Engineering,Shervin Pishevar,Evening,CF236,CO150
+E91,Leadership Begins With Me Sponsored by General Dynamics,Systems Analysis,Chamath Palihapitiya,Morning,CF194,CO21
+E92,Innovation Challenge Career Fair,Front End,Matthew Prince,Evening,CF125,CO119
+E93,Build With Us: IoT to Keep Your Plants Alive!,Web Applications,Virginia Montgomery,Morning,CF39,CO13
+E94,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Full Stack,Steve Blank,Morning,CF268,CO100
+E95,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Systems Analysis,Werner Vogels,Morning,CF185,CO107
+E96,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Systems Engineering,Mikkel Svane,Afternoon,CF13,CO131
+E97,3D Audio for XR (Virtual and Augmented Reality) Presented by Qualcomm,Cyber Security,Niklas Zennstrom,Afternoon,CF178,CO119
+E98,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Computer Engineering,Katia Beauchamp,Morning,CF95,CO13
+E99,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Database Management,Valerie Klein,Afternoon,CF9,CO112
+E100,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Cloud Computing,Elon Musk,Afternoon,CF1,CO21
+E101,CC: Rapid Change - Dream Big,Back End,Meg Whitman,Morning,CF127,CO12
+E102,Convention Readiness Session Sponsored by Chevron,Web Development,Mark Suster,Evening,CF193,CO66
+E103,Create Your Optimum State of InnerFitness®,Automation,Porter Gale,Afternoon,CF154,CO112
+E104,Innovation Challenge Career Fair,Information Management,Cyan Banister,Afternoon,CF198,CO49
+E105,Innovation Challenge Career Fair,Internet of Things,Ben Rooney,Afternoon,CF99,CO91
+E106,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Computer Engineering,Dick Costolo,Morning,CF44,CO49
+E107,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,User Experience Design,Jay Bregman,Morning,CF221,CO73
+E108,Enhance AI Data Platform with Accelerated Storage,Full Stack,Julie Parks,Afternoon,CF38,CO9
+E109,Building Blocks of Security As A Service,Systems Engineering,Jeremy Stoppleman,Afternoon,CF244,CO145
+E110,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Quantum Computing,Elon Musk,Morning,CF289,CO87
+E111,CC: Rapid Change - Marketing and Retention,Quantum Computing,Valerie Bailey,Evening,CF192,CO81
+E112,Building Bridges Presented by Cummins Inc.,User Experience Design,Cyan Banister,Evening,CF236,CO143
+E113,Own Your Career: Practical Tips to Accelerate Success Presented by United Technologies Corporation,Voice Technology,Christine Campos,Afternoon,CF19,CO93
+E114,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Robotics,Steve Blank,Morning,CF259,CO143
+E115,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Front End,Patrick Lee,Evening,CF220,CO73
+E116,Big Data + Data Science = Big Value for Chevron,Data Science,Gina Bianchini,Afternoon,CF204,CO8
+E117,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Cyber Security,Ray Hicks,Evening,CF151,CO70
+E118,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Cyber Security,Anna Connolly,Afternoon,CF69,CO24
+E119,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Internet of Things,Gary Vaynerchuk,Afternoon,CF221,CO34
+E120,Post-Doc: Why and How to Get it Funded - Graduate Careers A,User Experience Design,Eric Schmidt,Afternoon,CF178,CO8
+E121,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Artificial Intelligence,Jeff Weiner,Morning,CF117,CO92
+E122,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Front End,Tony Conrad,Afternoon,CF77,CO120
+E123,Own Your Career: Practical Tips to Accelerate Success Presented by United Technologies Corporation,Front End,Albert Castro,Morning,CF21,CO26
+E124,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Cyber Security,Carlos Lopez,Evening,CF271,CO38
+E125,Microservice Architecture: Orchestration to Reactive Approach,Machine Learning,Peter Thiel,Morning,CF38,CO33
+E126,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Front End,Gina Bianchini,Afternoon,CF157,CO42
+E127,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Web Development,David Rowan,Evening,CF284,CO41
+E128,Engineering Best Practices Presented by Lincoln Electric,Cloud Computing,Caroline Hyde,Afternoon,CF155,CO25
+E129,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Web Applications,Tara Roman,Afternoon,CF44,CO79
+E130,Careers at Chevron Presented by Chevron,Biocomputation,Lew Cirne,Morning,CF133,CO106
+E131,Designing Data Visuals That Sparkle: Building Insight You Can See,Information Technology,Jack Dorsey,Morning,CF29,CO25
+E132,Designing with Intent: The Value of Culture,Cyber Security,Virginia Montgomery,Afternoon,CF138,CO14
+E133,Leadership Begins With Me Sponsored by General Dynamics,Information Management,Marissa Mayer,Evening,CF159,CO67
+E134,Excellence in STEM Luncheon,Human Computer Interaction,Dennis Crowley,Morning,CF63,CO44
+E135,Branching Out: GitHub and Core Skills for Contributing to Open Source,Database Management,Adrian Cockcroft,Morning,CF105,CO119
+E136,Project to Product Leadership: Where to Begin,Back End,Katia Beauchamp,Morning,CF290,CO37
+E137,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Voice Technology,Eric Ries,Morning,CF214,CO36
+E138,Designing with Intent: The Value of Culture,Cloud Computing,Carlos Lopez,Afternoon,CF87,CO137
+E139,Convention Readiness Session Sponsored by Chevron,Web Applications,Jack Dorsey,Morning,CF192,CO59
+E140,Careers at Chevron Presented by Chevron,Artificial Intelligence,Dick Costolo,Evening,CF41,CO33
+E141,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Front End,Anita Johnson,Morning,CF285,CO32
+E142,Careers at Chevron Presented by Chevron,User Experience Design,Linda Knight,Afternoon,CF167,CO104
+E143,Project to Product Leadership: Where to Begin,Systems Analysis,Sarah Newman,Morning,CF48,CO109
+E144,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Human Computer Interaction,Albert Castro,Morning,CF132,CO118
+E145,Let's Talk about Quantum Presented by General Dynamics,Front End,Joshua Reeves,Evening,CF120,CO82
+E146,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,User Experience Design,Mark Suster,Afternoon,CF183,CO130
+E147,Build With Us: IoT to Keep Your Plants Alive!,Information Technology,Sarah Newman,Morning,CF199,CO114
+E148,Big Data + Data Science = Big Value for Chevron,Computer Engineering,Charles Huang,Evening,CF221,CO51
+E149,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Computer Engineering,Ashwin Navin,Evening,CF300,CO84
+E150,Design Thinking: The Intersection of APIs and Feeds,Cyber Security,Martin Bryant,Evening,CF270,CO35
+E151,Empowering Innovation Presented by Exelon,Data Mining,Steve Blank,Morning,CF64,CO62
+E152,Automation & Process Improvement with Bots Presented by Goldman Sachs,Web Development,Bing Gordon,Afternoon,CF161,CO90
+E153,How Emotional Intelligence Influences Your Career Presented by John Deere,Systems Engineering,Elaine Hubbard,Evening,CF135,CO149
+E154,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,Web Applications,Carolyn Palmer,Evening,CF196,CO146
+E155,Bill.com's Excellent Adventure into Machine Learning,Information Management,Adam Braun,Evening,CF263,CO142
+E156,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Web Development,Sam Shank,Morning,CF187,CO38
+E157,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Web Development,Christy Wyatt,Evening,CF13,CO43
+E158,Cyber Security Challenge,Cryptography,Brenda Phelps,Afternoon,CF243,CO102
+E159,More Than A Label Presented by J.P. Morgan Chase & Co.,Database Management,Patrick Lee,Morning,CF32,CO8
+E160,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Software Engineering,John Donahoe,Afternoon,CF119,CO97
+E161,Innovation Challenge Career Fair,Full Stack,Mike Butcher,Afternoon,CF36,CO126
+E162,Entrepreneurship: Funding Your Business Idea,Information Technology,Bing Gordon,Morning,CF109,CO118
+E163,Let's Talk about Quantum Presented by General Dynamics,Front End,Mario Clark,Afternoon,CF255,CO135
+E164,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Mobile Applications,Michael Sippey,Evening,CF123,CO124
+E165,Engineer to Leader Presented by Air Products,Systems Engineering,Hazel Santiago,Morning,CF114,CO96
+E166,Amazon and the Future of Accessible Technology,Automation,Ruth Scott,Afternoon,CF255,CO123
+E167,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Data Science,Geoff Keighley,Evening,CF187,CO78
+E168,Lockheed Martin Resume Room,Front End,Kate Matsudaira,Evening,CF14,CO63
+E169,Convention Readiness Session Sponsored by Chevron,Cyber Security,Rose Mcguire,Evening,CF111,CO134
+E170,Let's Talk about Quantum Presented by General Dynamics,Information Management,Tim Cook,Afternoon,CF282,CO23
+E171,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Cryptography,Kara Swisher,Afternoon,CF24,CO58
+E172,Lockheed Martin Resume Room,Internet of Things,Marc Andreesen,Afternoon,CF96,CO29
+E173,Lockheed Martin Resume Room,Cloud Computing,Rose Mcguire,Afternoon,CF242,CO76
+E174,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Front End,Dennis Crowley,Morning,CF90,CO20
+E175,Creating an Inclusive Code Review Culture,Cloud Computing,Ashton Kutcher,Morning,CF251,CO10
+E176,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Systems Engineering,Jeremiah Owyang,Morning,CF46,CO54
+E177,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Artificial Intelligence,Jeff Weiner,Evening,CF194,CO75
+E178,Clash of the Codes - Making Software Code out of Legal Code,Voice Technology,Yves Behar,Afternoon,CF56,CO120
+E179,Deep Learning for Metastatic Cancer Detection,Front End,Jay Bregman,Afternoon,CF160,CO32
+E180,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Internet of Things,Dick Costolo,Evening,CF217,CO121
+E181,Create Your Optimum State of InnerFitness®,Cloud Computing,Bruce Austin,Afternoon,CF299,CO104
+E182,Entrepreneurship: Funding Your Business Idea,Computer Engineering,Michael Acton Smith,Evening,CF145,CO93
+E183,Entrepreneurship: How To Get Into An Accelerator,User Experience Design,Albert Castro,Afternoon,CF137,CO62
+E184,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Cryptography,Brenda Phelps,Afternoon,CF204,CO140
+E185,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Back End,Gina Bianchini,Evening,CF82,CO55
+E186,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Systems Engineering,Tony Conrad,Morning,CF36,CO124
+E187,3D Audio for XR (Virtual and Augmented Reality) Presented by Qualcomm,Back End,Jimmy Maymann,Evening,CF49,CO82
+E188,Keeping Them Flying Safely: Airline Maintenance Engineering Presented by American Airlines,Mobile Applications,Michael Jackson,Evening,CF91,CO119
+E189,FarmBeats: AI and IoT for Agriculture,Full Stack,Steve Blank,Morning,CF79,CO91
+E190,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Software Engineering,Peter Fredell,Afternoon,CF22,CO58
+E191,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Data Science,Kate Matsudaira,Evening,CF272,CO107
+E192,Professional Evolution: How to Accelerate Your Growth and Success Presented by Accenture,Internet of Things,Peter Thiel,Morning,CF288,CO99
+E193,Automation & Process Improvement with Bots Presented by Goldman Sachs,Computer Networks,Marc Andreesen,Evening,CF278,CO89
+E194,Creating an Inclusive Code Review Culture,Cryptography,David Carr,Evening,CF118,CO103
+E195,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Database Management,Valerie Klein,Afternoon,CF269,CO135
+E196,Leaving the Equations Behind & Career Moves into Nontechnical Fields Presented by Bechtel,Cryptography,Steven Grant,Morning,CF118,CO26
+E197,Pathways to Google Panel Presented by Google,Cloud Computing,Mark Cuban,Evening,CF42,CO3
+E198,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Artificial Intelligence,Bing Gordon,Morning,CF293,CO58
+E199,Enhance AI Data Platform with Accelerated Storage,User Interface Design,Gina Bianchini,Morning,CF177,CO134
+E200,Branching Out: GitHub and Core Skills for Contributing to Open Source,Systems Analysis,Mark Cuban,Morning,CF207,CO122
+E201,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Cyber Security,Caroline Hyde,Evening,CF212,CO68
+E202,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Automation,Dick Costolo,Evening,CF298,CO15
+E203,Empowering Your Digital Universe (Western Digital),Software Engineering,Ben Rooney,Evening,CF179,CO29
+E204,Entrepreneurship: How To Get Into An Accelerator,Systems Engineering,Glenn Fogel,Afternoon,CF300,CO45
+E205,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Information Technology,Christine Watts,Morning,CF95,CO42
+E206,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Data Mining,Sarah Newman,Evening,CF66,CO126
+E207,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Artificial Intelligence,April Webb,Morning,CF274,CO130
+E208,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Information Management,Christy Wyatt,Afternoon,CF96,CO15
+E209,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Automation,Mike Butcher,Evening,CF96,CO72
+E210,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Artificial Intelligence,Karen Ortiz,Evening,CF210,CO54
+E211,Dress For Success,Web Development,Sam Shank,Morning,CF151,CO80
+E212,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Automation,Sarah Lacy,Morning,CF282,CO34
+E213,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,User Interface Design,Porter Gale,Evening,CF132,CO85
+E214,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Computer Engineering,David Karp,Morning,CF120,CO130
+E215,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Computer Engineering,Amber Kay,Afternoon,CF156,CO22
+E216,Design Thinking: The Intersection of APIs and Feeds,Data Mining,Valerie Klein,Afternoon,CF104,CO146
+E217,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Human Computer Interaction,Joshua Reeves,Evening,CF257,CO34
+E218,Enhance AI Data Platform with Accelerated Storage,Cryptography,Vijay Sankaran,Morning,CF265,CO100
+E219,CC: Rapid Change - Dream Big,Machine Learning,Jeff Clavier,Morning,CF190,CO2
+E220,CC: Rapid Change - Dream Big,Cyber Security,Adam Braun,Morning,CF203,CO46
+E221,Engineer to Leader Presented by Air Products,User Experience Design,Alexia Tsotsis,Afternoon,CF71,CO93
+E222,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Biocomputation,Eric Schmidt,Afternoon,CF42,CO122
+E223,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Mobile Applications,April Webb,Evening,CF75,CO48
+E224,Create Your Optimum State of InnerFitness®,User Interface Design,Dick Costolo,Morning,CF14,CO145
+E225,How To Become A Networking Guru Presented by Toyota,Database Management,Tara Roman,Morning,CF196,CO53
+E226,Automation & Process Improvement with Bots Presented by Goldman Sachs,Information Management,Valerie Klein,Morning,CF10,CO120
+E227,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Cloud Computing,Tim Armstrong,Evening,CF197,CO30
+E228,AI will change the world. Who will change AI?,Computer Engineering,John Smedley,Afternoon,CF91,CO95
+E229,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Internet of Things,Dick Costolo,Morning,CF149,CO78
+E230,Leading with Analytics Presented by Allstate Insurance Company,Voice Technology,Gary Vaynerchuk,Evening,CF31,CO113
+E231,Creating Meaningful Impact through Tech non-profits,Web Development,Eleanor Payne,Evening,CF91,CO136
+E232,Cyber Security Challenge,Cyber Security,Eric Ries,Evening,CF25,CO90
+E233,Excellence in STEM Luncheon,Systems Analysis,John Smedley,Evening,CF230,CO65
+E234,Bill.com's Excellent Adventure into Machine Learning,Web Development,David Sacks,Morning,CF180,CO125
+E235,Deep Learning for Metastatic Cancer Detection,User Experience Design,Joshua Reeves,Evening,CF229,CO118
+E236,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Cloud Computing,Porter Gale,Afternoon,CF52,CO124
+E237,CC: Rapid Change - Personal Roadmap Development,Database Management,Bruce Austin,Morning,CF123,CO134
+E238,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Artificial Intelligence,Kara Swisher,Morning,CF10,CO105
+E239,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Artificial Intelligence,Kara Swisher,Evening,CF46,CO14
+E240,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Human Computer Interaction,Dennis Crowley,Morning,CF166,CO59
+E241,More Than A Label Presented by J.P. Morgan Chase & Co.,Back End,Yves Behar,Evening,CF161,CO4
+E242,Career Fair & Graduate School Expo,Web Development,Mike Butcher,Evening,CF185,CO35
+E243,Cyber Security Challenge,Cloud Computing,Brendan Iribe,Afternoon,CF292,CO117
+E244,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Voice Technology,Mikkel Svane,Morning,CF211,CO92
+E245,Designing Data Visuals That Sparkle: Building Insight You Can See,Machine Learning,Dave McClure,Evening,CF219,CO30
+E246,Excellence in STEM Luncheon,Back End,Anna Connolly,Evening,CF102,CO147
+E247,Design It: Bring Forth the Innovation,Voice Technology,Ashton Kutcher,Afternoon,CF202,CO127
+E248,Pathways to Google Panel Presented by Google,User Experience Design,Elon Musk,Morning,CF278,CO61
+E249,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Quantum Computing,Elon Musk,Morning,CF225,CO71
+E250,Amazon and the Future of Accessible Technology,Information Technology,Valerie Bailey,Afternoon,CF184,CO132
+E251,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Biocomputation,Mikkel Svane,Morning,CF132,CO134
+E252,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Robotics,Carlos Lopez,Afternoon,CF257,CO104
+E253,Creating Meaningful Impact through Tech non-profits,Automation,Michael Jackson,Morning,CF98,CO74
+E254,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Quantum Computing,Dave McClure,Evening,CF207,CO50
+E255,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Web Development,Mark Benioff,Morning,CF291,CO137
+E256,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Web Applications,Jack Dorsey,Evening,CF119,CO126
+E257,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Systems Analysis,Vijay Sankaran,Afternoon,CF272,CO150
+E258,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Human Computer Interaction,Jonah Peretti,Morning,CF88,CO91
+E259,Careers at Chevron Presented by Chevron,Voice Technology,Julie Uhrman,Evening,CF67,CO81
+E260,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Computer Networks,Ben Rooney,Evening,CF220,CO71
+E261,Dress For Success,Systems Engineering,Adam Braun,Afternoon,CF156,CO25
+E262,Convention Readiness Session Sponsored by Chevron,Web Applications,Mark Cuban,Afternoon,CF52,CO28
+E263,Careers at Chevron Presented by Chevron,Mobile Applications,Satya Nadella,Afternoon,CF139,CO30
+E264,Leading Machine Learning at Capital One Presented by Capital One,Back End,Robert Scoble,Evening,CF47,CO33
+E265,Branching Out: GitHub and Core Skills for Contributing to Open Source,Voice Technology,Chamath Palihapitiya,Evening,CF23,CO79
+E266,Empowering Your Digital Universe (Western Digital),Systems Analysis,Sarah Lacy,Morning,CF157,CO87
+E267,Communication Is The Key to Project Management Presented by Turner Construction Company,Back End,Tony Hawk,Evening,CF9,CO145
+E268,Leading Machine Learning at Capital One Presented by Capital One,Voice Technology,Carlos Phillips,Evening,CF263,CO15
+E269,Careers at Chevron Presented by Chevron,Internet of Things,John Smedley,Afternoon,CF251,CO33
+E270,Engineering in Technical Sales Presented by Lincoln Electric,Cryptography,Amber Kay,Afternoon,CF142,CO92
+E271,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Machine Learning,Sandra Kennedy,Afternoon,CF203,CO2
+E272,Leading Machine Learning at Capital One Presented by Capital One,Cyber Security,Valerie Bailey,Afternoon,CF18,CO102
+E273,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,User Interface Design,Ethel Cummings,Afternoon,CF255,CO113
+E274,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Human Computer Interaction,Valerie Klein,Afternoon,CF27,CO36
+E275,Excellence in STEM Luncheon,Web Applications,Matt Mullenweg,Morning,CF128,CO148
+E276,Let's Talk about Quantum Presented by General Dynamics,Computer Engineering,Julie Parks,Morning,CF214,CO42
+E277,Leadership Begins With Me Sponsored by General Dynamics,Human Computer Interaction,Christy Wyatt,Evening,CF168,CO84
+E278,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Automation,Matthew Prince,Evening,CF178,CO75
+E279,Entrepreneurship: Funding Your Business Idea,User Experience Design,Ruth Scott,Evening,CF74,CO104
+E280,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,User Interface Design,Michael Sippey,Evening,CF67,CO109
+E281,Leading with Analytics Presented by Allstate Insurance Company,Cyber Security,Lori Moss,Afternoon,CF272,CO1
+E282,IoT Data processing with MQTT & Kafka & AI/ML,Software Engineering,Mike Butcher,Evening,CF224,CO7
+E283,Amazon and the Future of Accessible Technology,Automation,Steven Green,Evening,CF10,CO133
+E284,Big Data + Data Science = Big Value for Chevron,Cyber Security,Bernard Holt,Evening,CF192,CO71
+E285,Empowering Innovation Presented by Exelon,Mobile Applications,Meg Whitman,Morning,CF193,CO109
+E286,Building a (Better) Open Source Community,Robotics,Alexia Tsotsis,Morning,CF179,CO58
+E287,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Quantum Computing,Mike Butcher,Morning,CF201,CO19
+E288,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Human Computer Interaction,Mark Benioff,Evening,CF1,CO25
+E289,Designing Data Visuals That Sparkle: Building Insight You Can See,Internet of Things,Sandra Kennedy,Morning,CF195,CO46
+E290,CC: Rapid Change - Marketing and Retention,Cyber Security,Patrick Collison,Morning,CF14,CO120
+E291,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Robotics,Michael Sippey,Evening,CF55,CO138
+E292,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Internet of Things,Chamath Palihapitiya,Morning,CF92,CO128
+E293,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Information Management,Peter Arvai,Evening,CF146,CO109
+E294,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Full Stack,Mark Zuckerberg,Evening,CF274,CO79
+E295,Automation & Process Improvement with Bots Presented by Goldman Sachs,User Interface Design,Scott Belsky,Evening,CF75,CO96
+E296,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Mobile Applications,Mark Suster,Morning,CF275,CO77
+E297,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Web Applications,Linda Knight,Morning,CF142,CO34
+E298,Amazon and the Future of Accessible Technology,User Experience Design,Peter Arvai,Morning,CF140,CO118
+E299,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Machine Learning,Vijay Sankaran,Evening,CF166,CO144
+E300,Empowering Your Digital Universe (Western Digital),Mobile Applications,Christopher Hart,Afternoon,CF158,CO87
+E301,Designing Data Visuals That Sparkle: Building Insight You Can See,Systems Engineering,Lori Moss,Afternoon,CF11,CO42
+E302,Leading Machine Learning at Capital One Presented by Capital One,Robotics,Rebecca Francis,Afternoon,CF191,CO88
+E303,Faculty Development Symposium: Welcome Remarks,User Experience Design,Padmasree Warrior,Morning,CF236,CO115
+E304,A Hitchhiker's Guide to the Open-Source Space,Voice Technology,Ruth Scott,Morning,CF286,CO82
+E305,Automation & Process Improvement with Bots Presented by Goldman Sachs,User Interface Design,Meg Whitman,Afternoon,CF29,CO148
+E306,Empowering Innovation Presented by Exelon,Machine Learning,Meg Whitman,Afternoon,CF89,CO70
+E307,Leading with Analytics Presented by Allstate Insurance Company,Internet of Things,Eric Schmidt,Afternoon,CF81,CO116
+E308,Innovation Challenge Career Fair,Database Management,Pamela Mendez,Evening,CF110,CO145
+E309,Innovation Challenge Career Fair,Automation,Julie Parks,Morning,CF225,CO16
+E310,Creating an Inclusive Code Review Culture,Data Science,Geoff Keighley,Morning,CF121,CO91
+E311,Leading Machine Learning at Capital One Presented by Capital One,Systems Analysis,Jack Dorsey,Morning,CF146,CO58
+E312,Design Thinking: The Intersection of APIs and Feeds,Cyber Security,Stephen Master,Evening,CF237,CO54
+E313,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,User Interface Design,Adrian Cockcroft,Afternoon,CF156,CO48
+E314,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Front End,Sam Shank,Evening,CF252,CO2
+E315,AI will change the world. Who will change AI?,Software Engineering,Aaron Levie,Afternoon,CF300,CO61
+E316,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Data Science,Joshua Reeves,Evening,CF266,CO127
+E317,Automation & Process Improvement with Bots Presented by Goldman Sachs,Information Technology,Marc Andreesen,Evening,CF270,CO110
+E318,Big Data + Data Science = Big Value for Chevron,Web Development,Wanda Nunez,Evening,CF82,CO89
+E319,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Systems Analysis,Mark Suster,Morning,CF174,CO113
+E320,Branching Out: GitHub and Core Skills for Contributing to Open Source,Full Stack,Christine Kelley,Evening,CF133,CO78
+E321,Engineering Best Practices Presented by Lincoln Electric,Web Applications,Chamath Palihapitiya,Evening,CF15,CO80
+E322,CC: Rapid Change - Personal Roadmap Development,Quantum Computing,Rebecca Francis,Morning,CF113,CO57
+E323,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Cyber Security,Adrian Cockcroft,Morning,CF144,CO32
+E324,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Artificial Intelligence,Steven Grant,Afternoon,CF13,CO129
+E325,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Voice Technology,Dave McClure,Afternoon,CF220,CO43
+E326,Best Practices in Critique: How HCI Professionals Can Improve the Culture for Women in Tech,Back End,Mark Cuban,Afternoon,CF52,CO48
+E327,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Information Management,Mark Suster,Morning,CF53,CO136
+E328,Bill.com's Excellent Adventure into Machine Learning,Software Engineering,Niklas Zennstrom,Evening,CF242,CO116
+E329,Best Practices in Critique: How HCI Professionals Can Improve the Culture for Women in Tech,User Interface Design,Werner Vogels,Afternoon,CF290,CO63
+E330,CC: Rapid Change - Marketing and Retention,Database Management,Cynthia Richards,Evening,CF129,CO34
+E331,Faculty Development Symposium: Welcome Remarks,Quantum Computing,John Smedley,Morning,CF18,CO4
+E332,CC: Rapid Change - Personal Roadmap Development,Information Management,Vijay Sankaran,Evening,CF77,CO147
+E333,Dress For Success,User Experience Design,Wanda Nunez,Afternoon,CF287,CO117
+E334,Excellence in STEM Luncheon,Information Management,Peter Thiel,Morning,CF100,CO129
+E335,Career Fair & Graduate School Expo,Computer Engineering,Cheryl Reynolds,Afternoon,CF252,CO143
+E336,Careers at Chevron Presented by Chevron,Cloud Computing,Stephen Master,Afternoon,CF183,CO126
+E337,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Information Management,Albert Castro,Evening,CF71,CO50
+E338,More Than A Label Presented by J.P. Morgan Chase & Co.,Front End,Brenda Phelps,Afternoon,CF242,CO51
+E339,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Web Development,David Karp,Morning,CF208,CO140
+E340,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Robotics,Pat Gelsinger,Afternoon,CF39,CO138
+E341,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Data Mining,Gentry Underwood,Morning,CF34,CO63
+E342,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Mobile Applications,Virginia Montgomery,Afternoon,CF93,CO34
+E343,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Cyber Security,April Webb,Morning,CF116,CO110
+E344,Clash of the Codes - Making Software Code out of Legal Code,Information Management,Jon Oringer,Evening,CF85,CO114
+E345,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Quantum Computing,Yves Behar,Morning,CF259,CO13
+E346,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Information Management,Keith Teare,Evening,CF277,CO150
+E347,Let's Talk about Quantum Presented by General Dynamics,Quantum Computing,Shervin Pishevar,Afternoon,CF273,CO28
+E348,Project to Product Leadership: Where to Begin,Robotics,Bing Gordon,Afternoon,CF252,CO119
+E349,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Cloud Computing,Brenda Phelps,Morning,CF77,CO64
+E350,Enhance AI Data Platform with Accelerated Storage,Data Mining,Mikkel Svane,Morning,CF4,CO121
+E351,CC: Rapid Change - Dream Big,Quantum Computing,Porter Gale,Evening,CF116,CO53
+E352,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Database Management,Naval Ravikant,Morning,CF69,CO42
+E353,Convention Readiness Session Sponsored by Chevron,Computer Networks,Mikkel Svane,Evening,CF95,CO5
+E354,CC: Rapid Change - Personal Roadmap Development,Web Applications,Anna Connolly,Evening,CF274,CO110
+E355,Entrepreneurship: Funding Your Business Idea,Machine Learning,Albert Castro,Morning,CF74,CO114
+E356,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Human Computer Interaction,David Karp,Evening,CF204,CO99
+E357,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Cyber Security,Peter Arvai,Morning,CF150,CO123
+E358,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,User Experience Design,Carlos Lopez,Morning,CF81,CO133
+E359,Pathways to Google Panel Presented by Google,Human Computer Interaction,Richard Branson,Evening,CF280,CO14
+E360,Design Thinking: The Intersection of APIs and Feeds,Human Computer Interaction,Jimmy Maymann,Morning,CF9,CO130
+E361,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Internet of Things,Tony Hawk,Evening,CF169,CO146
+E362,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Mobile Applications,Mike Butcher,Evening,CF16,CO11
+E363,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Internet of Things,Jennifer Hyman,Afternoon,CF203,CO3
+E364,Building Blocks of Security As A Service,Mobile Applications,Carlos Lopez,Afternoon,CF77,CO48
+E365,Convention Readiness Session Sponsored by Chevron,Machine Learning,Tim Armstrong,Morning,CF275,CO112
+E366,Enhance AI Data Platform with Accelerated Storage,Systems Analysis,Werner Vogels,Evening,CF128,CO142
+E367,Dress For Success,Voice Technology,Peter Arvai,Afternoon,CF23,CO38
+E368,Communication Is The Key to Project Management Presented by Turner Construction Company,User Experience Design,Martin Bryant,Evening,CF6,CO111
+E369,Big Data + Data Science = Big Value for Chevron,Cyber Security,Albert Castro,Morning,CF58,CO42
+E370,Empowering Innovation Presented by Exelon,Voice Technology,Julie Uhrman,Afternoon,CF271,CO109
+E371,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,User Interface Design,Sarah Lacy,Morning,CF148,CO150
+E372,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Data Mining,Eric Ries,Afternoon,CF257,CO146
+E373,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Systems Analysis,John Smedley,Afternoon,CF85,CO120
+E374,Empowering Your Digital Universe (Western Digital),Machine Learning,Ashton Kutcher,Evening,CF150,CO14
+E375,Microservice Architecture: Orchestration to Reactive Approach,Web Applications,Tim Cook,Morning,CF161,CO42
+E376,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Data Science,Christine Campos,Evening,CF239,CO71
+E377,Big Data + Data Science = Big Value for Chevron,Front End,Alexia Tsotsis,Morning,CF46,CO115
+E378,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Internet of Things,Drew Houston,Evening,CF247,CO101
+E379,Own Your Career: Practical Tips to Accelerate Success Presented by United Technologies Corporation,Systems Engineering,Werner Vogels,Evening,CF48,CO130
+E380,How Emotional Intelligence Influences Your Career Presented by John Deere,User Interface Design,Tony Hawk,Afternoon,CF146,CO24
+E381,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Biocomputation,Valerie Bailey,Evening,CF43,CO126
+E382,Communication Is The Key to Project Management Presented by Turner Construction Company,Data Science,Brenda Phelps,Afternoon,CF101,CO36
+E383,A Hitchhiker's Guide to the Open-Source Space,Information Technology,Marissa Mayer,Evening,CF27,CO128
+E384,Microservice Architecture: Orchestration to Reactive Approach,Information Management,Dennis Crowley,Morning,CF48,CO105
+E385,AI will change the world. Who will change AI?,Cryptography,Adrian Cockcroft,Evening,CF168,CO124
+E386,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Automation,Valerie Klein,Evening,CF55,CO109
+E387,Leading Machine Learning at Capital One Presented by Capital One,Cryptography,Gentry Underwood,Morning,CF197,CO145
+E388,CC: Rapid Change - Marketing and Retention,Voice Technology,Adam Braun,Evening,CF10,CO84
+E389,Big Data + Data Science = Big Value for Chevron,Software Engineering,Adam Braun,Morning,CF231,CO123
+E390,Leading Machine Learning at Capital One Presented by Capital One,Human Computer Interaction,Ashwin Navin,Afternoon,CF100,CO61
+E391,Design Thinking: The Intersection of APIs and Feeds,Back End,David Sacks,Afternoon,CF67,CO47
+E392,Best Practices in Critique: How HCI Professionals Can Improve the Culture for Women in Tech,Internet of Things,Marie Watts,Morning,CF274,CO48
+E393,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Web Development,Kevin Rose,Evening,CF40,CO50
+E394,Career Fair & Graduate School Expo,Web Development,Michael Sippey,Morning,CF283,CO6
+E395,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Artificial Intelligence,Jimmy Maymann,Evening,CF234,CO2
+E396,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Cloud Computing,Keith Teare,Evening,CF39,CO9
+E397,Best Practices in Critique: How HCI Professionals Can Improve the Culture for Women in Tech,Back End,Valerie Bailey,Morning,CF132,CO16
+E398,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Information Management,Tim Cook,Evening,CF54,CO115
+E399,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Information Management,Cynthia Richards,Morning,CF138,CO147
+E400,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Quantum Computing,Christine Kelley,Evening,CF34,CO128
+E401,Build With Us: IoT to Keep Your Plants Alive!,Cyber Security,Christine Kelley,Evening,CF214,CO118
+E402,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Cyber Security,Peter Fredell,Afternoon,CF282,CO5
+E403,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Biocomputation,Christopher Hart,Evening,CF277,CO132
+E404,Engineering in Technical Sales Presented by Lincoln Electric,Voice Technology,David Karp,Evening,CF46,CO102
+E405,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Human Computer Interaction,Michael Jackson,Evening,CF166,CO124
+E406,Pathways to Google Panel Presented by Google,Internet of Things,Steven Green,Morning,CF39,CO131
+E407,CC: Rapid Change - Personal Roadmap Development,Cloud Computing,Tara Roman,Afternoon,CF291,CO126
+E408,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Human Computer Interaction,Martha Lawson,Afternoon,CF66,CO42
+E409,Professional Evolution: How to Accelerate Your Growth and Success Presented by Accenture,Data Mining,Lori Moss,Evening,CF110,CO28
+E410,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Computer Engineering,Meg Whitman,Afternoon,CF158,CO41
+E411,Creating an Inclusive Code Review Culture,Full Stack,Carolyn Palmer,Afternoon,CF245,CO90
+E412,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,User Experience Design,Sarah Lacy,Evening,CF264,CO116
+E413,Pathways to Google Panel Presented by Google,Web Development,Gentry Underwood,Afternoon,CF40,CO105
+E414,CC: Rapid Change - Dream Big,User Experience Design,Michael Jackson,Afternoon,CF99,CO83
+E415,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Web Development,Henry Cummings,Evening,CF251,CO19
+E416,Excellence in STEM Luncheon,Software Engineering,Cyan Banister,Evening,CF194,CO3
+E417,LGBTQ: Understanding the Scientific and Social Constructs of Gender,Machine Learning,Michael Sippey,Morning,CF184,CO32
+E418,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Information Management,Dorothy Khan,Morning,CF285,CO122
+E419,Leading Machine Learning at Capital One Presented by Capital One,Data Mining,Ryan Holmes,Afternoon,CF230,CO133
+E420,Project to Product Leadership: Where to Begin,Machine Learning,Sarah Lacy,Afternoon,CF99,CO15
+E421,Building Bridges Presented by Cummins Inc.,Cyber Security,Cynthia Klein,Morning,CF37,CO131
+E422,Innovation Challenge Career Fair,Internet of Things,Lori Moss,Evening,CF195,CO6
+E423,How Emotional Intelligence Influences Your Career Presented by John Deere,Full Stack,Dave McClure,Evening,CF183,CO40
+E424,Cyber Security Challenge,Software Engineering,Amber Kay,Afternoon,CF70,CO62
+E425,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Automation,Scott Belsky,Afternoon,CF71,CO18
+E426,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Information Technology,Sheryl Sandberg,Morning,CF12,CO61
+E427,Big Data + Data Science = Big Value for Chevron,Computer Networks,Patrick Collison,Afternoon,CF252,CO131
+E428,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Full Stack,Yves Behar,Evening,CF71,CO24
+E429,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Back End,Aaron Levie,Afternoon,CF29,CO42
+E430,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Computer Engineering,Rose Mcguire,Evening,CF178,CO111
+E431,Professional Evolution: How to Accelerate Your Growth and Success Presented by Accenture,Database Management,Ryan Holmes,Evening,CF159,CO107
+E432,CC: Rapid Change - Dream Big,Internet of Things,Elaine Hubbard,Afternoon,CF38,CO48
+E433,Automation & Process Improvement with Bots Presented by Goldman Sachs,Web Applications,Michael Jackson,Afternoon,CF57,CO133
+E434,More Than A Label Presented by J.P. Morgan Chase & Co.,Quantum Computing,David Karp,Afternoon,CF201,CO41
+E435,Deep Learning for Metastatic Cancer Detection,Voice Technology,Bing Gordon,Afternoon,CF164,CO65
+E436,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,User Interface Design,Vijay Sankaran,Afternoon,CF212,CO53
+E437,Amazon and the Future of Accessible Technology,Information Technology,Jack Dorsey,Afternoon,CF223,CO148
+E438,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Systems Analysis,Dick Costolo,Evening,CF209,CO34
+E439,Engineering in Technical Sales Presented by Lincoln Electric,Cryptography,Anna Connolly,Afternoon,CF299,CO24
+E440,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Data Mining,Christine Kelley,Afternoon,CF168,CO36
+E441,Designing with Intent: The Value of Culture,Data Mining,Ethel Cummings,Afternoon,CF32,CO23
+E442,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Front End,Mark Cuban,Morning,CF152,CO104
+E443,Building Bridges Presented by Cummins Inc.,Machine Learning,Lew Cirne,Afternoon,CF138,CO94
+E444,More Than A Label Presented by J.P. Morgan Chase & Co.,Voice Technology,Katia Beauchamp,Morning,CF152,CO77
+E445,Deep Learning for Metastatic Cancer Detection,Information Technology,David Rowan,Evening,CF229,CO2
+E446,3D Audio for XR (Virtual and Augmented Reality) Presented by Qualcomm,Systems Engineering,Sam Shank,Afternoon,CF298,CO140
+E447,Automation & Process Improvement with Bots Presented by Goldman Sachs,Computer Networks,Glenn Fogel,Morning,CF230,CO91
+E448,Faculty Development Symposium: Welcome Remarks,Database Management,Peter Arvai,Morning,CF20,CO83
+E449,Building a (Better) Open Source Community,Web Applications,Peter Fredell,Evening,CF269,CO54
+E450,Design It: Bring Forth the Innovation,Computer Networks,Matthew Prince,Morning,CF165,CO17
+E451,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Data Science,Scott Belsky,Morning,CF104,CO123
+E452,Project to Product Leadership: Where to Begin,Artificial Intelligence,Cynthia Klein,Evening,CF166,CO26
+E453,Pathways to Google Panel Presented by Google,Artificial Intelligence,Martin Bryant,Afternoon,CF171,CO38
+E454,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Back End,Ben Rooney,Evening,CF1,CO150
+E455,Designing with Intent: The Value of Culture,Information Technology,Stephen Master,Evening,CF112,CO130
+E456,Best Practices in Critique: How HCI Professionals Can Improve the Culture for Women in Tech,Biocomputation,Naval Ravikant,Morning,CF172,CO41
+E457,How Emotional Intelligence Influences Your Career Presented by John Deere,User Interface Design,Marie Watts,Evening,CF292,CO106
+E458,Creating Meaningful Impact through Tech non-profits,Software Engineering,Albert Castro,Morning,CF285,CO28
+E459,Enhance AI Data Platform with Accelerated Storage,Cloud Computing,Brenda Phelps,Evening,CF77,CO132
+E460,Designing with Intent: The Value of Culture,Full Stack,Steven Green,Evening,CF7,CO29
+E461,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Human Computer Interaction,Katia Beauchamp,Afternoon,CF107,CO117
+E462,Crush Your Coding Interview at Facebook Presented by Facebook,Software Engineering,Jon Oringer,Evening,CF227,CO128
+E463,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Information Technology,Ryan Holmes,Morning,CF72,CO132
+E464,CC: Rapid Change - Marketing and Retention,Systems Analysis,Sarah Lacy,Afternoon,CF277,CO134
+E465,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Database Management,Tony Conrad,Afternoon,CF157,CO41
+E466,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Information Management,Steven Grant,Evening,CF183,CO31
+E467,Building a (Better) Open Source Community,Voice Technology,Shervin Pishevar,Evening,CF20,CO7
+E468,Branching Out: GitHub and Core Skills for Contributing to Open Source,Data Science,Dorothy Khan,Afternoon,CF191,CO33
+E469,How Emotional Intelligence Influences Your Career Presented by John Deere,Data Science,Tony Hawk,Afternoon,CF6,CO35
+E470,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Automation,Gentry Underwood,Morning,CF108,CO142
+E471,Entrepreneurship: How To Get Into An Accelerator,Robotics,Martin Bryant,Morning,CF17,CO68
+E472,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Quantum Computing,Padmasree Warrior,Morning,CF93,CO122
+E473,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Human Computer Interaction,Jonah Peretti,Evening,CF129,CO3
+E474,AI will change the world. Who will change AI?,Database Management,Ray Hicks,Afternoon,CF26,CO83
+E475,FarmBeats: AI and IoT for Agriculture,Voice Technology,David Carr,Morning,CF8,CO133
+E476,Leaving the Equations Behind & Career Moves into Nontechnical Fields Presented by Bechtel,Systems Analysis,Eric Schmidt,Afternoon,CF186,CO64
+E477,Building Blocks of Security As A Service,Computer Networks,Gina Bianchini,Evening,CF119,CO103
+E478,Innovation Challenge Career Fair,Automation,Gina Mack,Morning,CF177,CO31
+E479,Let's Talk about Quantum Presented by General Dynamics,Cryptography,Jay Bregman,Morning,CF258,CO128
+E480,Post-Doc: Why and How to Get it Funded - Graduate Careers A,User Interface Design,Elon Musk,Afternoon,CF35,CO117
+E481,Create Your Optimum State of InnerFitness®,Machine Learning,Padmasree Warrior,Afternoon,CF75,CO134
+E482,Leaving the Equations Behind & Career Moves into Nontechnical Fields Presented by Bechtel,Data Mining,Porter Gale,Afternoon,CF78,CO80
+E483,Entrepreneurship: Funding Your Business Idea,Artificial Intelligence,Charles Huang,Afternoon,CF226,CO135
+E484,How To Become A Networking Guru Presented by Toyota,Information Management,Mike Butcher,Morning,CF240,CO12
+E485,Creating Meaningful Impact through Tech non-profits,Cloud Computing,Bernard Holt,Afternoon,CF118,CO78
+E486,Empowering Your Digital Universe (Western Digital),Database Management,Carolyn Palmer,Evening,CF5,CO99
+E487,Communication Is The Key to Project Management Presented by Turner Construction Company,Machine Learning,Kara Swisher,Evening,CF98,CO120
+E488,Innovation Challenge Career Fair,Database Management,Ashton Kutcher,Afternoon,CF198,CO145
+E489,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Voice Technology,Tara Roman,Morning,CF247,CO124
+E490,Design Thinking: The Intersection of APIs and Feeds,Web Development,Niklas Zennstrom,Morning,CF87,CO23
+E491,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Voice Technology,Gary Vaynerchuk,Evening,CF65,CO43
+E492,Excellence in STEM Luncheon,Back End,Lori Moss,Afternoon,CF112,CO67
+E493,Financing Your Graduate Education: Grants & Scholarships & and Fellowships - Undergraduate,Information Technology,Richard Branson,Afternoon,CF129,CO119
+E494,Be Your Career CEO: Establishing your Board of Directors Sponsored by Goldman Sachs,Systems Engineering,Cynthia Richards,Morning,CF55,CO118
+E495,More Than A Label Presented by J.P. Morgan Chase & Co.,Information Management,Rebecca Francis,Morning,CF241,CO50
+E496,Branching Out: GitHub and Core Skills for Contributing to Open Source,Data Science,Richard Scott,Morning,CF106,CO9
+E497,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Computer Engineering,Marissa Mayer,Evening,CF286,CO136
+E498,How Emotional Intelligence Influences Your Career Presented by John Deere,Data Science,Elon Musk,Evening,CF111,CO58
+E499,Designing with Intent: The Value of Culture,Machine Learning,Jon Oringer,Afternoon,CF56,CO40
+E500,Collaborative Robots for a Beautiful Supply Chain Presented by P&G,User Interface Design,Steve Blank,Evening,CF252,CO69
+E501,Innovation Challenge Career Fair,Web Applications,Peter Arvai,Evening,CF223,CO95
+E502,A Hitchhiker's Guide to the Open-Source Space,Machine Learning,Jimmy Maymann,Afternoon,CF90,CO2
+E503,Create Your Optimum State of InnerFitness®,Cryptography,Kara Swisher,Evening,CF170,CO6
+E504,Engineer to Leader Presented by Air Products,Computer Networks,Sarah Lacy,Afternoon,CF232,CO142
+E505,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Machine Learning,Kristian Segerstrale,Evening,CF211,CO45
+E506,Getting More for Less - Hardware Compression in Storage Systems,Information Management,Lori Moss,Morning,CF230,CO49
+E507,Empowering Innovation Presented by Exelon,Computer Networks,Jimmy Maymann,Morning,CF197,CO90
+E508,A Hitchhiker's Guide to the Open-Source Space,Information Technology,Eleanor Payne,Afternoon,CF173,CO120
+E509,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Information Technology,Valerie Klein,Morning,CF13,CO16
+E510,Branching Out: GitHub and Core Skills for Contributing to Open Source,Cloud Computing,Carolyn Palmer,Evening,CF293,CO137
+E511,Faculty Development Symposium: Welcome Remarks,Computer Networks,Amber Kay,Afternoon,CF233,CO25
+E512,Career Fair & Graduate School Expo,Biocomputation,Marc Andreesen,Evening,CF42,CO66
+E513,Keeping Them Flying Safely: Airline Maintenance Engineering Presented by American Airlines,Full Stack,Marissa Mayer,Morning,CF232,CO72
+E514,Crush Your Coding Interview at Facebook Presented by Facebook,Robotics,Pat Gelsinger,Afternoon,CF183,CO121
+E515,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Full Stack,Peter Thiel,Afternoon,CF221,CO107
+E516,Entrepreneurship: How To Get Into An Accelerator,Computer Networks,Steven Grant,Morning,CF179,CO100
+E517,Creating an Inclusive Code Review Culture,User Interface Design,Niklas Zennstrom,Afternoon,CF300,CO17
+E518,Creating Meaningful Impact through Tech non-profits,Data Science,Steven Grant,Morning,CF152,CO95
+E519,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Systems Analysis,Steven Grant,Morning,CF205,CO23
+E520,Automation & Process Improvement with Bots Presented by Goldman Sachs,User Interface Design,David Sacks,Afternoon,CF215,CO89
+E521,Leading with Analytics Presented by Allstate Insurance Company,Information Technology,Carlos Phillips,Afternoon,CF148,CO27
+E522,Action Steps for Change: Ways To Create A Diverse Workforce at Every Level,Systems Analysis,Mark Benioff,Morning,CF7,CO147
+E523,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Mobile Applications,Bing Gordon,Afternoon,CF156,CO138
+E524,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Information Management,April Webb,Afternoon,CF288,CO147
+E525,Big Data + Data Science = Big Value for Chevron,Machine Learning,Mike Butcher,Evening,CF30,CO119
+E526,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,User Experience Design,Anna Connolly,Morning,CF50,CO148
+E527,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Automation,Richard Scott,Evening,CF163,CO146
+E528,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Human Computer Interaction,Jennifer Hyman,Morning,CF178,CO14
+E529,Deep Learning for Metastatic Cancer Detection,Front End,Melanie Knight,Afternoon,CF272,CO86
+E530,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Biocomputation,Julie Uhrman,Morning,CF300,CO42
+E531,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Machine Learning,Mark Zuckerberg,Morning,CF129,CO51
+E532,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Systems Engineering,Elon Musk,Morning,CF98,CO50
+E533,LGBTQ: Understanding the Scientific and Social Constructs of Gender,Database Management,Gina Mack,Afternoon,CF99,CO135
+E534,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Systems Engineering,Satya Nadella,Evening,CF14,CO104
+E535,Faculty Development Symposium: Welcome Remarks,Data Science,Mikkel Svane,Afternoon,CF225,CO136
+E536,Professional Evolution: How to Accelerate Your Growth and Success Presented by Accenture,Mobile Applications,David Rowan,Morning,CF123,CO26
+E537,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Computer Networks,Melanie Knight,Evening,CF132,CO39
+E538,Project to Product Leadership: Where to Begin,Voice Technology,Mike Butcher,Evening,CF170,CO60
+E539,Designing with Intent: The Value of Culture,Automation,Linda Knight,Morning,CF160,CO131
+E540,Engineer to Leader Presented by Air Products,User Experience Design,Brendan Iribe,Afternoon,CF57,CO39
+E541,Bill.com's Excellent Adventure into Machine Learning,Information Management,Eleanor Payne,Evening,CF69,CO106
+E542,Building Blocks of Security As A Service,Biocomputation,Dave McClure,Morning,CF288,CO63
+E543,Designing Data Visuals That Sparkle: Building Insight You Can See,Full Stack,Dick Costolo,Evening,CF211,CO27
+E544,Pathways to Google Panel Presented by Google,User Interface Design,Hazel Santiago,Afternoon,CF142,CO94
+E545,Build With Us: IoT to Keep Your Plants Alive!,Human Computer Interaction,Marc Andreesen,Evening,CF205,CO68
+E546,Excellence in STEM Luncheon,Cyber Security,Tim Cook,Afternoon,CF226,CO99
+E547,Creating an Inclusive Code Review Culture,Information Management,Jeffrey Lu,Evening,CF94,CO128
+E548,Creating Meaningful Impact through Tech non-profits,Web Applications,Julie Parks,Afternoon,CF83,CO57
+E549,Designing Data Visuals That Sparkle: Building Insight You Can See,Full Stack,Martin Bryant,Morning,CF230,CO140
+E550,More Than A Label Presented by J.P. Morgan Chase & Co.,Artificial Intelligence,Mark Zuckerberg,Afternoon,CF245,CO132
+E551,How Emotional Intelligence Influences Your Career Presented by John Deere,Artificial Intelligence,Eleanor Payne,Afternoon,CF269,CO145
+E552,Communication Is The Key to Project Management Presented by Turner Construction Company,Software Engineering,Kara Swisher,Evening,CF236,CO59
+E553,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,Robotics,Keith Teare,Morning,CF231,CO150
+E554,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Database Management,Peter Arvai,Evening,CF248,CO47
+E555,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Full Stack,Steve Blank,Morning,CF133,CO122
+E556,Action Steps for Change: Ways To Create A Diverse Workforce at Every Level,Computer Networks,Padmasree Warrior,Afternoon,CF174,CO116
+E557,Bill.com's Excellent Adventure into Machine Learning,Full Stack,Jeremiah Owyang,Afternoon,CF175,CO16
+E558,Building Bridges Presented by Cummins Inc.,Web Development,Henry Cummings,Afternoon,CF31,CO112
+E559,Design Thinking: The Intersection of APIs and Feeds,Database Management,Anna Connolly,Afternoon,CF216,CO45
+E560,More Than A Label Presented by J.P. Morgan Chase & Co.,Systems Analysis,John Smedley,Afternoon,CF145,CO27
+E561,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Internet of Things,Adeo Ressi,Morning,CF255,CO79
+E562,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Cloud Computing,Aaron Levie,Morning,CF100,CO54
+E563,How Emotional Intelligence Influences Your Career Presented by John Deere,Back End,Carlos Lopez,Morning,CF4,CO131
+E564,Communication Is The Key to Project Management Presented by Turner Construction Company,Systems Analysis,Gary Vaynerchuk,Evening,CF172,CO38
+E565,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Voice Technology,Karen Ortiz,Morning,CF23,CO3
+E566,Empowering Innovation Presented by Exelon,Software Engineering,Brian Solis,Afternoon,CF253,CO100
+E567,Innovation Challenge Career Fair,Data Mining,Peter Fredell,Morning,CF146,CO48
+E568,Building Bridges Presented by Cummins Inc.,Automation,Ben Horowitz,Afternoon,CF59,CO104
+E569,Faculty Development Symposium: Welcome Remarks,Data Mining,Rose Mcguire,Morning,CF44,CO75
+E570,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Biocomputation,Jon Oringer,Evening,CF116,CO31
+E571,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,Front End,Richard Scott,Evening,CF219,CO42
+E572,Automation & Process Improvement with Bots Presented by Goldman Sachs,Artificial Intelligence,David Carr,Morning,CF23,CO132
+E573,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Artificial Intelligence,Tara Roman,Evening,CF247,CO94
+E574,A Hitchhiker's Guide to the Open-Source Space,Software Engineering,Gary Vaynerchuk,Morning,CF189,CO1
+E575,Pathways to Google Panel Presented by Google,Human Computer Interaction,Mikkel Svane,Afternoon,CF58,CO66
+E576,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Voice Technology,Adam Braun,Morning,CF241,CO133
+E577,Collaborative Robots for a Beautiful Supply Chain Presented by P&G,User Interface Design,David Carr,Afternoon,CF44,CO57
+E578,Financing Your Graduate Education: Grants & Scholarships & and Fellowships - Undergraduate,Human Computer Interaction,Jeff Weiner,Evening,CF237,CO125
+E579,Branching Out: GitHub and Core Skills for Contributing to Open Source,Systems Engineering,Mario Clark,Afternoon,CF179,CO82
+E580,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Quantum Computing,Ben Rooney,Afternoon,CF89,CO57
+E581,FarmBeats: AI and IoT for Agriculture,Web Applications,Gina Mack,Evening,CF262,CO143
+E582,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Robotics,Porter Gale,Evening,CF49,CO119
+E583,Engineering Best Practices Presented by Lincoln Electric,Cryptography,David Karp,Evening,CF148,CO132
+E584,FarmBeats: AI and IoT for Agriculture,Full Stack,Carlos Lopez,Evening,CF29,CO121
+E585,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Mobile Applications,Richard Branson,Afternoon,CF102,CO98
+E586,Be Your Career CEO: Establishing your Board of Directors Sponsored by Goldman Sachs,Internet of Things,Martin Bryant,Morning,CF122,CO132
+E587,Building Blocks of Security As A Service,Automation,Elon Musk,Evening,CF171,CO110
+E588,Engineering Best Practices Presented by Lincoln Electric,Information Management,David Sacks,Afternoon,CF149,CO115
+E589,Designing with Intent: The Value of Culture,Cyber Security,Valerie Klein,Evening,CF110,CO81
+E590,Creating Meaningful Impact through Tech non-profits,Human Computer Interaction,Ashwin Navin,Morning,CF260,CO52
+E591,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Back End,Christy Wyatt,Afternoon,CF118,CO9
+E592,Leading Machine Learning at Capital One Presented by Capital One,Cloud Computing,Dick Costolo,Afternoon,CF265,CO75
+E593,Creating an Inclusive Code Review Culture,Systems Analysis,Katia Beauchamp,Morning,CF33,CO8
+E594,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Back End,Jonah Peretti,Afternoon,CF99,CO29
+E595,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Computer Engineering,Eric Ries,Afternoon,CF198,CO55
+E596,Branching Out: GitHub and Core Skills for Contributing to Open Source,Web Development,Peter Fredell,Evening,CF258,CO135
+E597,Lockheed Martin Resume Room,Database Management,Sandra Kennedy,Evening,CF2,CO128
+E598,Convention Readiness Session Sponsored by Chevron,User Experience Design,John Smedley,Evening,CF291,CO10
+E599,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Machine Learning,Michael Acton Smith,Evening,CF50,CO62
+E600,Faculty Development Symposium: Welcome Remarks,Data Science,Christopher Hart,Afternoon,CF286,CO74
+E601,Dress For Success,Artificial Intelligence,Chamath Palihapitiya,Afternoon,CF50,CO85
+E602,A Hitchhiker's Guide to the Open-Source Space,Artificial Intelligence,Matt Mullenweg,Afternoon,CF102,CO42
+E603,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Information Management,Ben Horowitz,Morning,CF15,CO70
+E604,Design Thinking: The Intersection of APIs and Feeds,Robotics,Carlos Phillips,Afternoon,CF297,CO40
+E605,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Cloud Computing,Gary Vaynerchuk,Afternoon,CF265,CO35
+E606,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Software Engineering,Carlos Phillips,Afternoon,CF212,CO142
+E607,CC: Rapid Change - Dream Big,Voice Technology,Adam Braun,Afternoon,CF6,CO3
+E608,Creating Meaningful Impact through Tech non-profits,Data Mining,Adrian Cockcroft,Morning,CF148,CO47
+E609,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Mobile Applications,David Karp,Evening,CF38,CO97
+E610,How Emotional Intelligence Influences Your Career Presented by John Deere,Web Development,Martin Bryant,Evening,CF40,CO34
+E611,Professional Evolution: How to Accelerate Your Growth and Success Presented by Accenture,Full Stack,Steven Green,Morning,CF195,CO36
+E612,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Information Management,Bing Gordon,Afternoon,CF178,CO95
+E613,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,Voice Technology,Steve Blank,Evening,CF47,CO121
+E614,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Cloud Computing,Dick Costolo,Morning,CF295,CO45
+E615,IoT Data processing with MQTT & Kafka & AI/ML,User Interface Design,Tim Cook,Evening,CF279,CO101
+E616,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Web Applications,Charles Huang,Afternoon,CF120,CO92
+E617,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,Automation,Julie Parks,Evening,CF198,CO37
+E618,Design Thinking: The Intersection of APIs and Feeds,Computer Networks,Caroline Hyde,Evening,CF259,CO84
+E619,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Data Mining,Patrick Lee,Evening,CF190,CO126
+E620,Entrepreneurship: Funding Your Business Idea,Machine Learning,Anita Johnson,Afternoon,CF237,CO148
+E621,Leaving the Equations Behind & Career Moves into Nontechnical Fields Presented by Bechtel,Internet of Things,Michael Jackson,Evening,CF14,CO142
+E622,Careers at Chevron Presented by Chevron,Automation,Lew Cirne,Morning,CF36,CO16
+E623,AI will change the world. Who will change AI?,User Experience Design,Jeff Clavier,Evening,CF75,CO121
+E624,Entrepreneurship: Funding Your Business Idea,Data Science,Charles Huang,Morning,CF1,CO48
+E625,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Robotics,Amber Kay,Afternoon,CF224,CO9
+E626,Faculty Development Symposium: Welcome Remarks,Computer Engineering,Patrick Collison,Evening,CF129,CO80
+E627,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Systems Engineering,Carlos Lopez,Afternoon,CF140,CO126
+E628,Creating Meaningful Impact through Tech non-profits,Automation,Brian Solis,Evening,CF185,CO46
+E629,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Software Engineering,Satya Nadella,Evening,CF217,CO106
+E630,CC: Rapid Change - Personal Roadmap Development,Back End,Geoff Keighley,Morning,CF30,CO93
+E631,Leading with Analytics Presented by Allstate Insurance Company,Machine Learning,Elaine Hubbard,Afternoon,CF157,CO117
+E632,Create Your Optimum State of InnerFitness®,Database Management,Alexia Tsotsis,Morning,CF206,CO60
+E633,Build With Us: IoT to Keep Your Plants Alive!,Cloud Computing,Michael Acton Smith,Morning,CF156,CO79
+E634,LGBTQ: Understanding the Scientific and Social Constructs of Gender,Data Mining,Albert Castro,Morning,CF27,CO57
+E635,AI will change the world. Who will change AI?,Web Development,Lew Cirne,Afternoon,CF263,CO110
+E636,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Data Mining,Lew Cirne,Morning,CF51,CO96
+E637,Amazon and the Future of Accessible Technology,Voice Technology,Ray Hicks,Afternoon,CF153,CO115
+E638,Branching Out: GitHub and Core Skills for Contributing to Open Source,Computer Engineering,Christine Campos,Evening,CF269,CO95
+E639,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Systems Analysis,David Carr,Evening,CF1,CO14
+E640,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Mobile Applications,Mark Zuckerberg,Morning,CF281,CO94
+E641,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Cyber Security,Ashton Kutcher,Morning,CF69,CO13
+E642,Deep Learning for Metastatic Cancer Detection,Web Applications,Cheryl Reynolds,Morning,CF248,CO148
+E643,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Artificial Intelligence,Jeremiah Owyang,Evening,CF93,CO26
+E644,CC: Rapid Change - Marketing and Retention,Computer Engineering,Wanda Nunez,Afternoon,CF278,CO1
+E645,A Hitchhiker's Guide to the Open-Source Space,Quantum Computing,Jon Oringer,Afternoon,CF282,CO57
+E646,How To Become A Networking Guru Presented by Toyota,Information Technology,Adam Braun,Morning,CF82,CO140
+E647,Automation & Process Improvement with Bots Presented by Goldman Sachs,Automation,Brendan Iribe,Afternoon,CF127,CO134
+E648,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Data Mining,John Smedley,Afternoon,CF92,CO148
+E649,Engineering in Technical Sales Presented by Lincoln Electric,Internet of Things,Werner Vogels,Evening,CF234,CO33
+E650,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Front End,Albert Castro,Morning,CF4,CO75
+E651,More Than A Label Presented by J.P. Morgan Chase & Co.,Systems Analysis,Glenn Fogel,Afternoon,CF113,CO36
+E652,Empowering Your Digital Universe (Western Digital),Cryptography,Jon Oringer,Morning,CF209,CO95
+E653,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Artificial Intelligence,Jon Oringer,Afternoon,CF52,CO126
+E654,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Data Mining,Jack Dorsey,Afternoon,CF204,CO72
+E655,How To Become A Networking Guru Presented by Toyota,Cryptography,Sarah Newman,Evening,CF140,CO72
+E656,Lockheed Martin Resume Room,Human Computer Interaction,David Rowan,Morning,CF227,CO14
+E657,Big Data + Data Science = Big Value for Chevron,Data Mining,Michael Jackson,Evening,CF112,CO103
+E658,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Web Development,Valerie Klein,Afternoon,CF263,CO63
+E659,Action Steps for Change: Ways To Create A Diverse Workforce at Every Level,Cyber Security,Jeremy Stoppleman,Evening,CF223,CO63
+E660,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Machine Learning,Stephen Master,Evening,CF230,CO141
+E661,Convention Readiness Session Sponsored by Chevron,Biocomputation,Satya Nadella,Morning,CF74,CO141
+E662,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,User Experience Design,Brian Solis,Morning,CF193,CO107
+E663,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Artificial Intelligence,Mario Clark,Afternoon,CF142,CO12
+E664,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,User Experience Design,Eleanor Payne,Evening,CF284,CO31
+E665,FarmBeats: AI and IoT for Agriculture,User Interface Design,Michael Acton Smith,Evening,CF225,CO86
+E666,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Database Management,Steve Blank,Morning,CF62,CO85
+E667,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Web Applications,Julie Parks,Evening,CF3,CO96
+E668,Microservice Architecture: Orchestration to Reactive Approach,Cyber Security,Adrian Cockcroft,Afternoon,CF206,CO141
+E669,Leading with Analytics Presented by Allstate Insurance Company,User Interface Design,Charles Huang,Evening,CF201,CO135
+E670,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Software Engineering,Tim Cook,Afternoon,CF64,CO94
+E671,AI will change the world. Who will change AI?,Software Engineering,Martin Bryant,Morning,CF261,CO81
+E672,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Web Development,Paul Graham,Afternoon,CF272,CO42
+E673,Build With Us: IoT to Keep Your Plants Alive!,User Interface Design,Adrian Cockcroft,Morning,CF163,CO83
+E674,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Data Science,Tara Roman,Morning,CF271,CO85
+E675,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Automation,Steven Palmer,Afternoon,CF17,CO150
+E676,Building a (Better) Open Source Community,Automation,Jeff Clavier,Evening,CF66,CO54
+E677,Enhance AI Data Platform with Accelerated Storage,Software Engineering,Martha Lawson,Afternoon,CF270,CO60
+E678,Empowering Innovation Presented by Exelon,Voice Technology,Sam Shank,Evening,CF280,CO145
+E679,Design It: Bring Forth the Innovation,Computer Engineering,Tony Conrad,Afternoon,CF242,CO68
+E680,Let's Talk about Quantum Presented by General Dynamics,Back End,Naval Ravikant,Afternoon,CF191,CO91
+E681,Be Your Career CEO: Establishing your Board of Directors Sponsored by Goldman Sachs,Full Stack,Martin Bryant,Afternoon,CF59,CO139
+E682,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Human Computer Interaction,Matt Mullenweg,Evening,CF230,CO30
+E683,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Computer Networks,Ashwin Navin,Afternoon,CF112,CO88
+E684,Leading Machine Learning at Capital One Presented by Capital One,Database Management,Robert Scoble,Morning,CF286,CO25
+E685,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,Cloud Computing,Christine Kelley,Morning,CF33,CO146
+E686,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Machine Learning,Steven Green,Afternoon,CF257,CO27
+E687,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Artificial Intelligence,Paul Graham,Morning,CF158,CO8
+E688,Leading Machine Learning at Capital One Presented by Capital One,Software Engineering,Albert Castro,Evening,CF31,CO83
+E689,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Quantum Computing,Yves Behar,Afternoon,CF4,CO135
+E690,Own Your Career: Practical Tips to Accelerate Success Presented by United Technologies Corporation,Full Stack,Christine Watts,Afternoon,CF24,CO38
+E691,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Web Development,Michael Jackson,Afternoon,CF253,CO140
+E692,Building Bridges Presented by Cummins Inc.,Front End,Tony Conrad,Morning,CF21,CO123
+E693,Amazon and the Future of Accessible Technology,Web Development,Anita Johnson,Evening,CF257,CO82
+E694,Leadership Begins With Me Sponsored by General Dynamics,Voice Technology,Jimmy Maymann,Evening,CF24,CO77
+E695,Dress For Success,Computer Networks,Christopher Hart,Evening,CF293,CO89
+E696,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Database Management,Pamela Mendez,Evening,CF49,CO114
+E697,IoT Data processing with MQTT & Kafka & AI/ML,Artificial Intelligence,Elaine Hubbard,Evening,CF232,CO94
+E698,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Systems Analysis,Aaron Levie,Evening,CF153,CO44
+E699,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,Human Computer Interaction,Sarah Newman,Evening,CF154,CO88
+E700,Career Fair & Graduate School Expo,Machine Learning,Jeremy Stoppleman,Evening,CF233,CO139
+E701,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Machine Learning,Patrick Lee,Evening,CF21,CO55
+E702,Engineer to Leader Presented by Air Products,Database Management,Tara Roman,Afternoon,CF103,CO119
+E703,Lockheed Martin Resume Room,Computer Networks,Cyan Banister,Evening,CF28,CO82
+E704,Creating Meaningful Impact through Tech non-profits,User Interface Design,Glenn Fogel,Afternoon,CF264,CO82
+E705,Design Thinking: The Intersection of APIs and Feeds,Cryptography,David Carr,Morning,CF146,CO77
+E706,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Web Development,Matthew Prince,Morning,CF222,CO128
+E707,Project to Product Leadership: Where to Begin,Automation,Stephen Master,Afternoon,CF252,CO56
+E708,Project to Product Leadership: Where to Begin,Software Engineering,Ruth Scott,Afternoon,CF271,CO95
+E709,Building Bridges Presented by Cummins Inc.,Internet of Things,Naval Ravikant,Evening,CF266,CO5
+E710,How Emotional Intelligence Influences Your Career Presented by John Deere,Computer Engineering,Steven Grant,Evening,CF36,CO70
+E711,Create Your Optimum State of InnerFitness®,Cryptography,Padmasree Warrior,Morning,CF111,CO28
+E712,Leading Machine Learning at Capital One Presented by Capital One,Web Applications,Richard Scott,Morning,CF227,CO115
+E713,Inclusive Leadership 101: The Fundamentals Presented by Bechtel,User Interface Design,Mark Cuban,Afternoon,CF211,CO35
+E714,Cyber Security Challenge,Cyber Security,Gentry Underwood,Afternoon,CF129,CO90
+E715,FarmBeats: AI and IoT for Agriculture,Internet of Things,Jay Bregman,Morning,CF266,CO103
+E716,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Front End,Mario Clark,Afternoon,CF42,CO61
+E717,Pathways to Google Panel Presented by Google,Internet of Things,Carlos Phillips,Evening,CF255,CO140
+E718,Building Bridges Presented by Cummins Inc.,Artificial Intelligence,Eric Ries,Evening,CF237,CO37
+E719,3D Audio for XR (Virtual and Augmented Reality) Presented by Qualcomm,Back End,Bernard Holt,Morning,CF29,CO10
+E720,Creating Meaningful Impact through Tech non-profits,Human Computer Interaction,Patrick Collison,Evening,CF115,CO119
+E721,Communication Is The Key to Project Management Presented by Turner Construction Company,Voice Technology,Michael Acton Smith,Evening,CF282,CO9
+E722,Leading with Analytics Presented by Allstate Insurance Company,Database Management,Brendan Iribe,Morning,CF286,CO140
+E723,Project to Product Leadership: Where to Begin,Front End,Lew Cirne,Afternoon,CF6,CO74
+E724,Bill.com's Excellent Adventure into Machine Learning,Systems Engineering,Jack Dorsey,Morning,CF140,CO88
+E725,Let's Talk about Quantum Presented by General Dynamics,User Interface Design,Bing Gordon,Morning,CF283,CO115
+E726,Collaborative Robots for a Beautiful Supply Chain Presented by P&G,Internet of Things,Drew Houston,Afternoon,CF96,CO3
+E727,Breaking in to the Cybersecurity Industry- Growing Your Network & How It Can Fit Into Your Career Plans Sponsored by Palo Alto Networks,Cloud Computing,Ryan Holmes,Evening,CF258,CO132
+E728,Designing with Intent: The Value of Culture,Information Management,Kristian Segerstrale,Afternoon,CF296,CO8
+E729,How Emotional Intelligence Influences Your Career Presented by John Deere,Quantum Computing,Tim Cook,Evening,CF213,CO136
+E730,Leadership Begins With Me Sponsored by General Dynamics,Systems Engineering,Carolyn Palmer,Afternoon,CF119,CO78
+E731,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Cryptography,Dorothy Khan,Evening,CF169,CO65
+E732,Build With Us: IoT to Keep Your Plants Alive!,Artificial Intelligence,Ray Hicks,Morning,CF61,CO39
+E733,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Systems Analysis,Niklas Zennstrom,Morning,CF290,CO79
+E734,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Information Technology,Kara Swisher,Afternoon,CF291,CO56
+E735,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Cryptography,Mark Suster,Afternoon,CF218,CO27
+E736,A Hitchhiker's Guide to the Open-Source Space,Web Development,Cynthia Klein,Morning,CF121,CO94
+E737,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Internet of Things,Robert Scoble,Morning,CF195,CO95
+E738,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Quantum Computing,Pamela Mendez,Morning,CF111,CO38
+E739,Empowering Innovation Presented by Exelon,User Experience Design,Adeo Ressi,Afternoon,CF278,CO80
+E740,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Robotics,Elaine Hubbard,Afternoon,CF79,CO141
+E741,Creating an Inclusive Code Review Culture,Back End,Pat Gelsinger,Evening,CF235,CO74
+E742,Faculty Development Symposium: Welcome Remarks,Cyber Security,Gina Bianchini,Morning,CF172,CO61
+E743,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Systems Analysis,Brian Solis,Afternoon,CF209,CO72
+E744,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Back End,David Carr,Evening,CF283,CO63
+E745,More Than A Label Presented by J.P. Morgan Chase & Co.,Cryptography,Brenda Phelps,Evening,CF64,CO17
+E746,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Mobile Applications,Amber Kay,Evening,CF27,CO28
+E747,Communication Is The Key to Project Management Presented by Turner Construction Company,Data Science,Marie Watts,Morning,CF212,CO12
+E748,Clash of the Codes - Making Software Code out of Legal Code,Computer Networks,Glenn Fogel,Morning,CF10,CO96
+E749,Build With Us: IoT to Keep Your Plants Alive!,Cloud Computing,Bruce Austin,Afternoon,CF266,CO112
+E750,Let's Talk about Quantum Presented by General Dynamics,Quantum Computing,Christine Watts,Morning,CF241,CO22
+E751,AI will change the world. Who will change AI?,Quantum Computing,Shervin Pishevar,Morning,CF253,CO39
+E752,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,Cyber Security,Keith Teare,Afternoon,CF203,CO56
+E753,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Cloud Computing,Jack Dorsey,Afternoon,CF156,CO82
+E754,Amazon and the Future of Accessible Technology,Cloud Computing,Jonah Peretti,Evening,CF77,CO135
+E755,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Back End,Steven Palmer,Afternoon,CF80,CO18
+E756,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Quantum Computing,Karen Ortiz,Morning,CF127,CO93
+E757,Design It: Bring Forth the Innovation,Front End,Ashwin Navin,Evening,CF251,CO101
+E758,Design It: Bring Forth the Innovation,Information Technology,Dorothy Khan,Morning,CF8,CO29
+E759,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Quantum Computing,Carlos Lopez,Afternoon,CF203,CO46
+E760,Cyber Security Challenge,Automation,Christine Kelley,Evening,CF192,CO46
+E761,Crush Your Coding Interview at Facebook Presented by Facebook,Cloud Computing,Kate Matsudaira,Morning,CF222,CO80
+E762,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Systems Engineering,Christine Kelley,Evening,CF62,CO117
+E763,How Emotional Intelligence Influences Your Career Presented by John Deere,User Experience Design,Jeff Weiner,Afternoon,CF84,CO8
+E764,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Human Computer Interaction,Matthew Prince,Morning,CF175,CO90
+E765,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Systems Analysis,Albert Castro,Evening,CF11,CO143
+E766,Building Bridges Presented by Cummins Inc.,Internet of Things,Alexia Tsotsis,Evening,CF41,CO12
+E767,A Hitchhiker's Guide to the Open-Source Space,Cyber Security,Gina Mack,Evening,CF79,CO149
+E768,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Cryptography,Christine Watts,Afternoon,CF126,CO109
+E769,CC: Rapid Change - Personal Roadmap Development,Automation,Dave McClure,Morning,CF190,CO59
+E770,Instructions Not Included: Why Technical Communication is Essential to Your Success Presented by The Boeing Company,Systems Engineering,Jeff Weiner,Morning,CF257,CO117
+E771,CC: Rapid Change - Personal Roadmap Development,Systems Analysis,Sheryl Sandberg,Evening,CF225,CO134
+E772,LGBTQ: Understanding the Scientific and Social Constructs of Gender,Back End,Jeremy Stoppleman,Afternoon,CF235,CO103
+E773,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,User Experience Design,Dave McClure,Afternoon,CF101,CO90
+E774,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Information Technology,Joshua Reeves,Evening,CF292,CO114
+E775,Building Bridges Presented by Cummins Inc.,Voice Technology,Patrick Collison,Afternoon,CF156,CO129
+E776,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Human Computer Interaction,Jay Bregman,Evening,CF209,CO49
+E777,From the Art to the Science of Abrasives- The Technology Behind 3M™ Cubitron™ II Abrasives Presented by 3M,Back End,Ray Hicks,Afternoon,CF188,CO37
+E778,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Voice Technology,Ashton Kutcher,Evening,CF276,CO13
+E779,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Biocomputation,Geoff Keighley,Afternoon,CF1,CO96
+E780,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Cloud Computing,Sam Shank,Morning,CF279,CO100
+E781,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Cyber Security,Ben Rooney,Morning,CF11,CO70
+E782,Best Practices in Critique: How HCI Professionals Can Improve the Culture for Women in Tech,Systems Engineering,Amber Kay,Morning,CF222,CO129
+E783,Lockheed Martin Resume Room,Web Development,Sarah Newman,Evening,CF85,CO23
+E784,Building Bridges Presented by Cummins Inc.,Information Management,Ray Hicks,Morning,CF40,CO64
+E785,Enhance AI Data Platform with Accelerated Storage,Software Engineering,Gina Bianchini,Morning,CF17,CO51
+E786,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Internet of Things,Michael Sippey,Evening,CF281,CO39
+E787,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Cyber Security,Michael Sippey,Morning,CF50,CO44
+E788,Automation & Process Improvement with Bots Presented by Goldman Sachs,Human Computer Interaction,Jeremiah Owyang,Morning,CF81,CO14
+E789,IoT Data processing with MQTT & Kafka & AI/ML,Cryptography,Charles Huang,Evening,CF202,CO113
+E790,CC: Rapid Change - Personal Roadmap Development,Front End,Jennifer Hyman,Evening,CF295,CO8
+E791,Build With Us: IoT to Keep Your Plants Alive!,User Experience Design,Aaron Levie,Afternoon,CF164,CO103
+E792,Microservice Architecture: Orchestration to Reactive Approach,Web Development,Gary Vaynerchuk,Afternoon,CF74,CO11
+E793,Empowering Innovation Presented by Exelon,Systems Engineering,Mark Cuban,Morning,CF282,CO21
+E794,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Front End,Peter Arvai,Afternoon,CF166,CO46
+E795,Crush Your Coding Interview at Facebook Presented by Facebook,Biocomputation,Joshua Reeves,Afternoon,CF175,CO145
+E796,Excellence in STEM Luncheon,Human Computer Interaction,Ben Horowitz,Morning,CF223,CO105
+E797,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Systems Analysis,Yves Behar,Afternoon,CF62,CO10
+E798,Post-Doc: Why and How to Get it Funded - Graduate Careers A,User Interface Design,Brian Solis,Morning,CF174,CO30
+E799,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Automation,Mark Cuban,Afternoon,CF139,CO93
+E800,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Robotics,Anita Johnson,Evening,CF188,CO24
+E801,Action Steps for Change: Ways To Create A Diverse Workforce at Every Level,Web Applications,Mike Butcher,Morning,CF271,CO101
+E802,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Information Management,Michael Sippey,Evening,CF187,CO23
+E803,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Systems Analysis,Tony Hawk,Morning,CF223,CO99
+E804,Empowering Your Digital Universe (Western Digital),User Experience Design,Adam Braun,Afternoon,CF145,CO94
+E805,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,User Experience Design,Satya Nadella,Afternoon,CF7,CO62
+E806,Careers at Chevron Presented by Chevron,Voice Technology,Marie Watts,Morning,CF86,CO90
+E807,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Automation,Cheryl Reynolds,Evening,CF166,CO85
+E808,Leadership Begins With Me Sponsored by General Dynamics,Cloud Computing,John Smedley,Afternoon,CF32,CO19
+E809,A Hitchhiker's Guide to the Open-Source Space,Mobile Applications,Steven Palmer,Morning,CF199,CO91
+E810,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Cryptography,Linda Knight,Morning,CF166,CO21
+E811,Amazon and the Future of Accessible Technology,Computer Networks,Ben Horowitz,Afternoon,CF48,CO26
+E812,CC: Rapid Change - Marketing and Retention,Back End,Jeremiah Owyang,Afternoon,CF4,CO145
+E813,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Computer Engineering,Gina Bianchini,Afternoon,CF90,CO113
+E814,Building Blocks of Security As A Service,Software Engineering,Dennis Crowley,Evening,CF93,CO149
+E815,Design It: Bring Forth the Innovation,User Experience Design,Pat Gelsinger,Morning,CF192,CO96
+E816,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Information Technology,Aaron Levie,Morning,CF97,CO109
+E817,CC: Rapid Change - Marketing and Retention,Systems Engineering,Tony Conrad,Afternoon,CF191,CO92
+E818,Dress For Success,Full Stack,Anita Johnson,Evening,CF142,CO131
+E819,Innovation Challenge Career Fair,Voice Technology,Reid Hoffman,Evening,CF217,CO86
+E820,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,User Experience Design,Joshua Reeves,Morning,CF168,CO19
+E821,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Back End,Karen Ortiz,Evening,CF65,CO78
+E822,Cyber Security Challenge,Voice Technology,Satya Nadella,Afternoon,CF125,CO111
+E823,It’s No Secret! The CIA Has Unique and Innovative STEM Opportunities Presented by the CIA,User Experience Design,Sheryl Sandberg,Evening,CF298,CO128
+E824,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Software Engineering,Steven Palmer,Evening,CF59,CO52
+E825,Careers at Chevron Presented by Chevron,Web Applications,Ray Hicks,Afternoon,CF39,CO67
+E826,AI will change the world. Who will change AI?,Artificial Intelligence,Christopher Hart,Afternoon,CF201,CO13
+E827,IoT Data processing with MQTT & Kafka & AI/ML,Voice Technology,Vijay Sankaran,Afternoon,CF9,CO135
+E828,Design It: Bring Forth the Innovation,Internet of Things,Mark Zuckerberg,Evening,CF15,CO76
+E829,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Internet of Things,Mario Clark,Evening,CF151,CO104
+E830,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Database Management,Naval Ravikant,Morning,CF19,CO101
+E831,Creating an Inclusive Code Review Culture,Back End,Lew Cirne,Evening,CF64,CO55
+E832,Change is the New Normal: Owning your Career Development in a Dynamic Workplace Presented by Air Products,Human Computer Interaction,Elon Musk,Evening,CF241,CO65
+E833,Getting Ahead of the Change in the Way We Work - Will Your Skills Be Relevant in the Future?,Cloud Computing,Patrick Collison,Afternoon,CF189,CO51
+E834,Pathways to Google Panel Presented by Google,Systems Analysis,Peter Thiel,Morning,CF240,CO134
+E835,Career Fair & Graduate School Expo,Data Science,Naval Ravikant,Morning,CF59,CO62
+E836,Leadership Begins With Me Sponsored by General Dynamics,Data Mining,Porter Gale,Morning,CF81,CO148
+E837,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Web Applications,Paul Graham,Morning,CF258,CO120
+E838,CI/CD Mobile and Machine Learning: A Sampler of Modern and Innovative Technologies at American Express Presented by American Express,User Interface Design,Mike Butcher,Evening,CF28,CO24
+E839,CC: Rapid Change - Personal Roadmap Development,Web Development,Niklas Zennstrom,Evening,CF103,CO25
+E840,IoT Data processing with MQTT & Kafka & AI/ML,Voice Technology,Bruce Austin,Evening,CF58,CO63
+E841,Building Bridges Presented by Cummins Inc.,Cloud Computing,Valerie Bailey,Evening,CF211,CO9
+E842,Build With Us: IoT to Keep Your Plants Alive!,Voice Technology,Ryan Holmes,Afternoon,CF124,CO3
+E843,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Quantum Computing,Caroline Hyde,Afternoon,CF185,CO149
+E844,Pathways to Google Panel Presented by Google,Systems Analysis,Reid Hoffman,Afternoon,CF205,CO109
+E845,Amazon and the Future of Accessible Technology,Information Management,Sam Shank,Morning,CF207,CO74
+E846,Medical Device Innovation Utilizing Electro Mechanical Technologies Presented by Johnson & Johnson,Systems Analysis,Steve Blank,Morning,CF130,CO128
+E847,Building Blocks of Security As A Service,Cloud Computing,Steven Grant,Morning,CF202,CO89
+E848,Building a (Better) Open Source Community,Information Technology,Valerie Bailey,Evening,CF175,CO118
+E849,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Front End,Dennis Crowley,Morning,CF291,CO48
+E850,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Computer Engineering,Peter Thiel,Evening,CF70,CO66
+E851,Careers at Chevron Presented by Chevron,Database Management,Dorothy Khan,Afternoon,CF63,CO30
+E852,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Human Computer Interaction,Valerie Bailey,Evening,CF116,CO124
+E853,Distinguished Lecture Series: Honorary Lecture and Graduate Breakfast Sponsored by UC San Diego,Full Stack,Paul Graham,Morning,CF213,CO15
+E854,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Web Development,Peter Arvai,Evening,CF107,CO94
+E855,Engineer to Leader Presented by Air Products,Computer Engineering,Martha Lawson,Afternoon,CF237,CO38
+E856,Communication Is The Key to Project Management Presented by Turner Construction Company,Systems Engineering,Tim Armstrong,Morning,CF141,CO94
+E857,Communication Is The Key to Project Management Presented by Turner Construction Company,Computer Networks,Jonah Peretti,Afternoon,CF213,CO129
+E858,Pathways to Google Panel Presented by Google,Cryptography,Pat Gelsinger,Afternoon,CF225,CO149
+E859,How To Become A Networking Guru Presented by Toyota,Machine Learning,Marissa Mayer,Morning,CF199,CO63
+E860,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Human Computer Interaction,Mario Clark,Evening,CF230,CO36
+E861,Entrepreneurship: Funding Your Business Idea,Front End,Porter Gale,Evening,CF269,CO100
+E862,Cyber Security Challenge,Web Applications,Carlos Lopez,Morning,CF225,CO30
+E863,Designing with Intent: The Value of Culture,Data Mining,Gary Vaynerchuk,Afternoon,CF109,CO121
+E864,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Cloud Computing,Kate Matsudaira,Evening,CF51,CO53
+E865,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Web Development,Virginia Montgomery,Afternoon,CF158,CO126
+E866,Creating an Inclusive Code Review Culture,Biocomputation,Geoff Keighley,Morning,CF169,CO62
+E867,Leading with Analytics Presented by Allstate Insurance Company,Full Stack,Valerie Bailey,Afternoon,CF27,CO102
+E868,Leadership Begins With Me Sponsored by General Dynamics,User Experience Design,Julie Uhrman,Morning,CF82,CO80
+E869,Project to Product Leadership: Where to Begin,Cloud Computing,Jimmy Maymann,Morning,CF84,CO5
+E870,Creating Meaningful Impact through Tech non-profits,Back End,Peter Arvai,Afternoon,CF285,CO148
+E871,Professional Evolution: How to Accelerate Your Growth and Success Presented by Accenture,Front End,Peter Fredell,Morning,CF33,CO22
+E872,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Machine Learning,Valerie Bailey,Morning,CF73,CO133
+E873,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Voice Technology,Steven Grant,Afternoon,CF190,CO143
+E874,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Quantum Computing,Gina Bianchini,Afternoon,CF16,CO46
+E875,Empowering Innovation Presented by Exelon,Cryptography,Elon Musk,Evening,CF216,CO80
+E876,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,User Interface Design,Patrick Lee,Morning,CF269,CO146
+E877,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Voice Technology,Eric Ries,Morning,CF26,CO57
+E878,Big Data + Data Science = Big Value for Chevron,Robotics,Padmasree Warrior,Morning,CF175,CO84
+E879,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Automation,Jonah Peretti,Morning,CF157,CO65
+E880,Creating Meaningful Impact through Tech non-profits,Database Management,Martin Bryant,Afternoon,CF104,CO145
+E881,IoT Data processing with MQTT & Kafka & AI/ML,Back End,David Sacks,Afternoon,CF72,CO121
+E882,Engineer to Leader Presented by Air Products,User Interface Design,Cyan Banister,Morning,CF239,CO90
+E883,Communication Is The Key to Project Management Presented by Turner Construction Company,Quantum Computing,Mark Benioff,Evening,CF8,CO98
+E884,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Web Development,Jennifer Hyman,Evening,CF226,CO61
+E885,Building a (Better) Open Source Community,Voice Technology,Geoff Keighley,Morning,CF218,CO123
+E886,Professionals Lunch and Learn: Creating Chemistry to Tackle The VUCA World - Sponsored by BASF Corporation,Computer Networks,Rebecca Francis,Afternoon,CF290,CO63
+E887,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Cryptography,Reid Hoffman,Afternoon,CF245,CO82
+E888,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Human Computer Interaction,Dave McClure,Morning,CF299,CO4
+E889,Financing Your Graduate Education: Grants & Scholarships & and Fellowships - Undergraduate,Information Technology,Marie Watts,Morning,CF156,CO9
+E890,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Database Management,Ryan Holmes,Afternoon,CF90,CO127
+E891,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Robotics,Padmasree Warrior,Afternoon,CF253,CO73
+E892,Bill.com's Excellent Adventure into Machine Learning,User Interface Design,Christine Watts,Morning,CF118,CO74
+E893,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Information Technology,Keith Teare,Evening,CF41,CO65
+E894,Dress For Success,Cryptography,Albert Castro,Evening,CF154,CO50
+E895,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Human Computer Interaction,Aaron Levie,Afternoon,CF169,CO56
+E896,Communication Is The Key to Project Management Presented by Turner Construction Company,Computer Networks,Caroline Hyde,Afternoon,CF217,CO16
+E897,Confessions of a Data Scientist: I Have Made Some Mistakes with A/B Testing,Artificial Intelligence,Niklas Zennstrom,Evening,CF209,CO120
+E898,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Voice Technology,Ryan Holmes,Evening,CF147,CO15
+E899,Building Blocks of Security As A Service,Automation,Adeo Ressi,Afternoon,CF281,CO84
+E900,Getting More for Less - Hardware Compression in Storage Systems,User Experience Design,Paul Graham,Morning,CF61,CO104
+E901,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,Cryptography,Katia Beauchamp,Afternoon,CF287,CO59
+E902,FarmBeats: AI and IoT for Agriculture,Biocomputation,Adeo Ressi,Morning,CF216,CO145
+E903,Enhance AI Data Platform with Accelerated Storage,Biocomputation,Bing Gordon,Afternoon,CF176,CO74
+E904,Empowering Your Digital Universe (Western Digital),Mobile Applications,Martha Lawson,Evening,CF47,CO52
+E905,Career Fair & Graduate School Expo,Front End,Jeff Clavier,Evening,CF208,CO105
+E906,Design It: Bring Forth the Innovation,Mobile Applications,Katia Beauchamp,Afternoon,CF154,CO91
+E907,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Robotics,Carlos Lopez,Evening,CF171,CO142
+E908,Graduate Lunch & Distinguished Lecture Series Sponsored by UC San Diego,Robotics,Martha Lawson,Afternoon,CF158,CO96
+E909,Industry and Research Collaborations: Skills for Success - Graduate Careers A,Voice Technology,Jennifer Hyman,Morning,CF23,CO76
+E910,Excellence in STEM Luncheon,Cloud Computing,Henry Cummings,Afternoon,CF40,CO18
+E911,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Information Management,Vijay Sankaran,Evening,CF171,CO113
+E912,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Voice Technology,Patrick Collison,Afternoon,CF153,CO84
+E913,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Artificial Intelligence,Cyan Banister,Evening,CF279,CO57
+E914,More Than A Label Presented by J.P. Morgan Chase & Co.,Data Science,Sam Shank,Afternoon,CF94,CO4
+E915,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Cloud Computing,Kate Matsudaira,Morning,CF157,CO44
+E916,Building Bridges Presented by Cummins Inc.,Cyber Security,Bernard Holt,Morning,CF272,CO41
+E917,Branching Out: GitHub and Core Skills for Contributing to Open Source,Biocomputation,Julie Uhrman,Evening,CF2,CO120
+E918,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Computer Networks,Satya Nadella,Morning,CF269,CO36
+E919,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,Data Mining,Cynthia Richards,Morning,CF265,CO31
+E920,Advancing Your Career with Project Management Skills Presented by IBM Corporation,User Experience Design,Shervin Pishevar,Morning,CF297,CO55
+E921,Big Data + Data Science = Big Value for Chevron,Quantum Computing,Wanda Nunez,Evening,CF200,CO90
+E922,Enterprise Data Security - What to Expect with the Increased Usage of AI to Protect Data,User Experience Design,Jeremy Stoppleman,Evening,CF143,CO81
+E923,Designing Data Visuals That Sparkle: Building Insight You Can See,Artificial Intelligence,Gary Vaynerchuk,Evening,CF34,CO9
+E924,Getting More for Less - Hardware Compression in Storage Systems,User Experience Design,Christine Campos,Morning,CF1,CO50
+E925,Excellence in STEM Luncheon,Cryptography,Porter Gale,Afternoon,CF181,CO95
+E926,Detecting Poaching from the Sky: Using Machine Learning for Wildlife Conservation,Mobile Applications,Chamath Palihapitiya,Afternoon,CF92,CO85
+E927,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Cloud Computing,Aaron Levie,Afternoon,CF35,CO143
+E928,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Information Management,Richard Scott,Afternoon,CF175,CO54
+E929,FarmBeats: AI and IoT for Agriculture,Machine Learning,Padmasree Warrior,Morning,CF144,CO94
+E930,Accelerating the Future of Space Through Scalable Electric Propulsion Technology,Cyber Security,Mario Clark,Evening,CF266,CO65
+E931,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Artificial Intelligence,Yves Behar,Evening,CF191,CO46
+E932,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Robotics,Steven Grant,Evening,CF202,CO96
+E933,Engineering in Technical Sales Presented by Lincoln Electric,Automation,Scott Belsky,Evening,CF196,CO114
+E934,Bill.com's Excellent Adventure into Machine Learning,Automation,Martin Bryant,Morning,CF277,CO70
+E935,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Back End,Ryan Holmes,Evening,CF263,CO45
+E936,Keep Advancing: Technology & Digital Innovation in the Energy Industry Presented by BP,Front End,Henry Cummings,Evening,CF238,CO134
+E937,Leadership Begins With Me Sponsored by General Dynamics,Database Management,David Sacks,Evening,CF98,CO59
+E938,Action Steps for Change: Ways To Create A Diverse Workforce at Every Level,Automation,Kara Swisher,Afternoon,CF197,CO91
+E939,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Automation,Gina Bianchini,Morning,CF255,CO99
+E940,Careers at Chevron Presented by Chevron,Data Mining,Eleanor Payne,Evening,CF208,CO105
+E941,Lockheed Martin Resume Room,Biocomputation,Richard Branson,Evening,CF240,CO143
+E942,Enhancing Your Graduate Skills Through Leadership in Service - Graduate Careers B,User Interface Design,Carlos Phillips,Evening,CF208,CO79
+E943,Organizational Vibrancy Dialogue Series: Micro-Inequities and Unconscious Bias Presented by DuPont,Systems Engineering,Julie Uhrman,Morning,CF77,CO132
+E944,Designing Data Visuals That Sparkle: Building Insight You Can See,Quantum Computing,Alexia Tsotsis,Afternoon,CF227,CO134
+E945,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Cloud Computing,Eleanor Payne,Morning,CF209,CO140
+E946,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Voice Technology,Werner Vogels,Evening,CF252,CO79
+E947,Going Beyond Bars and Lines | Connecting Insights to Results Presented by Discover,Data Mining,Anita Johnson,Morning,CF256,CO138
+E948,Engineer to Leader Presented by Air Products,Internet of Things,Porter Gale,Morning,CF202,CO19
+E949,Pathways to Google Panel Presented by Google,Biocomputation,Steven Green,Morning,CF89,CO85
+E950,Design It: Bring Forth the Innovation,User Experience Design,Kara Swisher,Afternoon,CF187,CO109
+E951,Google Maps - A Planet-Scale Playground for Computer Scientists Presented by Google,Full Stack,Mark Suster,Evening,CF175,CO15
+E952,Create Your Optimum State of InnerFitness®,Mobile Applications,Jay Bregman,Afternoon,CF87,CO41
+E953,More Than A Label Presented by J.P. Morgan Chase & Co.,Computer Engineering,Michael Acton Smith,Afternoon,CF112,CO78
+E954,Entrepreneurship: Funding Your Business Idea,Data Mining,Jeffrey Lu,Afternoon,CF128,CO16
+E955,Automation & Process Improvement with Bots Presented by Goldman Sachs,User Interface Design,Joshua Reeves,Evening,CF5,CO108
+E956,How Emotional Intelligence Influences Your Career Presented by John Deere,Front End,Drew Houston,Morning,CF181,CO59
+E957,Own Your Career: Practical Tips to Accelerate Success Presented by United Technologies Corporation,Cryptography,Ray Hicks,Evening,CF45,CO103
+E958,AI Network Analytics – Building a Cloud Data Lake and Machine Learning Models for the Enterprise Network Presented by Cisco,Cloud Computing,Shervin Pishevar,Evening,CF147,CO63
+E959,Post-Doc: Why and How to Get it Funded - Graduate Careers A,Mobile Applications,Hazel Santiago,Evening,CF247,CO71
+E960,Engineering in Technical Sales Presented by Lincoln Electric,Data Science,Bernard Holt,Evening,CF100,CO54
+E961,FPGA as the Accelerator of Choice in Data Centric Applications Presented by Intel Corporation,Mobile Applications,Aaron Levie,Morning,CF89,CO12
+E962,About Bits and Q-bits: The Incredible World of IBM Quantum Technology Presented by IBM Corporation,Cryptography,Werner Vogels,Afternoon,CF43,CO10
+E963,Creating Meaningful Impact through Tech non-profits,Information Management,Tim Armstrong,Morning,CF94,CO137
+E964,AI will change the world. Who will change AI?,User Experience Design,Matt Mullenweg,Evening,CF169,CO55
+E965,Microservice Architecture: Orchestration to Reactive Approach,Quantum Computing,Virginia Montgomery,Afternoon,CF21,CO29
+E966,Entrepreneurship: How To Get Into An Accelerator,User Interface Design,Michael Acton Smith,Evening,CF24,CO64
+E967,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,User Experience Design,Elon Musk,Afternoon,CF84,CO52
+E968,CC: Rapid Change - Marketing and Retention,Robotics,Robert Scoble,Evening,CF94,CO143
+E969,CC: Rapid Change - Personal Roadmap Development,User Interface Design,Cynthia Richards,Afternoon,CF1,CO60
+E970,Microservice Architecture: Orchestration to Reactive Approach,User Experience Design,Kara Swisher,Evening,CF152,CO32
+E971,Cyber Security Challenge,Computer Engineering,Christy Wyatt,Morning,CF205,CO5
+E972,10 Easy Tips to Get the Visibility You Deserve! Presented by American Express,Software Engineering,Mark Zuckerberg,Morning,CF34,CO32
+E973,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Database Management,Tara Roman,Morning,CF235,CO58
+E974,Entrepreneurship: Entrepreneurial Mindset: Inside & Outside Corporate America,Cyber Security,Brenda Phelps,Evening,CF138,CO129
+E975,Lockheed Martin Resume Room,Cloud Computing,Christine Watts,Morning,CF284,CO74
+E976,Convention Readiness Session Sponsored by Chevron,Internet of Things,Gentry Underwood,Afternoon,CF271,CO60
+E977,More Than A Label Presented by J.P. Morgan Chase & Co.,Data Science,Michael Jackson,Afternoon,CF55,CO77
+E978,Networking: Making it a Powerful Tool vs. an Awkward Moment Presented by General Motors,Front End,Scott Belsky,Afternoon,CF206,CO17
+E979,Engineering in Technical Sales Presented by Lincoln Electric,Computer Networks,Steven Palmer,Afternoon,CF246,CO55
+E980,Empowering Your Digital Universe (Western Digital),Voice Technology,Ashwin Navin,Evening,CF246,CO6
+E981,Action Steps for Change: Ways To Create A Diverse Workforce at Every Level,Human Computer Interaction,Melanie Knight,Morning,CF62,CO95
+E982,Amazon and the Future of Accessible Technology,Systems Analysis,Sam Shank,Morning,CF238,CO17
+E983,Careers at Chevron Presented by Chevron,Computer Engineering,Richard Scott,Morning,CF42,CO11
+E984,Luncheon and Tech Talk: Innovation That’s Changing The Way We Work and Shop Presented by Sam’s Club (Ticketed with Standby Line),Computer Networks,Ruth Scott,Evening,CF214,CO38
+E985,Entrepreneurship: Funding Your Business Idea,Quantum Computing,Jeremiah Owyang,Morning,CF249,CO134
+E986,Crush Your Coding Interview at Facebook Presented by Facebook,Data Mining,Marissa Mayer,Afternoon,CF194,CO123
+E987,Post-Silicon Chip Validation: Where the Silicon Meets the Road,Information Technology,Ryan Holmes,Morning,CF289,CO32
+E988,Leadership Begins With Me Sponsored by General Dynamics,Machine Learning,Mark Cuban,Morning,CF137,CO142
+E989,Moving Atoms: Tech for Physical Operations (eCommerce and Beyond) Collaboration with T&I Track - Sponsored by Amazon,Human Computer Interaction,Tim Cook,Afternoon,CF286,CO63
+E990,Amazon and the Future of Accessible Technology,Information Technology,Tim Cook,Afternoon,CF55,CO83
+E991,Build With Us: IoT to Keep Your Plants Alive!,Human Computer Interaction,Matthew Prince,Afternoon,CF247,CO77
+E992,Design Thinking: The Intersection of APIs and Feeds,Cyber Security,Mark Zuckerberg,Evening,CF111,CO2
+E993,CC: Rapid Change - Personal Roadmap Development,Quantum Computing,Jeffrey Lu,Evening,CF146,CO134
+E994,Clash of the Codes - Making Software Code out of Legal Code,Web Development,Ben Horowitz,Afternoon,CF24,CO137
+E995,How Emotional Intelligence Influences Your Career Presented by John Deere,Software Engineering,Ryan Holmes,Evening,CF48,CO108
+E996,How Emotional Intelligence Influences Your Career Presented by John Deere,Automation,Stephen Master,Morning,CF107,CO122
+E997,Advancing Your Career with Project Management Skills Presented by IBM Corporation,Human Computer Interaction,Naval Ravikant,Evening,CF203,CO81
+E998,4 STEM Leaders: Where Are They Now? Mid-Career Panel - Sponsored by the National Security Agency and Lockheed Martin and Chevron & Wells Fargo,Systems Engineering,Sandra Kennedy,Afternoon,CF15,CO63
+E999,Creating an Inclusive Code Review Culture,Computer Engineering,Christy Wyatt,Evening,CF45,CO109
+E1000,5 Things I Wish I Knew After I Graduated From College Presented by Ford Motor Company,Biocomputation,Gina Mack,Morning,CF158,CO60

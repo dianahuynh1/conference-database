@@ -1,0 +1,1500 @@
+R1,Billy Mills,United States Air Force Academy,AbbVie,Data Science,Professional,No
+R2,Gina Hoffman,College of the Holy Cross,Allstate,Systems Analysis,Student,No
+R3,Chris Porter,University of California San Diego,Microsoft,Full Stack,Student,No
+R4,Elizabeth Russell,United States Naval Academy,Best Buy,Systems Analysis,Student,No
+R5,Kevin Dawson,Brandeis University,United Parcel Service,Data Mining,Student,No
+R6,Stanley Hubbard,Williams College,United Parcel Service,Cloud Computing,Professional,Yes
+R7,Cynthia Doyle,University of California Davis,Oracle,Cyber Security,Student,No
+R8,Ray Howell,Colorado School of Mines,Walgreens Boots Alliance,Human Computer Interaction,Educator,No
+R9,Sean Reed,Emory University,ConocoPhillips,Biocomputation,Educator,No
+R10,Jennifer Cole,Scripps College,AmerisourceBergen,Data Science,Educator,No
+R11,Kyle Moss,University of Virginia,General Dynamics,Voice Technology,Student,No
+R12,Randy Barnes,University of Wisconsin Madison,CVS Health,Computer Networks,Student,No
+R13,Theodore Moore,University of California Berkeley,Enterprise Products Partners,Cryptography,Educator,No
+R14,Francis James,Bates College,HCA Healthcare,Automation,Student,No
+R15,Jessica Sullivan,United States Naval Academy,Deere,Information Technology,Student,No
+R16,Mike Coleman,Middlebury College,Target,Full Stack,Student,No
+R17,Steven Gibbons,University of California San Diego,Humana,Machine Learning,Student,No
+R18,Mary Schultz,Haverford College,Caterpillar,Web Applications,Student,No
+R19,Stephen Webb,Colgate University,Amazon.com,Full Stack,Professional,No
+R20,Joshua Stuart,Santa Clara University,Exxon Mobil,Human Computer Interaction,Professional,No
+R21,Jeff Moore,Southern Methodist University,FedEx,Internet of Things,Student,No
+R22,Christina Cross,Yeshiva University,Procter & Gamble,Robotics,Educator,Yes
+R23,Vincent Akhtar,Davidson College,Humana,Artificial Intelligence,Professional,No
+R24,Raymond Knight,University of Michigan Ann Arbor,Capital One Financial,Software Engineering,Student,Yes
+R25,Kara Sullivan,Villanova University,Liberty Mutual Insurance Group,Biocomputation,Student,No
+R26,Joe Clark,Swarthmore College,Tech Data,Front End,Student,No
+R27,Ellen Guerrero,Boston University,Bank of America,Robotics,Educator,Yes
+R28,Matthew Klein,Grinnell College,MetLife,Artificial Intelligence,Student,No
+R29,Lillian Humphrey,United States Air Force Academy,Energy Transfer,Machine Learning,Student,No
+R30,Jeremy Baldwin,Wesleyan University,Bank of America,Systems Analysis,Student,No
+R31,Leo Solis,Oberlin College,Tyson Foods,User Experience Design,Student,Yes
+R32,Pamela Day,Brandeis University,FedEx,Computer Engineering,Student,No
+R33,Paula Griffiths,Georgia Institute of Technology,Lockheed Martin,Automation,Student,No
+R34,Kelly Maxwell,Duke University,Berkshire Hathaway,Internet of Things,Professional,No
+R35,Peggy Cunningham,Rice University,TJX,Voice Technology,Student,No
+R36,Lois Mills,Babson College,Ford Motor,Artificial Intelligence,Professional,Yes
+R37,Dale Santos,Colorado School of Mines,Lowe's,Web Development,Professional,Yes
+R38,Linda Cobb,Bowdoin College,Walmart,Biocomputation,Student,No
+R39,Joe Holmes,Pomona College,Kroger,Internet of Things,Professional,No
+R40,James Walton,United States Coast Guard Academy,McKesson,Human Computer Interaction,Professional,No
+R41,Patricia Love,University of California Irvine,HCA Healthcare,Database Management,Professional,No
+R42,Lori Leon,Harvard University,Sysco,Human Computer Interaction,Student,No
+R43,Ricky Lyons,Yale University,Costco Wholesale,Front End,Professional,No
+R44,Betty Griffin,Case Western Reserve University,3M,Biocomputation,Student,No
+R45,Nicholas Seymour,Grinnell College,Humana,Database Management,Student,Yes
+R46,Anita Ortiz,Whitman College,CVS Health,Automation,Professional,No
+R47,Mitchel Patton,Wesleyan University,FedEx,Data Mining,Student,No
+R48,Arthur Knight,University of Florida,Tech Data,User Interface Design,Student,No
+R49,Jack Maldonado,Washington University in St. Louis,Cisco Systems,Web Development,Student,Yes
+R50,Francisco Vasquez,California Institute of Technology,Morgan Stanley,Cloud Computing,Student,Yes
+R51,Randall Wilkerson,Macalester College,Ford Motor,Robotics,Educator,Yes
+R52,Heather Rodgers,Yeshiva University,TIAA,Voice Technology,Educator,No
+R53,Teresa Mohamed,Stanford University,General Dynamics,Web Development,Student,No
+R54,Anthony Stephens,University of California San Diego,American Airlines Group,Information Technology,Student,No
+R55,Jacqueline Swanson,Wesleyan University,Walgreens Boots Alliance,Cyber Security,Educator,No
+R56,Jimmy Webb,Scripps College,General Motors,Web Development,Professional,No
+R57,Mark Roman,Colorado College,AmerisourceBergen,Software Engineering,Professional,No
+R58,Frances Burgess,Worcester Polytechnic Institute,Costco Wholesale,Cloud Computing,Professional,Yes
+R59,Anna Campos,Bowdoin College,Ford Motor,User Interface Design,Student,No
+R60,Melvin Walker,Georgetown University,Deere,Automation,Educator,No
+R61,Diana Oliver,Northwestern University,Capital One Financial,Computer Engineering,Student,No
+R62,Ricky Chapman,Pitzer College,Coca-Cola,Artificial Intelligence,Student,No
+R63,Joe Payne,Vanderbilt University,Home Depot,Information Technology,Student,No
+R64,Ruby Johnson,University of California Davis,Albertsons,Web Applications,Student,Yes
+R65,Jessica Hardy,Yeshiva University,World Fuel Services,Mobile Applications,Educator,No
+R66,Hazel Lyons,Haverford College,Archer Daniels Midland,Front End,Student,No
+R67,Xavier Ramos,New York University,Honeywell International,User Interface Design,Student,No
+R68,Clara Ortiz,College of the Holy Cross,3M,Cyber Security,Student,Yes
+R69,Elle Schneider,United States Air Force Academy,Johnson & Johnson,Computer Engineering,Student,No
+R70,Joanne Love,Harvard University,Apple,Web Applications,Student,No
+R71,Carol Martinez,Babson College,Microsoft,User Experience Design,Professional,No
+R72,Larry Hammond,Vassar College,Apple,Human Computer Interaction,Student,Yes
+R73,Denise Williams,Cornell University,Lowe's,User Experience Design,Professional,No
+R74,Eleanor Burns,George Washington University,New York Life Insurance,Data Science,Professional,No
+R75,Karen Stokes,Bucknell University,Cardinal Health,Web Development,Educator,No
+R76,Joseph Norris,Georgetown University,Lockheed Martin,Automation,Educator,Yes
+R77,Dorothy Reyes,Washington University in St. Louis,Walgreens Boots Alliance,Machine Learning,Student,No
+R78,Anthony Powell,Cornell University,Deere,Cyber Security,Educator,No
+R79,Jeff Miller,University of Washington Seattle,Facebook,Artificial Intelligence,Student,No
+R80,Debbie Alexander,Colorado School of Mines,AIG,Front End,Student,Yes
+R81,Gloria Barton,Kenyon College,Walmart,Front End,Student,No
+R82,Ethel Cunningham,University of Chicago,Goldman Sachs Group,Data Mining,Student,No
+R83,Kevin Reilly,Williams College,Chevron,Software Engineering,Educator,Yes
+R84,Theresa Frazier,Duke University,Dell Technologies,Human Computer Interaction,Student,No
+R85,Steven Sharp,Washington University in St. Louis,United Parcel Service,Systems Engineering,Educator,Yes
+R86,Todd Campos,Wesleyan University,Massachusetts Mutual Life Insurance,Internet of Things,Professional,No
+R87,Lee Ferguson,Georgetown University,Caterpillar,Computer Networks,Student,No
+R88,Bobby Johnson,University of Southern California,AbbVie,Robotics,Student,No
+R89,Lee Holland,Pomona College,FedEx,Back End,Student,No
+R90,Harry Porter,Santa Clara University,HP,Computer Networks,Student,No
+R91,Alan Griffin,University of California San Diego,CHS,Computer Engineering,Student,No
+R92,Willie Armstrong,Vassar College,Cisco Systems,Information Technology,Professional,No
+R93,Rachel Day,Wesleyan University,Deere,Systems Engineering,Student,No
+R94,Janice Patterson,Washington University in St. Louis,Capital One Financial,Data Science,Professional,Yes
+R95,Robin Kaye,Georgetown University,Prudential Financial,Information Management,Professional,No
+R96,Anne Rodgers,Santa Clara University,MetLife,Internet of Things,Student,No
+R97,Judith Newman,Wake Forest University,Centene,Web Applications,Educator,No
+R98,Cindy West,Northwestern University,Phillips 66,Data Mining,Educator,Yes
+R99,Russell Kennedy,University of North Carolina Chapel Hill,Citigroup,Information Technology,Student,No
+R100,Russell Webb,Princeton University,Allstate,Computer Networks,Student,No
+R101,Julia Newman,Johns Hopkins University,Allstate,Information Management,Student,No
+R102,Richard Fields,College of the Holy Cross,Walt Disney,Systems Analysis,Educator,No
+R103,Ryan West,Johns Hopkins University,General Dynamics,Information Management,Student,No
+R104,Victor Holmes,Case Western Reserve University,Ford Motor,Data Mining,Student,No
+R105,Gary Bailey,Stanford University,Dell Technologies,Cryptography,Student,No
+R106,Jon Doyle,Scripps College,HCA Healthcare,Web Development,Student,No
+R107,Rachel Higgins,Whitman College,Intel,Mobile Applications,Student,No
+R108,Harry Johnson,University of North Carolina Chapel Hill,Marathon Petroleum,Information Technology,Student,No
+R109,Eric Hernandez,University of California Los Angeles,HCA Healthcare,Artificial Intelligence,Student,No
+R110,Louis Barton,Haverford College,United Technologies,Data Science,Student,No
+R111,Mark Goodman,Kenyon College,Best Buy,Information Management,Educator,No
+R112,Victor Mack,Claremont McKenna College,United Continental Holdings,Back End,Student,Yes
+R113,Brandon Garner,Harvey Mudd College,Publix Super Markets,Cryptography,Student,No
+R114,Sheila Howell,Cornell University,Cardinal Health,Machine Learning,Student,Yes
+R115,Eric Santiago,University of Richmond,Delta Air Lines,Cryptography,Student,No
+R116,Willie Lucas,University of Wisconsin Madison,General Motors,Biocomputation,Student,Yes
+R117,Valerie Rodriguez,Northwestern University,State Farm Insurance,Web Development,Educator,No
+R118,Lois Russell,Rice University,Johnson & Johnson,Robotics,Student,No
+R119,Norma Howell,University of Florida,Nike,Mobile Applications,Student,No
+R120,Jordan Ramos,Georgetown University,Liberty Mutual Insurance Group,Database Management,Student,No
+R121,Gary Russell,Babson College,Capital One Financial,Computer Engineering,Student,Yes
+R122,Robert Henderson,Princeton University,ConocoPhillips,Human Computer Interaction,Student,No
+R123,Randall Watson,Pitzer College,Tyson Foods,Robotics,Student,No
+R124,Grace Patterson,University of Miami,Citigroup,Cloud Computing,Educator,No
+R125,Anna Harris,Scripps College,General Motors,Software Engineering,Student,No
+R126,Jack Porter,University of Wisconsin Madison,Ford Motor,Quantum Computing,Student,Yes
+R127,Annie Hicks,California Institute of Technology,CHS,Cloud Computing,Professional,Yes
+R128,Elizabeth Rose,Johns Hopkins University,Home Depot,Mobile Applications,Student,No
+R129,Danny Goodman,Colorado College,Anthem,Voice Technology,Student,No
+R130,Louis Fernandez,Haverford College,PepsiCo,Software Engineering,Educator,Yes
+R131,Shawn Kaye,United States Military Academy,Liberty Mutual Insurance Group,Front End,Student,No
+R132,Sean Barnes,University of Georgia,MetLife,Web Applications,Professional,No
+R133,Ellen Vega,United States Merchant Marine Academy,Walmart,Cloud Computing,Student,No
+R134,Jonathan Humphrey,University of Chicago,Capital One Financial,Software Engineering,Student,No
+R135,Anita Velasquez,University of Southern California,Humana,Front End,Student,No
+R136,Mitchel Green,University of Georgia,Nationwide,Robotics,Student,No
+R137,Sherry Montgomery,United States Merchant Marine Academy,CVS Health,Biocomputation,Professional,No
+R138,Kevin Woods,University of California Berkeley,General Dynamics,Artificial Intelligence,Professional,Yes
+R139,Margaret Anderson,Haverford College,Cardinal Health,Human Computer Interaction,Professional,No
+R140,Michael Johnson,Wellesley College,Amazon.com,Quantum Computing,Student,No
+R141,Nathan Dawson,Cornell University,Walmart,Internet of Things,Student,Yes
+R142,Orion Berry,Lafayette College,Lowe's,Data Science,Professional,No
+R143,Carl Rodgers,Cooper Union,DuPont de Nemours,Database Management,Professional,No
+R144,Phillip Harper,Boston College,Lowe's,Software Engineering,Student,No
+R145,Kara Webb,University of Richmond,TIAA,Systems Engineering,Student,No
+R146,Pauline Schultz,Southern Methodist University,Alphabet,Data Science,Student,Yes
+R147,Virginia Ramos,Macalester College,Enterprise Products Partners,Biocomputation,Professional,No
+R148,Lee Lucas,Lafayette College,Chevron,Information Technology,Student,Yes
+R149,Dawn Moran,Harvey Mudd College,AT&T,Data Mining,Student,No
+R150,April Becker,Yeshiva University,Albertsons,Back End,Student,Yes
+R151,Catherine Hoffman,University of Wisconsin Madison,New York Life Insurance,Data Science,Student,No
+R152,Amanda Steele,Vassar College,Procter & Gamble,Cryptography,Educator,No
+R153,Aaron Russell,Wellesley College,United Continental Holdings,Web Development,Educator,No
+R154,Melvin Field,College of the Holy Cross,Procter & Gamble,Back End,Professional,No
+R155,Maria Parsons,University of Richmond,Centene,Cloud Computing,Professional,Yes
+R156,Janet Bridges,Brown University,Exelon,Artificial Intelligence,Educator,Yes
+R157,Terry Lucas,Tufts University,JPMorgan Chase,Human Computer Interaction,Student,Yes
+R158,Philip Parks,Scripps College,TJX,User Experience Design,Student,No
+R159,Amber Phelps,Carleton College,Charter Communications,Cryptography,Student,No
+R160,Julie Farmer,University of Virginia,Walmart,Computer Networks,Professional,No
+R161,Rachel Lawson,Boston University,McKesson,Systems Engineering,Professional,No
+R162,Ethel Hernandez,Boston College,General Dynamics,Voice Technology,Student,No
+R163,Richard Armstrong,University of Washington Seattle,Honeywell International,Quantum Computing,Professional,Yes
+R164,William Phillips,College of William & Mary,Lowe's,Quantum Computing,Student,Yes
+R165,Louis Newman,Yale University,Tech Data,Software Engineering,Professional,No
+R166,Travis Stevens,Kenyon College,Walgreens Boots Alliance,Database Management,Educator,No
+R167,Margaret Gardner,Cornell University,Cigna,Quantum Computing,Educator,No
+R168,Kenneth Bowman,Rice University,Comcast,Human Computer Interaction,Professional,No
+R169,Virginia Harper,Amherst College,Facebook,Robotics,Professional,No
+R170,Elizabeth Lucas,University of California Davis,World Fuel Services,Front End,Student,No
+R171,Grace Thompson,United States Military Academy,Verizon Communications,Mobile Applications,Professional,Yes
+R172,Bruce Wilkerson,Babson College,Valero Energy,Cyber Security,Educator,Yes
+R173,Bruce Hubbard,United States Air Force Academy,American Express,Information Management,Professional,Yes
+R174,Susan Lee,University of Michigan Ann Arbor,Dell Technologies,Human Computer Interaction,Student,No
+R175,Esther Humphrey,University of Richmond,AIG,Back End,Student,Yes
+R176,Kelly Stuart,Whitman College,HCA Healthcare,Mobile Applications,Professional,No
+R177,Judy Payne,Rice University,Cigna,Quantum Computing,Professional,No
+R178,Lisa James,Scripps College,General Electric,Computer Engineering,Student,Yes
+R179,Rosa Hanson,Washington and Lee University,Caterpillar,Data Science,Student,No
+R180,Jeffrey Castro,Villanova University,Albertsons,Back End,Educator,No
+R181,Martha Mills,Macalester College,Walmart,Software Engineering,Student,No
+R182,Samuel Lewis,College of William & Mary,DuPont de Nemours,Quantum Computing,Educator,No
+R183,Janet Mills,University of California Irvine,United Continental Holdings,Web Development,Professional,No
+R184,Eleanor Coleman,College of the Holy Cross,Albertsons,Computer Networks,Student,No
+R185,Norma Santos,Middlebury College,CVS Health,Systems Engineering,Student,No
+R186,Nathaniel Gutierrez,Princeton University,Oracle,Robotics,Educator,No
+R187,Theresa Cole,Lafayette College,Nike,Information Management,Student,No
+R188,Lawrence Hart,University of Southern California,UnitedHealth Group,Biocomputation,Educator,No
+R189,Michael Anderson,Oberlin College,Cisco Systems,Machine Learning,Student,No
+R190,Nathan Mcguire,Northwestern University,Kroger,Information Technology,Student,No
+R191,Joe Phillips,United States Military Academy,Humana,Web Development,Student,Yes
+R192,Patricia Woods,United States Merchant Marine Academy,Energy Transfer,Cryptography,Student,No
+R193,Tina Acosta,Harvard University,Ford Motor,Machine Learning,Educator,No
+R194,Donald Klein,Harvard University,Boeing,Robotics,Educator,Yes
+R195,Gina Smith,United States Air Force Academy,World Fuel Services,Biocomputation,Student,No
+R196,Jose Mills,University of Georgia,Kroger,User Interface Design,Student,No
+R197,Victoria Phillips,Harvey Mudd College,Lowe's,Full Stack,Student,No
+R198,Kimberly Stephens,University of Texas Austin,Phillips 66,Systems Engineering,Student,No
+R199,Janet Richardson,University of Virginia,Archer Daniels Midland,Computer Engineering,Student,No
+R200,Mike Marshall,Grinnell College,Target,Human Computer Interaction,Student,No
+R201,Gary Wade,Barnard College,CVS Health,Biocomputation,Student,No
+R202,Michelle Marshall,Wesleyan University,General Electric,Machine Learning,Professional,No
+R203,Tara Lyons,Lafayette College,McKesson,Internet of Things,Professional,No
+R204,Mitchel Humphrey,New York University,Tyson Foods,Information Technology,Student,Yes
+R205,David Humphrey,Smith College,TIAA,Cloud Computing,Student,No
+R206,Jon Campos,Yeshiva University,Walmart,Mobile Applications,Student,Yes
+R207,Lillian Gardner,Swarthmore College,Microsoft,Automation,Professional,Yes
+R208,Berenice Hubbard,University of Georgia,Facebook,Biocomputation,Student,No
+R209,Juan Graham,Yale University,New York Life Insurance,Cyber Security,Student,No
+R210,Matthew Bailey,Princeton University,Johnson & Johnson,Computer Engineering,Professional,No
+R211,Lillian Hicks,Middlebury College,McKesson,Front End,Professional,No
+R212,Mario Abbott,University of California Irvine,Walmart,Cloud Computing,Student,Yes
+R213,Glenn Campos,Brigham Young University,McKesson,Systems Engineering,Professional,No
+R214,Eric Padilla,Scripps College,Exelon,Automation,Student,Yes
+R215,Rita Carpenter,George Washington University,Capital One Financial,Machine Learning,Educator,No
+R216,Bobby Vaughn,United States Merchant Marine Academy,McKesson,Database Management,Professional,No
+R217,Wanda Hawkins,Harvey Mudd College,Marathon Petroleum,Machine Learning,Educator,Yes
+R218,Louise Griffin,Villanova University,Citigroup,Cyber Security,Student,No
+R219,Jack Camacho,Brigham Young University,ConocoPhillips,Cyber Security,Professional,No
+R220,Jose Moss,Worcester Polytechnic Institute,United Continental Holdings,Computer Engineering,Professional,Yes
+R221,Willie Cummings,Macalester College,Freddie Mac,Front End,Professional,No
+R222,Christina Mcgee,Middlebury College,UnitedHealth Group,Quantum Computing,Educator,No
+R223,Willie Weber,United States Air Force Academy,Best Buy,Software Engineering,Student,No
+R224,Crystal Mason,Carnegie Mellon University,Exxon Mobil,Data Science,Student,No
+R225,Nicholas Walsh,University of North Carolina Chapel Hill,Home Depot,User Experience Design,Professional,No
+R226,Theodore Campos,Bates College,Ford Motor,Front End,Educator,Yes
+R227,Carolyn Lyons,Oberlin College,AT&T,Computer Engineering,Professional,No
+R228,Arthur Weston,University of California Los Angeles,General Electric,Quantum Computing,Student,No
+R229,Jamie Phillips,United States Merchant Marine Academy,Kroger,Human Computer Interaction,Student,No
+R230,Tara Mitchell,Wake Forest University,Exxon Mobil,Web Development,Educator,No
+R231,Kenneth Schultz,University of Rochester,Comcast,User Experience Design,Student,No
+R232,Donald Palmer,University of Rochester,Best Buy,Human Computer Interaction,Educator,No
+R233,Jennifer Becker,Grinnell College,Facebook,Human Computer Interaction,Professional,No
+R234,Curtis Day,University of Florida,Fannie Mae,Data Science,Professional,Yes
+R235,Jesse Gibbons,Lehigh University,Intel,Cyber Security,Student,No
+R236,Jerry Richardson,Yale University,DuPont de Nemours,Data Mining,Student,No
+R237,Ray Green,Amherst College,TIAA,Systems Engineering,Educator,Yes
+R238,Valerie Padilla,Whitman College,United Continental Holdings,Artificial Intelligence,Student,No
+R239,Howard Gibson,University of Florida,Cigna,User Interface Design,Educator,Yes
+R240,Clifford Hanson,Emory University,Intel,User Interface Design,Educator,No
+R241,Lucille Camacho,Wellesley College,Dell Technologies,Voice Technology,Professional,Yes
+R242,Marilyn Lawson,University of California Irvine,Progressive,Internet of Things,Professional,No
+R243,Albert Holt,Columbia University,AT&T,Quantum Computing,Educator,Yes
+R244,Kim Moore,Columbia University,Plains GP Holdings,Machine Learning,Student,No
+R245,Victor Norris,Colorado School of Mines,Freddie Mac,Human Computer Interaction,Student,Yes
+R246,Grace Moss,Cooper Union,United Continental Holdings,Data Mining,Professional,No
+R247,Eunice George,University of Washington Seattle,Prudential Financial,Cloud Computing,Student,Yes
+R248,Glenn Campos,University of Texas Austin,Verizon Communications,Computer Engineering,Student,No
+R249,Norman Nelson,Emory University,Lockheed Martin,Web Applications,Professional,No
+R250,Juanita Drake,Vassar College,Costco Wholesale,Cloud Computing,Professional,No
+R251,Shawn Rodgers,Boston College,Nike,Web Development,Student,No
+R252,Janet Parsons,College of the Holy Cross,Costco Wholesale,Data Science,Educator,No
+R253,Donald Morgan,Villanova University,TIAA,Front End,Student,No
+R254,Jack Moss,Boston University,Delta Air Lines,Computer Networks,Professional,No
+R255,Betty Clark,University of Miami,Sysco,Cryptography,Educator,No
+R256,Gerald Thompson,Yale University,Honeywell International,User Experience Design,Student,No
+R257,Christina Field,Brown University,American Express,Quantum Computing,Student,Yes
+R258,Anne Johnson,College of the Holy Cross,Exelon,Information Technology,Professional,No
+R259,Rodney Fowler,Williams College,State Farm Insurance,Computer Engineering,Professional,No
+R260,Robert Rees,Babson College,Johnson & Johnson,Artificial Intelligence,Student,No
+R261,Crystal Lucas,University of California Los Angeles,Walgreens Boots Alliance,Artificial Intelligence,Student,Yes
+R262,Teresa Blair,University of Illinois Urbana-Champaign,Delta Air Lines,Cyber Security,Educator,No
+R263,Craig Hernandez,Bucknell University,Cigna,Mobile Applications,Professional,Yes
+R264,Lisa Graham,Oberlin College,Exelon,Web Development,Educator,Yes
+R265,Debra Cunningham,University of Chicago,Microsoft,Software Engineering,Educator,Yes
+R266,Ann James,Whitman College,United Technologies,Internet of Things,Student,No
+R267,Daniel Harper,Middlebury College,Facebook,Web Development,Student,No
+R268,Heather Valdez,Wake Forest University,United Continental Holdings,Internet of Things,Professional,No
+R269,Ryan Austin,Hamilton College,Phillips 66,Cyber Security,Professional,Yes
+R270,Melvin Mejia,Carnegie Mellon University,Boeing,Web Development,Educator,Yes
+R271,Stephanie Kay,Rice University,Alphabet,Artificial Intelligence,Student,No
+R272,Bonnie Richardson,Johns Hopkins University,Dell Technologies,Full Stack,Student,No
+R273,Heather Hicks,Smith College,Costco Wholesale,Systems Analysis,Student,Yes
+R274,Jerry Kaye,University of Florida,Coca-Cola,Data Mining,Professional,No
+R275,Gary Sharp,Brigham Young University,Enterprise Products Partners,Computer Engineering,Educator,No
+R276,Jack Vaughn,University of California Berkeley,AbbVie,Systems Analysis,Student,No
+R277,Joyce Harrington,University of California Berkeley,Citigroup,Cyber Security,Student,Yes
+R278,Willie Drake,College of William & Mary,AIG,Artificial Intelligence,Professional,Yes
+R279,Kenneth Miller,Wake Forest University,Citigroup,Data Mining,Student,No
+R280,Philip Frazier,Colby College,Lockheed Martin,Data Science,Student,No
+R281,Jose Davis,Vanderbilt University,PepsiCo,Robotics,Student,Yes
+R282,Judy Roman,United States Military Academy,Delta Air Lines,Back End,Educator,No
+R283,Lori Strickland,Grinnell College,World Fuel Services,Cloud Computing,Educator,No
+R284,Douglas Santos,University of Florida,Tyson Foods,Data Mining,Educator,No
+R285,Jonathan Reyes,Kenyon College,Costco Wholesale,Robotics,Educator,No
+R286,Troy Wong,Hamilton College,Centene,Data Science,Professional,Yes
+R287,Jacob Austin,Duke University,Anthem,Quantum Computing,Professional,No
+R288,Daniel Solis,University of Georgia,Walt Disney,Data Mining,Student,No
+R289,Emily Rose,Dartmouth College,Johnson & Johnson,Computer Engineering,Student,No
+R290,Randy Clark,Smith College,Target,User Interface Design,Professional,Yes
+R291,Tony Russell,Georgetown University,Procter & Gamble,Full Stack,Professional,Yes
+R292,Francisco Cooper,Brigham Young University,Honeywell International,User Experience Design,Student,No
+R293,Deborah Webster,United States Coast Guard Academy,Best Buy,Voice Technology,Educator,Yes
+R294,Stanley Moss,Babson College,Facebook,Quantum Computing,Student,No
+R295,Connie Foster,Kenyon College,Tyson Foods,Web Development,Student,Yes
+R296,Kyle Reilly,Colorado College,Exxon Mobil,Quantum Computing,Student,No
+R297,Emily Lopez,Case Western Reserve University,Prudential Financial,Cyber Security,Student,Yes
+R298,Gerald Kennedy,Duke University,Freddie Mac,Information Technology,Student,No
+R299,Lisa Watson,Case Western Reserve University,Marathon Petroleum,Full Stack,Professional,No
+R300,Sandra Woods,Brigham Young University,Coca-Cola,Cyber Security,Professional,No
+R301,Jeffrey Acosta,University of Florida,Alphabet,Mobile Applications,Student,No
+R302,Christina Hammond,Bates College,Bank of America,Data Science,Professional,Yes
+R303,Rodney Chapman,University of California Los Angeles,Walmart,User Experience Design,Educator,No
+R304,Ethel Seymour,Worcester Polytechnic Institute,Apple,Web Development,Student,Yes
+R305,Rebecca Miles,Villanova University,Lowe's,Cyber Security,Student,Yes
+R306,Theresa Gibbons,University of Maryland College Park,Bank of America,User Interface Design,Student,No
+R307,Francisco Stokes,University of California Berkeley,Charter Communications,Web Applications,Educator,No
+R308,Sandra Mitchell,Duke University,TJX,Voice Technology,Professional,Yes
+R309,Lee Miller,University of Chicago,DuPont de Nemours,Cryptography,Student,No
+R310,Lillian Hart,Brigham Young University,PepsiCo,Automation,Educator,No
+R311,Paula Drake,Southern Methodist University,Honeywell International,Software Engineering,Student,No
+R312,Gerald Steele,Wake Forest University,Procter & Gamble,Voice Technology,Student,Yes
+R313,Jessica Valencia,University of Richmond,Deere,Front End,Student,No
+R314,Brian Mcdonald,Washington University in St. Louis,Nike,Automation,Educator,No
+R315,Heather Perkins,University of Miami,Liberty Mutual Insurance Group,Computer Engineering,Professional,No
+R316,Clara Blair,Boston College,General Dynamics,Computer Networks,Student,No
+R317,Victoria Yang,Georgia Institute of Technology,FedEx,Systems Engineering,Student,Yes
+R318,Janet Lucas,University of Michigan Ann Arbor,Walgreens Boots Alliance,Web Applications,Professional,No
+R319,Annie Cooper,Williams College,Massachusetts Mutual Life Insurance,Mobile Applications,Student,Yes
+R320,Marcus Watts,Worcester Polytechnic Institute,Apple,Cloud Computing,Student,Yes
+R321,Mitchel Walsh,Brown University,Marathon Petroleum,Systems Analysis,Student,No
+R322,Clarence Lopez,Harvey Mudd College,CHS,Quantum Computing,Student,No
+R323,Anna Webb,Tufts University,HCA Healthcare,Information Technology,Educator,No
+R324,Debbie Montgomery,Bowdoin College,Cisco Systems,Computer Engineering,Educator,Yes
+R325,Christopher Patterson,Brandeis University,Amazon.com,Internet of Things,Student,Yes
+R326,Ryan Miller,University of Florida,Kroger,Biocomputation,Student,No
+R327,Nicole Hicks,Pitzer College,Best Buy,Computer Networks,Educator,No
+R328,Arthur Houston,Lehigh University,HP,Software Engineering,Student,No
+R329,Jose Norris,Bates College,Tyson Foods,User Experience Design,Educator,No
+R330,Irene Gibson,Vassar College,Plains GP Holdings,Robotics,Educator,No
+R331,Lee Weston,University of Notre Dame,CVS Health,Computer Networks,Educator,Yes
+R332,Crystal Miles,Tufts University,General Dynamics,Automation,Student,No
+R333,Howard Foster,Santa Clara University,UnitedHealth Group,Human Computer Interaction,Student,Yes
+R334,Jeremy Green,Colorado School of Mines,Merck,Automation,Professional,Yes
+R335,Michelle Lucas,Southern Methodist University,Allstate,Full Stack,Student,No
+R336,Margaret Fox,Cooper Union,Allstate,Human Computer Interaction,Student,No
+R337,Wendy Alexander,Swarthmore College,United Continental Holdings,Automation,Student,No
+R338,Maria Daniels,University of Minnesota Twin Cities,Boeing,Computer Engineering,Professional,No
+R339,Paul Carpenter,College of the Holy Cross,DuPont de Nemours,User Interface Design,Student,No
+R340,Fred Kaye,Wellesley College,Facebook,Systems Analysis,Student,No
+R341,Bobby Poole,University of Richmond,Tech Data,Machine Learning,Educator,Yes
+R342,Todd Fields,Claremont McKenna College,Centene,Robotics,Student,No
+R343,Joyce Humphrey,Princeton University,Nationwide,Human Computer Interaction,Educator,No
+R344,Michael Watts,Vassar College,FedEx,Machine Learning,Educator,No
+R345,Dorothy Stokes,Pitzer College,Phillips 66,Front End,Student,No
+R346,Cindy Russell,Cornell University,AmerisourceBergen,Database Management,Student,No
+R347,Doris Nunez,University of Pennsylvania,Home Depot,Information Management,Student,Yes
+R348,David Payne,College of William & Mary,Home Depot,Information Technology,Student,Yes
+R349,Richard Carson,Colby College,Prudential Financial,User Experience Design,Student,Yes
+R350,Andrew Dawson,University of North Carolina Chapel Hill,Merck,Systems Analysis,Student,No
+R351,Monica Patterson,Colorado College,AIG,Cryptography,Professional,Yes
+R352,Janet Weston,Boston University,Citigroup,Information Technology,Student,No
+R353,Carl Newman,Williams College,Goldman Sachs Group,Cryptography,Student,No
+R354,Billy Johnson,United States Merchant Marine Academy,Liberty Mutual Insurance Group,Software Engineering,Professional,Yes
+R355,Mitchel Grant,University of Pennsylvania,Goldman Sachs Group,Back End,Educator,No
+R356,Karen Calderon,University of Illinois Urbana-Champaign,Albertsons,Computer Engineering,Professional,No
+R357,Carl Fields,University of Notre Dame,Albertsons,Full Stack,Student,Yes
+R358,Kim Scott,Johns Hopkins University,American Express,Robotics,Educator,No
+R359,Leonard Walton,University of California Davis,Alphabet,Voice Technology,Professional,No
+R360,Dale Rodgers,Kenyon College,Honeywell International,Systems Engineering,Student,No
+R361,Carrie Meyer,Colgate University,Phillips 66,Voice Technology,Student,Yes
+R362,Brian Hernandez,University of California Los Angeles,Comcast,Cloud Computing,Professional,Yes
+R363,Janet Steele,Santa Clara University,Comcast,Voice Technology,Educator,No
+R364,Keith Wong,Dartmouth College,TIAA,Information Management,Professional,Yes
+R365,Steve Watts,University of California San Diego,AbbVie,Systems Engineering,Educator,Yes
+R366,Mark Cobb,Boston University,Lockheed Martin,Artificial Intelligence,Student,Yes
+R367,Rosa Day,United States Coast Guard Academy,Ford Motor,Cryptography,Student,Yes
+R368,Berenice Owens,Yale University,Walmart,Cryptography,Student,Yes
+R369,Paula Moran,Washington and Lee University,Walmart,Mobile Applications,Student,No
+R370,Jack Bartlett,Johns Hopkins University,Kroger,Web Applications,Student,No
+R371,Irene Dawson,Babson College,Valero Energy,Systems Analysis,Educator,No
+R372,Larry Fernandez,Santa Clara University,Goldman Sachs Group,Back End,Educator,No
+R373,Pauline Palmer,Dartmouth College,Cigna,Human Computer Interaction,Student,No
+R374,Nicole Holt,Babson College,Nike,Computer Engineering,Student,Yes
+R375,Eddie Scott,Johns Hopkins University,HP,Systems Engineering,Student,Yes
+R376,Hazel Palmer,University of California Los Angeles,Anthem,Data Mining,Educator,Yes
+R377,Teresa Lopez,Massachusetts Institute of Technology,Chevron,Artificial Intelligence,Educator,No
+R378,Carlos Collins,Colorado College,Progressive,Web Development,Student,No
+R379,Michael Abbott,University of Notre Dame,Exxon Mobil,Software Engineering,Student,No
+R380,Jose Harmon,Lehigh University,Cigna,Cryptography,Student,No
+R381,Kevin Rodgers,University of Illinois Urbana-Champaign,Tech Data,Cloud Computing,Student,Yes
+R382,Artemis Newman,Babson College,Target,Software Engineering,Student,No
+R383,Leonard Mccarthy,United States Coast Guard Academy,Coca-Cola,Robotics,Student,No
+R384,Cindy Lopez,United States Coast Guard Academy,Apple,Machine Learning,Educator,No
+R385,Jake Perkins,Case Western Reserve University,IBM,Machine Learning,Professional,No
+R386,Martin Ferguson,Colby College,MetLife,Web Development,Student,No
+R387,Doris James,Washington University in St. Louis,Microsoft,Back End,Professional,Yes
+R388,Lawrence Hall,Haverford College,Merck,Data Mining,Educator,No
+R389,Amanda Ortiz,University of North Carolina Chapel Hill,American Express,Artificial Intelligence,Student,No
+R390,Rachel Daniels,University of California San Diego,Procter & Gamble,Quantum Computing,Student,No
+R391,Mary Houston,United States Military Academy,Nationwide,Software Engineering,Educator,No
+R392,Ryan Fernandez,Washington University in St. Louis,Costco Wholesale,User Experience Design,Educator,Yes
+R393,Clifford Becker,University of California Berkeley,Plains GP Holdings,Front End,Student,Yes
+R394,Stanley Seymour,Wake Forest University,Bank of America,Software Engineering,Student,Yes
+R395,Miguel Camacho,Villanova University,Progressive,Software Engineering,Student,No
+R396,Glenn Rose,Claremont McKenna College,Cisco Systems,Systems Engineering,Student,No
+R397,Leonard Gordon,Colgate University,TIAA,Information Management,Educator,Yes
+R398,Christine Mcguire,University of Chicago,Enterprise Products Partners,User Experience Design,Student,Yes
+R399,Nathan Vargas,Brown University,Home Depot,Database Management,Student,No
+R400,Victor Grant,Vanderbilt University,Johnson & Johnson,Artificial Intelligence,Student,No
+R401,Rebecca Webster,Harvard University,Marathon Petroleum,Data Science,Student,Yes
+R402,Nicole Steele,Swarthmore College,Publix Super Markets,Systems Engineering,Educator,No
+R403,Andrew Kay,United States Naval Academy,MetLife,Software Engineering,Professional,No
+R404,Jamie Rose,Carleton College,Energy Transfer,Mobile Applications,Professional,No
+R405,Ryan Mcgee,United States Air Force Academy,Best Buy,Systems Engineering,Student,No
+R406,Sean Berry,University of North Carolina Chapel Hill,State Farm Insurance,Software Engineering,Educator,No
+R407,Manuel Williamson,University of Wisconsin Madison,AIG,Information Management,Educator,No
+R408,Curtis Reyes,Columbia University,Kroger,Cloud Computing,Educator,No
+R409,Linda Solis,Johns Hopkins University,Liberty Mutual Insurance Group,Front End,Student,No
+R410,Rosa Bartlett,Carnegie Mellon University,Deere,Systems Engineering,Student,No
+R411,Adam Watts,Southern Methodist University,Comcast,Artificial Intelligence,Professional,No
+R412,Kevin Stephens,Pitzer College,Walt Disney,Web Development,Student,No
+R413,Connie Miles,Worcester Polytechnic Institute,Nationwide,Cyber Security,Student,No
+R414,Jake Rodgers,College of William & Mary,AbbVie,User Interface Design,Educator,No
+R415,Douglas Love,Massachusetts Institute of Technology,Delta Air Lines,User Interface Design,Educator,No
+R416,Albert Santiago,Massachusetts Institute of Technology,Microsoft,Data Science,Professional,Yes
+R417,Nicholas Mcdonald,Harvey Mudd College,AbbVie,User Experience Design,Student,Yes
+R418,Evelyn Mccarthy,Barnard College,American Express,Human Computer Interaction,Educator,No
+R419,Anthony Mason,Princeton University,Alphabet,Front End,Student,Yes
+R420,Sara Bell,University of Notre Dame,Walgreens Boots Alliance,Web Development,Student,No
+R421,Jose Williamson,United States Naval Academy,Dell Technologies,Human Computer Interaction,Student,No
+R422,Carrie Hoffman,Case Western Reserve University,Best Buy,Cloud Computing,Educator,No
+R423,Julia Rose,University of Florida,Oracle,Cloud Computing,Student,Yes
+R424,Kara Mckinney,Swarthmore College,McKesson,Internet of Things,Student,Yes
+R425,Craig Solis,University of Minnesota Twin Cities,Amazon.com,Cloud Computing,Student,Yes
+R426,Christine Castro,Barnard College,Microsoft,Internet of Things,Student,No
+R427,Terry Patterson,Harvard University,Albertsons,Web Applications,Student,No
+R428,Hazel Li,New York University,McKesson,Robotics,Student,No
+R429,Gina Solis,University of Georgia,Capital One Financial,Computer Networks,Student,Yes
+R430,Jimmy Lee,Boston College,UnitedHealth Group,Web Applications,Student,Yes
+R431,Pamela Coleman,University of California Santa Barbara,Cisco Systems,Human Computer Interaction,Educator,No
+R432,Bobby Herbert,Colorado College,Plains GP Holdings,Cloud Computing,Student,No
+R433,Angela Cobb,College of William & Mary,Energy Transfer,Systems Engineering,Student,No
+R434,Harry Hubbard,University of Rochester,Albertsons,Web Applications,Student,Yes
+R435,Bernard Porter,Carnegie Mellon University,Cardinal Health,Data Mining,Professional,No
+R436,Gerald Phillips,University of California Santa Barbara,Apple,Computer Networks,Student,Yes
+R437,David Garner,Rice University,Tyson Foods,Information Technology,Student,No
+R438,Luis Lewis,Washington and Lee University,General Motors,Web Development,Student,Yes
+R439,Linda Dawson,Johns Hopkins University,Phillips 66,Mobile Applications,Professional,No
+R440,Clarence Ray,University of Georgia,American Airlines Group,Automation,Student,No
+R441,Thomas Rice,University of Notre Dame,General Motors,Artificial Intelligence,Student,Yes
+R442,Philip Moss,Emory University,Alphabet,User Experience Design,Student,Yes
+R443,Larry Valdez,Duke University,Verizon Communications,Internet of Things,Student,No
+R444,Raymond Li,Georgetown University,General Dynamics,Data Mining,Student,No
+R445,Russell Burke,Boston College,Citigroup,Computer Networks,Student,Yes
+R446,Ashley Mcdonald,Emory University,Verizon Communications,Quantum Computing,Student,No
+R447,Marcus Stuart,University of Wisconsin Madison,MetLife,Voice Technology,Student,No
+R448,George Meyer,Williams College,Marathon Petroleum,Machine Learning,Professional,No
+R449,Melissa Powell,Worcester Polytechnic Institute,Centene,Computer Networks,Student,No
+R450,Linda Acosta,University of California Irvine,Tyson Foods,Human Computer Interaction,Educator,Yes
+R451,Jason Akhtar,Villanova University,Berkshire Hathaway,Web Applications,Student,No
+R452,Jeff Hernandez,Macalester College,Walmart,Internet of Things,Student,Yes
+R453,Frederick Marshall,University of California Irvine,Walt Disney,Web Development,Student,Yes
+R454,Walter Akhtar,Amherst College,Apple,Database Management,Student,No
+R455,Marvin Wilkerson,Babson College,Chevron,Computer Networks,Student,No
+R456,Rina Lucas,Stanford University,TJX,Software Engineering,Educator,Yes
+R457,Orion Meyer,Haverford College,Delta Air Lines,Human Computer Interaction,Professional,No
+R458,Tara Meyer,University of California Davis,Dell Technologies,Information Technology,Student,No
+R459,Cindy Rose,Wake Forest University,TJX,Database Management,Student,No
+R460,Mary Hart,Harvard University,Boeing,Systems Analysis,Student,No
+R461,Bobby Fletcher,Northwestern University,Target,Information Management,Student,No
+R462,Karen Hoffman,Yale University,Exelon,Automation,Student,No
+R463,Barry Smith,Johns Hopkins University,Publix Super Markets,Mobile Applications,Educator,No
+R464,Judith Baird,Colorado College,AmerisourceBergen,Artificial Intelligence,Student,No
+R465,Brenda Stevens,Vanderbilt University,JPMorgan Chase,Full Stack,Professional,No
+R466,Brian Deleon,Washington University in St. Louis,Berkshire Hathaway,Computer Networks,Educator,No
+R467,Randall Vasquez,Hamilton College,Johnson & Johnson,Web Development,Educator,No
+R468,Leslie Nichols,College of William & Mary,Procter & Gamble,Voice Technology,Student,No
+R469,Bryan Graham,University of Maryland College Park,Target,Data Mining,Educator,No
+R470,Edwin Weber,University of Southern California,General Electric,Cloud Computing,Educator,No
+R471,Patrick Hicks,Villanova University,McKesson,Biocomputation,Professional,No
+R472,Marilyn Kelly,University of California Berkeley,Deere,Web Development,Student,No
+R473,Gloria Hernandez,University of Maryland College Park,Alphabet,Mobile Applications,Student,No
+R474,Jesse Moran,New York University,Ford Motor,Back End,Professional,Yes
+R475,Donald Thompson,Haverford College,Facebook,Back End,Student,No
+R476,Jamie Kay,University of Notre Dame,Albertsons,Database Management,Educator,No
+R477,Bonnie Houston,Bowdoin College,Exxon Mobil,Web Development,Educator,No
+R478,Brian Dominguez,College of the Holy Cross,Tech Data,Web Applications,Student,No
+R479,Curtis Richardson,Kenyon College,DuPont de Nemours,Data Science,Student,Yes
+R480,April Harper,Colorado College,Plains GP Holdings,Computer Networks,Professional,Yes
+R481,Randy Simpson,Smith College,Merck,Systems Engineering,Educator,No
+R482,Monica Nunez,Babson College,Phillips 66,Cloud Computing,Student,No
+R483,Melanie Ramos,Case Western Reserve University,Lockheed Martin,Systems Analysis,Student,Yes
+R484,Kathleen Sharp,Oberlin College,Walgreens Boots Alliance,Systems Engineering,Student,No
+R485,Bonnie Snyder,Bates College,United Technologies,Biocomputation,Professional,No
+R486,Ricky Sharp,University of Pennsylvania,Valero Energy,Voice Technology,Student,No
+R487,Melanie Hammond,Swarthmore College,ConocoPhillips,Data Mining,Educator,No
+R488,Arthur Higgins,Northwestern University,3M,Voice Technology,Educator,No
+R489,Brandon Miller,Colgate University,Johnson & Johnson,User Interface Design,Educator,No
+R490,Travis Day,Columbia University,Tyson Foods,Information Management,Student,Yes
+R491,Terry Mcdonald,Boston College,TIAA,Voice Technology,Professional,Yes
+R492,Kevin Russell,Haverford College,Dell Technologies,Information Technology,Student,No
+R493,Charles Simpson,Massachusetts Institute of Technology,Dell Technologies,Back End,Professional,No
+R494,Frederick Dominguez,Santa Clara University,JPMorgan Chase,Back End,Professional,Yes
+R495,Jean Schultz,Pitzer College,Honeywell International,Information Technology,Student,Yes
+R496,Barry Stokes,College of William & Mary,ConocoPhillips,Biocomputation,Student,Yes
+R497,Mitchel Daniels,University of Southern California,American Express,Full Stack,Educator,Yes
+R498,Manuel Coleman,Lehigh University,Marathon Petroleum,Database Management,Student,No
+R499,Jeffrey Hernandez,University of Notre Dame,Nationwide,Systems Engineering,Professional,No
+R500,Phillip Blair,George Washington University,Nationwide,Web Development,Educator,Yes
+R501,Nicholas Field,Lehigh University,Nationwide,Software Engineering,Student,No
+R502,Rosa Patel,Bowdoin College,Oracle,Automation,Student,No
+R503,Marcus Kaye,University of Chicago,Enterprise Products Partners,Robotics,Professional,No
+R504,Barbara Solis,Bates College,Charter Communications,Database Management,Educator,No
+R505,Travis Hunter,Bates College,McKesson,Front End,Student,No
+R506,Nora Fields,Worcester Polytechnic Institute,Publix Super Markets,Data Mining,Educator,No
+R507,Paula Swanson,Kenyon College,Oracle,Internet of Things,Student,No
+R508,Daniel Lyons,Johns Hopkins University,Chevron,Mobile Applications,Student,No
+R509,Clara Harris,University of Georgia,Best Buy,Quantum Computing,Student,No
+R510,Vincent Connolly,Johns Hopkins University,Archer Daniels Midland,Information Management,Educator,Yes
+R511,Joseph Holmes,University of Southern California,Cigna,Quantum Computing,Student,Yes
+R512,Mary Hernandez,Amherst College,Honeywell International,Data Science,Student,No
+R513,Margaret Montgomery,Southern Methodist University,Exxon Mobil,Systems Engineering,Student,No
+R514,Paula Johnson,Colgate University,3M,Web Development,Student,Yes
+R515,Peter Reynolds,University of Rochester,Walt Disney,User Experience Design,Professional,No
+R516,Kara Mejia,Lafayette College,Morgan Stanley,Computer Networks,Professional,No
+R517,Kathleen Kaye,George Washington University,Costco Wholesale,Automation,Student,No
+R518,Cheryl Scott,Cornell University,Marathon Petroleum,Cyber Security,Educator,Yes
+R519,Travis Maldonado,Boston College,AmerisourceBergen,Front End,Student,Yes
+R520,Charles Burke,University of Minnesota Twin Cities,Procter & Gamble,Database Management,Student,Yes
+R521,Clara Hansen,University of Wisconsin Madison,HP,Cyber Security,Student,Yes
+R522,Jonathan Woods,University of California Berkeley,Lowe's,Artificial Intelligence,Professional,No
+R523,Vincent Rees,Pitzer College,Goldman Sachs Group,Web Development,Student,Yes
+R524,Judy Bowman,Whitman College,Cigna,Quantum Computing,Professional,No
+R525,Victoria Hart,University of California Berkeley,Berkshire Hathaway,Cloud Computing,Professional,No
+R526,Joseph Harmon,United States Military Academy,CHS,User Interface Design,Student,No
+R527,Sharon Santos,Georgetown University,United Continental Holdings,Artificial Intelligence,Professional,Yes
+R528,Eva Lee,Claremont McKenna College,IBM,Voice Technology,Student,No
+R529,Irene Acosta,Kenyon College,Wells Fargo,Machine Learning,Student,No
+R530,Jose Gibson,Georgia Institute of Technology,General Electric,Computer Engineering,Professional,Yes
+R531,Alexander Cooper,University of Southern California,Merck,Systems Engineering,Educator,No
+R532,Michelle Cobb,Santa Clara University,Cigna,Systems Analysis,Professional,Yes
+R533,Amanda Stokes,Wesleyan University,Lockheed Martin,Automation,Student,No
+R534,Marcus Gardner,Tufts University,AmerisourceBergen,Computer Networks,Student,Yes
+R535,Theresa Valencia,Bucknell University,Delta Air Lines,Human Computer Interaction,Student,No
+R536,Lisa Knight,University of Minnesota Twin Cities,Pfizer,Machine Learning,Student,No
+R537,Rose Porter,Johns Hopkins University,Bank of America,User Interface Design,Student,No
+R538,Joanne Clark,Pitzer College,Merck,Cloud Computing,Student,No
+R539,Marie Cooper,Boston College,DuPont de Nemours,Data Mining,Educator,No
+R540,Chris Mckinney,Tufts University,Verizon Communications,Information Management,Student,Yes
+R541,Julie Gardner,College of the Holy Cross,JPMorgan Chase,Back End,Student,Yes
+R542,Mark Barnes,Bowdoin College,Massachusetts Mutual Life Insurance,Web Applications,Educator,No
+R543,Kim Porter,University of Richmond,Best Buy,Full Stack,Professional,No
+R544,Thomas Armstrong,Colby College,Capital One Financial,Cyber Security,Student,Yes
+R545,William Woods,University of North Carolina Chapel Hill,Prudential Financial,Computer Engineering,Professional,No
+R546,Rachel Higgins,Washington University in St. Louis,Goldman Sachs Group,Database Management,Educator,No
+R547,Matthew Howard,University of Maryland College Park,United Continental Holdings,Internet of Things,Student,Yes
+R548,Jose Vargas,Babson College,Walgreens Boots Alliance,Robotics,Student,No
+R549,Sylvia Kelley,Washington University in St. Louis,Freddie Mac,Internet of Things,Student,No
+R550,Tara Herbert,Johns Hopkins University,Chevron,Internet of Things,Student,Yes
+R551,Stanley Parks,Grinnell College,Fannie Mae,Computer Engineering,Student,Yes
+R552,Raymond Bridges,Middlebury College,World Fuel Services,Data Mining,Professional,No
+R553,Edward Berry,Colorado School of Mines,PepsiCo,Biocomputation,Student,Yes
+R554,Sharon Doyle,Harvard University,TIAA,Mobile Applications,Student,Yes
+R555,Joyce Moran,Northwestern University,CHS,Information Technology,Professional,No
+R556,Gloria Reed,Southern Methodist University,United Continental Holdings,Human Computer Interaction,Educator,Yes
+R557,Diana Webster,Worcester Polytechnic Institute,JPMorgan Chase,Cyber Security,Student,No
+R558,Elizabeth Gutierrez,Stanford University,Massachusetts Mutual Life Insurance,Artificial Intelligence,Educator,No
+R559,Florence Hansen,University of California Santa Barbara,United Technologies,Full Stack,Educator,No
+R560,Charles Morgan,Yale University,TIAA,Cyber Security,Student,No
+R561,Shawn Stevens,University of California Santa Barbara,Oracle,Human Computer Interaction,Educator,Yes
+R562,Samuel Phillips,University of Southern California,McKesson,Machine Learning,Professional,No
+R563,Sharon Grant,University of Virginia,Phillips 66,Machine Learning,Student,No
+R564,Ralph Ingram,Yeshiva University,American Express,Machine Learning,Professional,No
+R565,Sara Schneider,Davidson College,Albertsons,Information Management,Educator,Yes
+R566,Ruby Padilla,Vanderbilt University,Alphabet,Biocomputation,Student,No
+R567,Peter James,Washington University in St. Louis,Prudential Financial,Artificial Intelligence,Professional,No
+R568,Dennis Bowman,Pitzer College,Anthem,Artificial Intelligence,Student,Yes
+R569,Patrick Snyder,University of Miami,CVS Health,Cyber Security,Student,No
+R570,Edward Fletcher,Lafayette College,Sysco,Artificial Intelligence,Student,No
+R571,Diane Howell,College of the Holy Cross,Best Buy,Robotics,Student,No
+R572,Martin Palmer,Oberlin College,Deere,Information Management,Professional,Yes
+R573,Todd Solis,Brown University,New York Life Insurance,Web Development,Student,No
+R574,Frances Oliver,Grinnell College,Valero Energy,Back End,Professional,No
+R575,Steve Stephens,Carnegie Mellon University,Freddie Mac,Artificial Intelligence,Educator,No
+R576,Walter Higgins,University of Rochester,Walgreens Boots Alliance,User Interface Design,Professional,No
+R577,Chad Fletcher,University of Minnesota Twin Cities,Honeywell International,Software Engineering,Student,No
+R578,Josephine Richardson,University of Georgia,Cardinal Health,Database Management,Educator,Yes
+R579,Edward Reilly,Colorado School of Mines,Ford Motor,Data Mining,Professional,No
+R580,Rebecca Burns,Williams College,Anthem,Robotics,Educator,Yes
+R581,Clara Yates,Swarthmore College,Citigroup,Data Science,Student,Yes
+R582,James Hernandez,Massachusetts Institute of Technology,FedEx,Information Technology,Professional,No
+R583,Crystal Solis,Scripps College,TJX,Database Management,Professional,No
+R584,Jennifer Palmer,Case Western Reserve University,Enterprise Products Partners,Software Engineering,Student,Yes
+R585,Michelle Higgins,Brown University,Bank of America,Artificial Intelligence,Student,No
+R586,Scott Lopez,College of William & Mary,CHS,Front End,Student,No
+R587,Kevin Holmes,New York University,Deere,Quantum Computing,Professional,No
+R588,Frank Mackay,University of Texas Austin,United Parcel Service,Human Computer Interaction,Educator,No
+R589,Paula Bailey,Cooper Union,Oracle,Web Applications,Student,No
+R590,Julie Mcgee,University of Texas Austin,Tech Data,Automation,Professional,No
+R591,Christopher Griffiths,University of California Los Angeles,Merck,Systems Analysis,Professional,No
+R592,Fred Phillips,Harvard University,Bank of America,Front End,Educator,No
+R593,Gina Thomson,Haverford College,New York Life Insurance,Robotics,Student,No
+R594,Anita Maldonado,Georgia Institute of Technology,State Farm Insurance,Full Stack,Educator,Yes
+R595,Kara Sharp,Lafayette College,Deere,Software Engineering,Professional,No
+R596,Anthony Owens,Babson College,Home Depot,Human Computer Interaction,Professional,No
+R597,Sheila Davidson,Yeshiva University,Walgreens Boots Alliance,Computer Networks,Student,No
+R598,Melanie Austin,United States Air Force Academy,Costco Wholesale,Systems Analysis,Educator,No
+R599,Terry Field,California Institute of Technology,Home Depot,Web Development,Student,Yes
+R600,Brenda Snyder,Wesleyan University,Amazon.com,Information Technology,Student,Yes
+R601,Joanne Parks,Carleton College,Phillips 66,Automation,Student,No
+R602,Esther Rodriguez,Smith College,United Technologies,User Experience Design,Professional,No
+R603,Tiffany Simpson,University of Chicago,Deere,Data Mining,Student,No
+R604,Peter Mason,Bates College,Walmart,Database Management,Educator,No
+R605,Andrea Harper,Davidson College,Anthem,Front End,Professional,No
+R606,Karen Webb,University of Miami,American Airlines Group,Full Stack,Student,No
+R607,Don Grant,University of California Los Angeles,Johnson & Johnson,Human Computer Interaction,Student,No
+R608,Orion Goodman,Whitman College,Energy Transfer,Computer Networks,Educator,No
+R609,Chad Becker,University of Wisconsin Madison,Humana,Systems Engineering,Student,No
+R610,Tammy Vaughn,Yale University,Caterpillar,User Interface Design,Student,Yes
+R611,John Calderon,Yale University,General Dynamics,Internet of Things,Professional,Yes
+R612,Frederick Bailey,Georgia Institute of Technology,Humana,Database Management,Student,Yes
+R613,Christopher Reynolds,University of Florida,Energy Transfer,Full Stack,Student,No
+R614,Nancy Lopez,Harvey Mudd College,HP,Web Development,Professional,No
+R615,Lois Wong,Swarthmore College,ConocoPhillips,Biocomputation,Student,Yes
+R616,Jose Cooper,Colby College,Exxon Mobil,Machine Learning,Educator,Yes
+R617,Don Miles,United States Coast Guard Academy,Kroger,Robotics,Educator,No
+R618,Louis Armstrong,Princeton University,Anthem,Computer Engineering,Professional,No
+R619,Kimberly Fox,George Washington University,Cardinal Health,Human Computer Interaction,Professional,No
+R620,Marcus Gibson,New York University,HCA Healthcare,User Experience Design,Professional,Yes
+R621,Jeff Russell,Whitman College,MetLife,Computer Networks,Educator,No
+R622,Chad Steele,Yeshiva University,Costco Wholesale,Web Development,Educator,No
+R623,Matthew Maldonado,Washington and Lee University,Pfizer,Quantum Computing,Student,Yes
+R624,Nancy Lucas,Northwestern University,Kroger,Cryptography,Student,No
+R625,Dale Morgan,United States Air Force Academy,TIAA,Web Applications,Student,No
+R626,Manuel Webb,Bucknell University,Cisco Systems,Robotics,Student,Yes
+R627,Rachel Graham,University of Pennsylvania,Fannie Mae,User Experience Design,Student,No
+R628,Tammy West,Kenyon College,United Continental Holdings,Machine Learning,Student,Yes
+R629,Jeff Poole,Tufts University,AT&T,Automation,Student,Yes
+R630,Lori Clark,Pomona College,TJX,Robotics,Professional,Yes
+R631,Theodore Miles,Haverford College,General Motors,User Experience Design,Student,No
+R632,Melissa Rees,Dartmouth College,Liberty Mutual Insurance Group,Cyber Security,Student,No
+R633,Clara Kay,Massachusetts Institute of Technology,UnitedHealth Group,Human Computer Interaction,Student,Yes
+R634,Esther Hanson,Harvard University,CVS Health,Database Management,Educator,Yes
+R635,Lawrence Bailey,Columbia University,Freddie Mac,User Interface Design,Student,No
+R636,Crystal Vega,Harvey Mudd College,Lockheed Martin,User Experience Design,Student,Yes
+R637,Eric Hunt,Grinnell College,Publix Super Markets,Full Stack,Student,No
+R638,Stanley Holt,Cooper Union,United Parcel Service,Robotics,Professional,No
+R639,Peggy Schultz,Boston University,Coca-Cola,Data Mining,Professional,Yes
+R640,Norman Johnson,Swarthmore College,Sysco,Robotics,Professional,Yes
+R641,Jake Stephens,Dartmouth College,Tyson Foods,Data Science,Educator,No
+R642,Melanie Castro,University of Texas Austin,Amazon.com,Voice Technology,Student,No
+R643,Leonard Ray,Stanford University,General Electric,Data Mining,Professional,No
+R644,Carl Calderon,Washington and Lee University,Nationwide,Biocomputation,Student,Yes
+R645,Janet Humphrey,University of Rochester,Humana,Quantum Computing,Professional,Yes
+R646,Cynthia Bartlett,Oberlin College,MetLife,Robotics,Student,No
+R647,Randy Stevens,Davidson College,Charter Communications,Information Management,Student,Yes
+R648,Vincent Lyons,Vanderbilt University,Charter Communications,Software Engineering,Professional,No
+R649,Gary Khan,Harvard University,Intel,Human Computer Interaction,Educator,Yes
+R650,Stephanie Chapman,Whitman College,Delta Air Lines,Web Development,Educator,Yes
+R651,Erin Webb,University of Miami,Exxon Mobil,Machine Learning,Student,No
+R652,Kara Kaye,Lehigh University,Energy Transfer,Quantum Computing,Educator,No
+R653,Cheryl Walsh,Barnard College,Intel,Software Engineering,Student,No
+R654,Sherry Peterson,Vanderbilt University,Boeing,Computer Engineering,Professional,No
+R655,Joel Williams,Vassar College,World Fuel Services,Voice Technology,Professional,No
+R656,Kim Moss,Amherst College,Plains GP Holdings,Back End,Student,No
+R657,Martin Mcgee,Northwestern University,United Parcel Service,Robotics,Student,No
+R658,Berenice Thomson,George Washington University,Best Buy,Web Applications,Professional,No
+R659,Edward Hawkins,University of California San Diego,Massachusetts Mutual Life Insurance,Artificial Intelligence,Student,No
+R660,Annie Guzman,New York University,Intel,Software Engineering,Educator,No
+R661,Emily Dawson,College of the Holy Cross,Energy Transfer,Database Management,Educator,No
+R662,Gloria Vargas,Massachusetts Institute of Technology,Target,Artificial Intelligence,Student,No
+R663,Wayne Mcguire,Bates College,United Continental Holdings,Full Stack,Student,Yes
+R664,Kevin Higgins,University of Chicago,Oracle,Data Science,Student,No
+R665,Tracy Mckinney,Cornell University,Freddie Mac,Artificial Intelligence,Professional,No
+R666,Kathleen Crawford,Lehigh University,Caterpillar,Systems Engineering,Student,Yes
+R667,Manuel Ray,Vassar College,Albertsons,Data Mining,Educator,No
+R668,Douglas Hunter,Grinnell College,Lowe's,Cyber Security,Educator,No
+R669,Donald Hart,University of California Los Angeles,American Airlines Group,Back End,Student,Yes
+R670,Bobby Martinez,University of California Irvine,Nationwide,Software Engineering,Professional,Yes
+R671,Melanie Mendez,Colorado College,Johnson & Johnson,Computer Networks,Student,No
+R672,Jerry Carpenter,Barnard College,Walmart,Computer Networks,Student,No
+R673,Eugene Holmes,Colorado School of Mines,ConocoPhillips,Cryptography,Student,No
+R674,Marie Ferguson,University of Illinois Urbana-Champaign,Walgreens Boots Alliance,Systems Analysis,Student,No
+R675,Robin Thomson,Dartmouth College,Plains GP Holdings,User Interface Design,Educator,Yes
+R676,Joan Hall,California Institute of Technology,World Fuel Services,Data Mining,Student,No
+R677,Margaret Cross,Williams College,AmerisourceBergen,Data Science,Student,No
+R678,Louise Becker,University of Minnesota Twin Cities,Capital One Financial,Cloud Computing,Educator,No
+R679,Danny Weber,University of Maryland College Park,Walmart,Cloud Computing,Educator,Yes
+R680,Christine Stevens,Yeshiva University,Walgreens Boots Alliance,Information Technology,Student,No
+R681,Mark Webb,Bates College,HCA Healthcare,Machine Learning,Student,No
+R682,Jamie Reilly,Scripps College,New York Life Insurance,Front End,Student,No
+R683,Mike Montgomery,Rice University,Nike,Information Technology,Student,No
+R684,Ruby Rose,Wake Forest University,Nike,Robotics,Student,No
+R685,Carlos Harris,Carnegie Mellon University,Humana,Automation,Student,No
+R686,Esther Mcguire,Kenyon College,FedEx,Internet of Things,Student,No
+R687,Michael Farmer,Whitman College,Boeing,Cyber Security,Professional,No
+R688,Laura Deleon,Wesleyan University,Intel,Software Engineering,Student,No
+R689,Roy Harper,Whitman College,Massachusetts Mutual Life Insurance,Computer Networks,Student,No
+R690,Marvin Clark,Villanova University,General Electric,Human Computer Interaction,Student,No
+R691,Elizabeth Field,Yale University,New York Life Insurance,Full Stack,Professional,Yes
+R692,Jimmy Mcgee,Kenyon College,CHS,Information Management,Professional,No
+R693,Tracy Moran,United States Merchant Marine Academy,AbbVie,Computer Networks,Student,No
+R694,Sylvia Reyes,Pomona College,Ford Motor,Web Development,Student,Yes
+R695,Ethan Barton,Haverford College,Kroger,Full Stack,Educator,No
+R696,Leonard Bailey,Cornell University,ConocoPhillips,Automation,Student,Yes
+R697,Benjamin Lee,Georgetown University,United Parcel Service,Information Technology,Student,No
+R698,Billy Coleman,University of Pennsylvania,Bank of America,Data Science,Student,Yes
+R699,Michelle Higgins,Washington University in St. Louis,General Dynamics,Voice Technology,Student,No
+R700,Wendy Payne,United States Coast Guard Academy,Nike,Back End,Student,No
+R701,Wendy Stone,Bucknell University,Capital One Financial,Information Management,Student,No
+R702,Ethel Zimmerman,Williams College,CHS,Data Science,Student,Yes
+R703,Elaine Montgomery,United States Coast Guard Academy,FedEx,Front End,Student,Yes
+R704,Jacqueline Crawford,Dartmouth College,American Airlines Group,Information Technology,Student,No
+R705,Pauline Khan,Williams College,AT&T,Artificial Intelligence,Student,No
+R706,Harry Lucas,Princeton University,Facebook,User Experience Design,Student,No
+R707,Luis Humphrey,Massachusetts Institute of Technology,Walt Disney,Cryptography,Professional,No
+R708,Carmen Howell,Colby College,Deere,Artificial Intelligence,Student,No
+R709,Tony Camacho,Davidson College,CHS,Biocomputation,Professional,No
+R710,Manuel Herbert,Scripps College,Tech Data,Systems Analysis,Student,Yes
+R711,Elaine Lloyd,Williams College,Johnson & Johnson,Database Management,Student,No
+R712,Troy Newman,Brown University,Archer Daniels Midland,Information Management,Student,Yes
+R713,Sheila Vargas,Colorado College,IBM,Database Management,Student,Yes
+R714,Joshua Perkins,Wellesley College,FedEx,Data Mining,Educator,No
+R715,Joan Walker,University of California Santa Barbara,Walt Disney,Cloud Computing,Educator,Yes
+R716,Ricky Wade,Wake Forest University,Apple,Cyber Security,Professional,No
+R717,Victoria Kaye,Carleton College,3M,Data Mining,Student,No
+R718,Diana Burton,Williams College,Walt Disney,Web Applications,Professional,No
+R719,Debbie Mason,University of Michigan Ann Arbor,Fannie Mae,Back End,Professional,No
+R720,Jeffrey Sullivan,Hamilton College,Citigroup,User Interface Design,Professional,No
+R721,Peggy Cunningham,Colby College,CHS,Data Mining,Student,No
+R722,Elle Maldonado,Macalester College,CHS,Cyber Security,Professional,No
+R723,Elaine Love,Stanford University,Tech Data,Cloud Computing,Professional,No
+R724,Chris Flores,Barnard College,Merck,Computer Networks,Educator,No
+R725,Karen Santos,Washington and Lee University,World Fuel Services,Back End,Professional,No
+R726,Judy Maxwell,Wellesley College,Publix Super Markets,Data Mining,Educator,No
+R727,Cindy Velasquez,University of Georgia,Goldman Sachs Group,Cloud Computing,Student,Yes
+R728,Tracy Hernandez,George Washington University,Exelon,Robotics,Educator,No
+R729,Marvin Hammond,Babson College,Enterprise Products Partners,Back End,Student,No
+R730,Dale Ramos,Santa Clara University,General Electric,Robotics,Student,No
+R731,Eric Nelson,Davidson College,Exxon Mobil,Artificial Intelligence,Student,No
+R732,Lori Mckinney,University of California Davis,Citigroup,Human Computer Interaction,Educator,No
+R733,Vincent Hart,Carnegie Mellon University,Phillips 66,Internet of Things,Educator,No
+R734,Randy Barnes,University of Richmond,Oracle,Cloud Computing,Student,No
+R735,Kelly Harper,Harvard University,Nationwide,Mobile Applications,Student,Yes
+R736,Evelyn Smart,Rice University,Progressive,Computer Engineering,Student,No
+R737,Pamela Miles,Pitzer College,Pfizer,Computer Networks,Student,No
+R738,Benjamin Lyons,University of Texas Austin,Nationwide,Cryptography,Student,No
+R739,Leslie Anderson,University of Georgia,Cisco Systems,Cloud Computing,Student,Yes
+R740,Kim Miller,University of Florida,Costco Wholesale,Human Computer Interaction,Educator,No
+R741,Diane Barton,New York University,Target,Full Stack,Educator,No
+R742,Orion George,Bucknell University,Apple,Information Technology,Educator,No
+R743,Troy Fernandez,Cooper Union,United Parcel Service,Internet of Things,Student,No
+R744,Christopher Lawson,Duke University,Nationwide,Computer Engineering,Student,No
+R745,Bobby Rodriguez,University of Wisconsin Madison,Apple,Biocomputation,Student,No
+R746,Peter Berry,Kenyon College,United Parcel Service,Information Management,Student,No
+R747,Tina Mason,Wesleyan University,IBM,Software Engineering,Educator,No
+R748,Janice Vaughn,Cornell University,Freddie Mac,Robotics,Professional,No
+R749,Jason Holland,Yeshiva University,Alphabet,Human Computer Interaction,Student,No
+R750,Curtis Miller,Pomona College,IBM,User Experience Design,Student,No
+R751,Emma Poole,Swarthmore College,Plains GP Holdings,Robotics,Student,No
+R752,Sara Baldwin,Whitman College,Kroger,Data Mining,Professional,No
+R753,Sylvia Harris,University of California Los Angeles,General Motors,Information Technology,Student,Yes
+R754,Daniel George,Colorado College,Home Depot,Information Technology,Student,Yes
+R755,Jason Hubbard,Smith College,United Parcel Service,Quantum Computing,Student,No
+R756,Helen Sullivan,University of Texas Austin,Chevron,Artificial Intelligence,Student,No
+R757,Allen Owens,Barnard College,Plains GP Holdings,Cloud Computing,Student,Yes
+R758,Kara Francis,Pitzer College,Lockheed Martin,Full Stack,Student,No
+R759,Theodore Nunez,Emory University,AIG,Data Science,Professional,No
+R760,Joel Cooper,College of the Holy Cross,Best Buy,Data Science,Professional,No
+R761,Debbie Nelson,Vassar College,HCA Healthcare,Cryptography,Student,Yes
+R762,Mark Hammond,Brandeis University,MetLife,Information Technology,Educator,Yes
+R763,Elaine Humphrey,Oberlin College,Intel,Biocomputation,Student,No
+R764,Nathan Moran,University of Washington Seattle,UnitedHealth Group,Computer Engineering,Student,No
+R765,Leonard Field,University of California Davis,JPMorgan Chase,Mobile Applications,Student,Yes
+R766,Bobby Walton,Macalester College,Oracle,Full Stack,Educator,No
+R767,Dorothy Hubbard,University of Maryland College Park,TIAA,User Interface Design,Student,No
+R768,Joe Poole,University of Texas Austin,Cigna,Software Engineering,Student,Yes
+R769,Erin Kaye,University of Georgia,Citigroup,User Interface Design,Professional,Yes
+R770,Leo Webb,Boston College,Capital One Financial,Database Management,Professional,No
+R771,Henry Owens,College of William & Mary,Microsoft,Software Engineering,Educator,No
+R772,Jeremy Flores,Johns Hopkins University,Goldman Sachs Group,Full Stack,Student,No
+R773,Timothy Bartlett,Babson College,Oracle,Biocomputation,Student,Yes
+R774,Alfred Santos,Smith College,Costco Wholesale,Cloud Computing,Student,Yes
+R775,Lillian Cooper,Rice University,Alphabet,Cloud Computing,Student,No
+R776,Gary Vasquez,University of North Carolina Chapel Hill,MetLife,Machine Learning,Educator,No
+R777,Paula Mitchell,Swarthmore College,Merck,Web Applications,Student,No
+R778,Roger Nelson,Wellesley College,IBM,Robotics,Student,No
+R779,Evelyn Field,Yale University,Costco Wholesale,Web Development,Student,No
+R780,Eunice Mcgee,University of Georgia,Nike,Computer Engineering,Student,Yes
+R781,Benjamin Li,Yeshiva University,Centene,Cloud Computing,Professional,No
+R782,Carolyn Hernandez,Colgate University,HCA Healthcare,Full Stack,Student,Yes
+R783,Christopher Ray,Lehigh University,American Airlines Group,Back End,Educator,No
+R784,Chad Clark,Davidson College,Citigroup,Data Science,Student,No
+R785,Manuel Clark,Scripps College,Marathon Petroleum,Computer Networks,Professional,Yes
+R786,Wendy Barnes,Harvey Mudd College,Nike,Front End,Student,Yes
+R787,Eva Kennedy,University of North Carolina Chapel Hill,Centene,Voice Technology,Student,No
+R788,Nora Mills,Smith College,Deere,User Interface Design,Student,No
+R789,Amber Yates,University of Wisconsin Madison,Capital One Financial,Information Technology,Student,No
+R790,Diane Day,Colorado College,Charter Communications,User Experience Design,Educator,No
+R791,Lois Hernandez,Boston College,TJX,Internet of Things,Educator,No
+R792,Bobby Johnson,Vanderbilt University,IBM,Voice Technology,Student,No
+R793,Paul Palmer,University of Washington Seattle,IBM,Database Management,Student,No
+R794,Erin Montgomery,University of Texas Austin,Berkshire Hathaway,Information Management,Educator,No
+R795,Stanley Khan,Grinnell College,American Airlines Group,Full Stack,Educator,No
+R796,Judy Hicks,Barnard College,Procter & Gamble,Software Engineering,Student,Yes
+R797,Sean Caldwell,Vanderbilt University,MetLife,Database Management,Student,No
+R798,Joyce Hammond,Pomona College,Cardinal Health,Full Stack,Student,Yes
+R799,Theodore Frazier,Bucknell University,PepsiCo,Mobile Applications,Student,No
+R800,Martin Phelps,University of Richmond,Valero Energy,User Interface Design,Student,Yes
+R801,Sherry Houston,University of Florida,McKesson,Internet of Things,Student,No
+R802,Kathleen Hanson,United States Merchant Marine Academy,Tech Data,Data Mining,Student,No
+R803,Vincent Fraser,University of Maryland College Park,Exelon,Biocomputation,Student,Yes
+R804,Jennifer Hunter,Villanova University,New York Life Insurance,Human Computer Interaction,Professional,No
+R805,Tara Johnson,University of Washington Seattle,Coca-Cola,Internet of Things,Professional,Yes
+R806,Lori Rice,United States Military Academy,Albertsons,Biocomputation,Educator,No
+R807,Jeff Wong,College of the Holy Cross,Albertsons,Voice Technology,Student,Yes
+R808,Rita Connolly,Carnegie Mellon University,Intel,Biocomputation,Professional,No
+R809,George Sanderson,Scripps College,Alphabet,Computer Engineering,Student,No
+R810,Randy Foster,Amherst College,UnitedHealth Group,User Interface Design,Student,No
+R811,Melanie Hawkins,Bucknell University,American Airlines Group,Systems Engineering,Student,Yes
+R812,Jean Cross,Case Western Reserve University,AIG,Systems Engineering,Professional,No
+R813,Phillip Ingram,University of North Carolina Chapel Hill,Tyson Foods,Mobile Applications,Student,Yes
+R814,Jonathan Cooper,Grinnell College,Cisco Systems,Back End,Student,Yes
+R815,Antonio Richards,Middlebury College,Delta Air Lines,Robotics,Professional,No
+R816,Barbara Reyes,University of Notre Dame,AT&T,Computer Engineering,Student,No
+R817,Arthur Russell,Wellesley College,Centene,Cryptography,Student,No
+R818,Anthony Russell,Williams College,Facebook,User Interface Design,Professional,Yes
+R819,Amy Lucas,United States Military Academy,3M,Machine Learning,Student,No
+R820,Tony Holt,Barnard College,Fannie Mae,Systems Engineering,Educator,Yes
+R821,Janet Fraser,Hamilton College,ConocoPhillips,Biocomputation,Professional,No
+R822,William Day,George Washington University,IBM,Cyber Security,Student,No
+R823,Martin Gibbons,Oberlin College,Valero Energy,Data Mining,Student,No
+R824,Anthony Mills,California Institute of Technology,Ford Motor,Computer Engineering,Student,No
+R825,Chad Cobb,Colby College,Dell Technologies,Automation,Student,No
+R826,Sharon Ortiz,Lehigh University,American Airlines Group,User Experience Design,Student,No
+R827,Leslie Harris,University of California Irvine,Fannie Mae,Data Mining,Student,No
+R828,Amy Reilly,Oberlin College,PepsiCo,Human Computer Interaction,Student,No
+R829,Anne Peterson,Scripps College,Costco Wholesale,Back End,Professional,Yes
+R830,Terry Mills,Hamilton College,Best Buy,Automation,Student,Yes
+R831,Kimberly Hansen,University of Notre Dame,Chevron,Database Management,Student,No
+R832,Albert Ramos,Northwestern University,Kroger,Internet of Things,Student,Yes
+R833,Carol Cross,University of California Berkeley,Lowe's,Robotics,Student,Yes
+R834,Judy Mason,University of California Santa Barbara,Merck,Machine Learning,Educator,No
+R835,Heather Kelly,George Washington University,Comcast,Systems Analysis,Student,Yes
+R836,Wendy Caldwell,Pomona College,JPMorgan Chase,User Interface Design,Educator,Yes
+R837,Eva Smart,Case Western Reserve University,Marathon Petroleum,Systems Engineering,Professional,No
+R838,Kyle Howell,University of Wisconsin Madison,Valero Energy,Data Science,Student,Yes
+R839,Frances Reyes,George Washington University,Kroger,Voice Technology,Professional,No
+R840,Nicole Mejia,Stanford University,American Express,Front End,Professional,No
+R841,Alice Patterson,University of California Los Angeles,Anthem,Cryptography,Student,No
+R842,Rina West,University of Illinois Urbana-Champaign,Energy Transfer,Front End,Student,No
+R843,Shannon Gardner,Brandeis University,McKesson,Human Computer Interaction,Student,Yes
+R844,Jessica Austin,University of California Davis,AT&T,Voice Technology,Professional,No
+R845,Brandon Cummings,College of the Holy Cross,Berkshire Hathaway,Cyber Security,Student,No
+R846,Mario Castro,Whitman College,IBM,Information Technology,Student,No
+R847,Walter Day,Cornell University,American Airlines Group,Information Management,Educator,No
+R848,Tracy Dawson,University of Notre Dame,Procter & Gamble,Information Management,Professional,Yes
+R849,George Rose,Wesleyan University,Freddie Mac,Computer Engineering,Student,No
+R850,Jordan Rose,Yale University,Cigna,Database Management,Student,No
+R851,Jamie Clark,Oberlin College,Liberty Mutual Insurance Group,Voice Technology,Professional,Yes
+R852,Bradley Scott,Villanova University,Oracle,Front End,Student,Yes
+R853,Lucille Leon,Colgate University,Berkshire Hathaway,Systems Engineering,Professional,No
+R854,Theresa Harmon,Yale University,AIG,Voice Technology,Student,Yes
+R855,Lee Mcguire,University of California Santa Barbara,United Parcel Service,Front End,Student,Yes
+R856,Carl Meyer,University of California Santa Barbara,Albertsons,Data Mining,Professional,No
+R857,Valerie Rice,Colby College,Allstate,Machine Learning,Student,No
+R858,Lori Strickland,University of Notre Dame,Lowe's,Internet of Things,Educator,Yes
+R859,Gregory Hernandez,Bates College,Pfizer,Information Technology,Student,Yes
+R860,Lori Vasquez,University of Rochester,Apple,Back End,Student,No
+R861,Denise Dominguez,University of Texas Austin,Exxon Mobil,Machine Learning,Student,Yes
+R862,Heather Collins,Brigham Young University,United Parcel Service,Systems Analysis,Educator,Yes
+R863,Tracy Santos,Columbia University,Exelon,Quantum Computing,Educator,Yes
+R864,Timothy Mitchell,Dartmouth College,General Dynamics,Mobile Applications,Student,No
+R865,Walter Peterson,Wellesley College,Verizon Communications,Artificial Intelligence,Professional,No
+R866,Berenice Williamson,Smith College,Prudential Financial,Computer Networks,Professional,No
+R867,Joseph Bartlett,Georgetown University,Exxon Mobil,Robotics,Student,Yes
+R868,Janet Richardson,Colgate University,State Farm Insurance,Cryptography,Student,No
+R869,Joshua Ferguson,University of California Los Angeles,Home Depot,Web Development,Educator,No
+R870,Monica Bailey,Bates College,United Parcel Service,Internet of Things,Professional,No
+R871,Paul Walton,Wesleyan University,New York Life Insurance,Web Development,Educator,Yes
+R872,Anthony Newman,Colorado College,Honeywell International,Automation,Student,Yes
+R873,Elizabeth Payne,Swarthmore College,Anthem,Web Development,Student,Yes
+R874,Melvin Bridges,University of Southern California,Freddie Mac,Web Applications,Educator,No
+R875,Joe Walton,Colgate University,Progressive,Systems Engineering,Student,No
+R876,Marie Dominguez,Haverford College,Ford Motor,Web Applications,Professional,No
+R877,Xavier Lloyd,United States Merchant Marine Academy,Delta Air Lines,Internet of Things,Student,No
+R878,Amber Newman,Claremont McKenna College,Costco Wholesale,Human Computer Interaction,Educator,No
+R879,Billy Bartlett,United States Air Force Academy,Intel,Voice Technology,Student,No
+R880,Xavier Watson,Colorado College,3M,Computer Networks,Professional,Yes
+R881,Julie Lucas,Worcester Polytechnic Institute,Phillips 66,Database Management,Student,No
+R882,Josephine Armstrong,Boston University,AT&T,Artificial Intelligence,Student,No
+R883,Carl Love,University of Virginia,McKesson,Database Management,Student,No
+R884,Sandra Rose,Cornell University,Walmart,Information Management,Educator,Yes
+R885,Catherine Griffin,Harvey Mudd College,Wells Fargo,Systems Analysis,Student,No
+R886,Orion Love,Cooper Union,Publix Super Markets,User Interface Design,Student,Yes
+R887,Elizabeth Bowman,Brandeis University,Cisco Systems,Quantum Computing,Student,No
+R888,Leonard Holt,Vassar College,World Fuel Services,User Experience Design,Student,No
+R889,Alexander Cobb,Macalester College,Archer Daniels Midland,Biocomputation,Student,Yes
+R890,Joseph Henderson,Stanford University,Goldman Sachs Group,Web Applications,Student,No
+R891,Eddie Dawson,Barnard College,Exxon Mobil,Systems Engineering,Student,No
+R892,Eva Deleon,Hamilton College,Phillips 66,Cyber Security,Professional,Yes
+R893,Heather Goodman,University of Maryland College Park,Facebook,Cryptography,Professional,No
+R894,Anna Doyle,Bates College,PepsiCo,Information Management,Student,No
+R895,Leonard Harper,Harvard University,3M,Voice Technology,Professional,No
+R896,Carrie Hammond,Pitzer College,Valero Energy,Full Stack,Student,No
+R897,Janice Myers,University of Pennsylvania,Facebook,Full Stack,Educator,Yes
+R898,Edwin Bentley,Stanford University,Cisco Systems,Data Mining,Educator,No
+R899,Deborah Patton,Whitman College,Humana,Front End,Student,No
+R900,Donald Barton,Boston University,Caterpillar,Cyber Security,Student,No
+R901,Robin Nunez,Colby College,State Farm Insurance,Web Development,Student,No
+R902,Bernard Armstrong,Carnegie Mellon University,World Fuel Services,User Interface Design,Student,No
+R903,Phillip Lyons,Wellesley College,Delta Air Lines,Database Management,Professional,Yes
+R904,Brian Lucas,Hamilton College,Progressive,Computer Engineering,Student,Yes
+R905,Gerald Holland,University of Washington Seattle,Cisco Systems,Quantum Computing,Professional,No
+R906,Alice Wade,University of Illinois Urbana-Champaign,Target,Human Computer Interaction,Professional,No
+R907,Rachel Lucas,Claremont McKenna College,Home Depot,Automation,Student,No
+R908,Gregory Nelson,Johns Hopkins University,Best Buy,Information Technology,Educator,No
+R909,Allen Watson,University of North Carolina Chapel Hill,AbbVie,Information Technology,Student,No
+R910,Nicole Newman,Tufts University,Exxon Mobil,Cloud Computing,Student,Yes
+R911,Sylvia Cole,University of Wisconsin Madison,Cigna,Database Management,Student,No
+R912,Peter Barnes,Wesleyan University,DuPont de Nemours,Computer Networks,Student,No
+R913,Carolyn Houston,University of Notre Dame,CHS,Systems Engineering,Professional,No
+R914,Eunice Brown,New York University,Caterpillar,Computer Networks,Professional,No
+R915,Sheila Klein,Duke University,Target,Internet of Things,Student,Yes
+R916,Eugene Deleon,California Institute of Technology,HP,Computer Networks,Student,Yes
+R917,Ashley Wilkerson,Bucknell University,Facebook,Systems Analysis,Student,Yes
+R918,Randall Foster,University of California San Diego,HP,Automation,Student,Yes
+R919,Carlos Gordon,Cooper Union,Dell Technologies,Computer Networks,Student,No
+R920,Troy Brooks,Vassar College,Sysco,Data Science,Educator,No
+R921,Shawn Kelley,University of North Carolina Chapel Hill,General Motors,User Interface Design,Educator,No
+R922,Laura Hernandez,Case Western Reserve University,Boeing,Software Engineering,Educator,Yes
+R923,Joan Montgomery,University of Southern California,Exelon,Information Management,Student,Yes
+R924,Eric Vega,Brandeis University,CVS Health,User Interface Design,Educator,No
+R925,Adam Holt,New York University,Lockheed Martin,Machine Learning,Student,No
+R926,Dale Hart,University of Wisconsin Madison,Caterpillar,Web Development,Student,Yes
+R927,Donald Oliver,University of Florida,Nike,Web Applications,Student,Yes
+R928,Artemis Webb,Bates College,AT&T,Web Development,Student,Yes
+R929,Rachel Lewis,Scripps College,Freddie Mac,Web Development,Educator,Yes
+R930,Matthew Field,Worcester Polytechnic Institute,HCA Healthcare,Full Stack,Student,Yes
+R931,Victoria Cooper,Middlebury College,Charter Communications,Information Technology,Educator,No
+R932,Thomas Lewis,Brown University,Nike,Robotics,Professional,No
+R933,Dawn Valdez,Bucknell University,CVS Health,Information Management,Educator,No
+R934,Ruby Holt,Vassar College,United Continental Holdings,Quantum Computing,Professional,Yes
+R935,Clifford Ray,University of Illinois Urbana-Champaign,Centene,Information Management,Student,Yes
+R936,Kara Solis,Wellesley College,Procter & Gamble,Human Computer Interaction,Student,No
+R937,Kathryn Poole,United States Merchant Marine Academy,Amazon.com,Machine Learning,Student,Yes
+R938,Kevin Higgins,Cornell University,Microsoft,Cloud Computing,Student,No
+R939,Judy Henderson,Harvey Mudd College,Oracle,Mobile Applications,Educator,Yes
+R940,Gary Mills,Villanova University,Nationwide,Internet of Things,Educator,No
+R941,Dawn Acosta,Pitzer College,Lowe's,Human Computer Interaction,Educator,No
+R942,Andrea Payne,University of Virginia,Tech Data,Mobile Applications,Educator,No
+R943,Tracy Bowman,Colgate University,Alphabet,Artificial Intelligence,Educator,No
+R944,Raymond Woods,Wake Forest University,MetLife,Human Computer Interaction,Student,No
+R945,Sean Richardson,Case Western Reserve University,Delta Air Lines,Systems Analysis,Professional,Yes
+R946,Andrew Wilkerson,Middlebury College,Apple,Robotics,Professional,No
+R947,Henry Clark,Whitman College,Tech Data,Computer Engineering,Educator,Yes
+R948,Orion Bowman,Yale University,Marathon Petroleum,Full Stack,Professional,Yes
+R949,Tina Vasquez,Washington University in St. Louis,Bank of America,Data Science,Student,Yes
+R950,Heather Alexander,Amherst College,Exxon Mobil,Quantum Computing,Student,No
+R951,Christina Love,University of Southern California,United Continental Holdings,Internet of Things,Student,No
+R952,Martin Chapman,Harvey Mudd College,Wells Fargo,Mobile Applications,Student,No
+R953,Peter Lloyd,University of Chicago,Energy Transfer,User Experience Design,Student,No
+R954,Michael Hall,University of Minnesota Twin Cities,PepsiCo,Biocomputation,Student,Yes
+R955,Sharon Sullivan,Middlebury College,Alphabet,Artificial Intelligence,Student,Yes
+R956,Eunice Thomson,Columbia University,Freddie Mac,Web Applications,Student,Yes
+R957,Lisa Austin,Case Western Reserve University,3M,Systems Engineering,Professional,Yes
+R958,Helen Lopez,Carleton College,Energy Transfer,Full Stack,Student,No
+R959,John Sutton,Dartmouth College,PepsiCo,Systems Engineering,Student,No
+R960,Eric Gibbons,California Institute of Technology,Johnson & Johnson,Data Mining,Student,Yes
+R961,Grace Walton,University of Minnesota Twin Cities,AIG,Back End,Student,Yes
+R962,Andrew Cobb,Pitzer College,Humana,Full Stack,Educator,No
+R963,Martin Caldwell,University of Maryland College Park,Capital One Financial,Web Development,Professional,No
+R964,Mike Mills,Stanford University,McKesson,Artificial Intelligence,Student,No
+R965,Orion Barton,University of Southern California,Bank of America,Database Management,Student,No
+R966,Hazel Watson,Duke University,Cardinal Health,Computer Engineering,Student,No
+R967,Marilyn Richardson,United States Air Force Academy,UnitedHealth Group,Front End,Educator,No
+R968,Raymond Austin,Brigham Young University,Deere,Biocomputation,Educator,No
+R969,Jack Love,Claremont McKenna College,Merck,User Experience Design,Educator,No
+R970,Julia Ray,Macalester College,Alphabet,Cyber Security,Professional,Yes
+R971,Eugene Bailey,Vanderbilt University,Pfizer,Full Stack,Student,No
+R972,Judith Hammond,George Washington University,New York Life Insurance,Information Management,Educator,Yes
+R973,Chris Anderson,Dartmouth College,Publix Super Markets,Cyber Security,Educator,Yes
+R974,Edwin Cross,Brandeis University,Archer Daniels Midland,User Interface Design,Educator,No
+R975,Sharon Hunter,University of California Berkeley,Walgreens Boots Alliance,Data Mining,Student,Yes
+R976,Carolyn Vargas,Stanford University,McKesson,Computer Networks,Educator,No
+R977,Jack Hall,Johns Hopkins University,Bank of America,Data Science,Student,No
+R978,Gary Cross,Barnard College,General Electric,Cryptography,Student,No
+R979,Jesse Solis,Pitzer College,General Motors,Information Management,Professional,Yes
+R980,Maria Farmer,Macalester College,Intel,Cryptography,Professional,No
+R981,Willie Bell,Pitzer College,Archer Daniels Midland,Systems Analysis,Student,No
+R982,Debbie Owens,University of Miami,Progressive,Web Applications,Educator,No
+R983,Pamela Hall,Lafayette College,Progressive,Biocomputation,Student,No
+R984,Marvin Gardner,Tufts University,AbbVie,Back End,Student,No
+R985,Joyce Lyons,Georgetown University,AbbVie,Quantum Computing,Student,No
+R986,Mario Harrington,Rice University,Ford Motor,Artificial Intelligence,Student,Yes
+R987,Dennis Swanson,University of Virginia,Progressive,Mobile Applications,Student,Yes
+R988,Keith Reed,University of California San Diego,Exelon,Voice Technology,Student,No
+R989,Douglas Henderson,Carnegie Mellon University,FedEx,Human Computer Interaction,Professional,No
+R990,Elizabeth Blair,Yale University,Exxon Mobil,Cyber Security,Educator,No
+R991,Debra Houston,Smith College,Publix Super Markets,Human Computer Interaction,Professional,No
+R992,Michael Caldwell,Washington and Lee University,Verizon Communications,Web Applications,Professional,Yes
+R993,Tina Li,University of California San Diego,Home Depot,Information Management,Student,No
+R994,Timothy Hammond,Amherst College,Cisco Systems,Internet of Things,Student,Yes
+R995,Bradley Harper,United States Naval Academy,Archer Daniels Midland,Cyber Security,Student,No
+R996,Carolyn Daniels,Swarthmore College,Delta Air Lines,Cryptography,Professional,No
+R997,Theodore Norris,Georgia Institute of Technology,HP,Information Management,Student,No
+R998,Michael Fletcher,University of California Davis,Tyson Foods,Web Development,Professional,No
+R999,Daniel Anderson,Vanderbilt University,Allstate,Voice Technology,Student,No
+R1000,Mary Palmer,University of Georgia,TJX,Machine Learning,Educator,No
+R1001,Raymond Vargas,University of California San Diego,American Airlines Group,Full Stack,Student,No
+R1002,Leslie Solis,Emory University,Centene,Back End,Educator,No
+R1003,Russell Vargas,Santa Clara University,Walgreens Boots Alliance,Automation,Educator,No
+R1004,Joan Acosta,Santa Clara University,State Farm Insurance,Back End,Student,No
+R1005,Francis Reed,Brown University,Morgan Stanley,Mobile Applications,Student,Yes
+R1006,Marcus Maxwell,Yale University,Plains GP Holdings,Back End,Professional,No
+R1007,Alexander Baird,Boston University,McKesson,Data Science,Student,No
+R1008,Albert Coleman,Brown University,Procter & Gamble,Cyber Security,Professional,No
+R1009,Dawn Valencia,Duke University,Costco Wholesale,Human Computer Interaction,Student,No
+R1010,Mary Stuart,Lehigh University,Liberty Mutual Insurance Group,Machine Learning,Student,No
+R1011,Victoria Mcdonald,University of Richmond,Apple,Data Mining,Professional,Yes
+R1012,Alfred Myers,University of Illinois Urbana-Champaign,Pfizer,Full Stack,Professional,No
+R1013,Sara Miles,Amherst College,Plains GP Holdings,Cloud Computing,Student,Yes
+R1014,Maggie Lyons,Case Western Reserve University,TJX,User Interface Design,Professional,Yes
+R1015,Gregory Kaye,University of Washington Seattle,Coca-Cola,Computer Networks,Student,Yes
+R1016,Jeff Farmer,University of California San Diego,Coca-Cola,User Experience Design,Student,Yes
+R1017,Janet Higgins,Villanova University,Ford Motor,Computer Networks,Student,No
+R1018,Paula Gibbons,Oberlin College,Coca-Cola,Artificial Intelligence,Professional,No
+R1019,Joseph Goodman,Harvard University,TIAA,Automation,Student,No
+R1020,Donald Weber,Middlebury College,Delta Air Lines,Database Management,Professional,Yes
+R1021,Matthew Rodgers,University of Pennsylvania,Citigroup,Systems Engineering,Student,Yes
+R1022,Frederick Johnson,United States Merchant Marine Academy,United Technologies,Data Mining,Educator,No
+R1023,Charles Hunter,Cornell University,Cigna,Systems Engineering,Student,Yes
+R1024,Jason Henderson,University of Wisconsin Madison,Bank of America,Back End,Student,No
+R1025,Rina Roman,Whitman College,Chevron,Systems Analysis,Educator,No
+R1026,Gregory Palmer,Duke University,Pfizer,Data Mining,Student,No
+R1027,Kyle Watson,Harvey Mudd College,Plains GP Holdings,Biocomputation,Professional,No
+R1028,Ruby Berry,Middlebury College,American Airlines Group,Quantum Computing,Student,No
+R1029,Ruby Henderson,Carnegie Mellon University,DuPont de Nemours,Database Management,Student,Yes
+R1030,Kyle Norris,Davidson College,UnitedHealth Group,User Interface Design,Professional,No
+R1031,Phillip Chapman,Williams College,General Electric,Cryptography,Student,No
+R1032,Mike Gutierrez,Wake Forest University,IBM,User Interface Design,Professional,No
+R1033,Harry Goodman,United States Air Force Academy,Apple,Web Applications,Educator,No
+R1034,William Russell,University of Rochester,Bank of America,Cyber Security,Professional,Yes
+R1035,Lisa Wong,Rice University,AT&T,Automation,Professional,Yes
+R1036,Chris Cummings,Smith College,Progressive,Web Applications,Educator,No
+R1037,Cynthia Norris,Tufts University,Centene,Automation,Educator,Yes
+R1038,Jonathan Higgins,Wesleyan University,Citigroup,Robotics,Student,No
+R1039,Troy Phelps,University of California Berkeley,JPMorgan Chase,Systems Engineering,Student,No
+R1040,Sarah Dawson,University of Rochester,American Airlines Group,Systems Analysis,Educator,No
+R1041,Nicole Burton,Brown University,HCA Healthcare,Computer Networks,Student,No
+R1042,Paula Mack,Rice University,Bank of America,Full Stack,Student,No
+R1043,Jacqueline Walton,Vassar College,Nike,Mobile Applications,Student,No
+R1044,Timothy Valdez,Macalester College,American Airlines Group,Front End,Educator,Yes
+R1045,Ralph Russell,Brigham Young University,New York Life Insurance,Software Engineering,Educator,No
+R1046,Kim Lyons,Brigham Young University,United Parcel Service,Quantum Computing,Student,No
+R1047,Dale Mitchell,University of Texas Austin,Valero Energy,Data Science,Professional,No
+R1048,Debbie Mckinney,University of Chicago,CVS Health,Computer Engineering,Student,No
+R1049,Patrick Potter,Cornell University,State Farm Insurance,Human Computer Interaction,Student,No
+R1050,Anita Dominguez,Boston University,AbbVie,Systems Analysis,Student,Yes
+R1051,Henry Sanderson,University of North Carolina Chapel Hill,Lockheed Martin,Biocomputation,Educator,No
+R1052,Benjamin Mackay,Scripps College,Charter Communications,Cyber Security,Student,No
+R1053,Eleanor Hammond,Whitman College,Marathon Petroleum,Full Stack,Student,No
+R1054,Dorothy Webb,Johns Hopkins University,Target,Data Science,Educator,No
+R1055,Linda Reyes,Johns Hopkins University,Lowe's,Computer Networks,Professional,No
+R1056,Randy Davis,University of Minnesota Twin Cities,Albertsons,Data Science,Educator,No
+R1057,Debra Yates,New York University,Wells Fargo,Internet of Things,Student,Yes
+R1058,Lisa Baird,Grinnell College,Massachusetts Mutual Life Insurance,Cyber Security,Educator,No
+R1059,Gary Gibbons,University of California Los Angeles,Nike,Internet of Things,Student,No
+R1060,Dawn Patterson,University of Georgia,Walmart,Quantum Computing,Student,No
+R1061,Kimberly Herbert,Macalester College,Liberty Mutual Insurance Group,Human Computer Interaction,Student,No
+R1062,Ruth Hammond,Wake Forest University,American Airlines Group,Robotics,Professional,No
+R1063,Don Kennedy,George Washington University,General Motors,Software Engineering,Educator,No
+R1064,Ethan Martinez,Babson College,Walt Disney,Artificial Intelligence,Student,Yes
+R1065,Martin Patterson,Boston College,JPMorgan Chase,Quantum Computing,Student,No
+R1066,Hazel Webb,United States Naval Academy,UnitedHealth Group,Cloud Computing,Educator,No
+R1067,Jennifer Weston,Dartmouth College,Enterprise Products Partners,User Experience Design,Educator,No
+R1068,William Grant,Harvard University,Microsoft,Mobile Applications,Student,No
+R1069,Jesse Hunt,Bowdoin College,Tyson Foods,Internet of Things,Student,No
+R1070,Julie Akhtar,Columbia University,PepsiCo,User Interface Design,Professional,No
+R1071,Xavier Maldonado,Amherst College,Plains GP Holdings,Database Management,Educator,Yes
+R1072,Stanley Palmer,University of Florida,Caterpillar,Full Stack,Professional,Yes
+R1073,Judith Guerrero,University of Richmond,State Farm Insurance,Data Science,Student,No
+R1074,Chad Velasquez,United States Military Academy,Honeywell International,Computer Engineering,Educator,No
+R1075,Miguel Patel,Harvey Mudd College,CHS,Voice Technology,Student,Yes
+R1076,Norman Drake,University of Michigan Ann Arbor,United Technologies,Software Engineering,Student,No
+R1077,Justin Berry,Brown University,United Technologies,Database Management,Student,No
+R1078,Anthony Hernandez,University of California Irvine,Deere,Cyber Security,Professional,No
+R1079,William Rice,Pitzer College,Home Depot,Machine Learning,Educator,Yes
+R1080,Marvin Dominguez,University of California Santa Barbara,Plains GP Holdings,Full Stack,Student,No
+R1081,Ashley Richardson,Santa Clara University,Target,Biocomputation,Student,Yes
+R1082,Lillian Crawford,Haverford College,FedEx,Data Mining,Student,No
+R1083,Barbara Khan,Colgate University,JPMorgan Chase,Web Development,Student,No
+R1084,Esther Poole,Wesleyan University,United Continental Holdings,Internet of Things,Educator,No
+R1085,Theodore Vasquez,Wesleyan University,Deere,Internet of Things,Educator,Yes
+R1086,Hazel Reilly,Northwestern University,Bank of America,Computer Engineering,Professional,Yes
+R1087,Harry Sullivan,College of the Holy Cross,FedEx,Cyber Security,Student,Yes
+R1088,Eleanor Nunez,Boston University,Alphabet,Quantum Computing,Professional,No
+R1089,Jake Love,Barnard College,Morgan Stanley,Back End,Student,No
+R1090,Angela Howell,University of Florida,Coca-Cola,Database Management,Educator,No
+R1091,Stanley Schneider,Colby College,Freddie Mac,Computer Engineering,Student,No
+R1092,Don Woods,Swarthmore College,Goldman Sachs Group,User Interface Design,Student,No
+R1093,Christine Norris,Colorado School of Mines,Tech Data,Software Engineering,Student,No
+R1094,Vincent Mills,Kenyon College,Tech Data,User Interface Design,Student,No
+R1095,Gloria Khan,University of California Santa Barbara,United Continental Holdings,Cryptography,Student,Yes
+R1096,Carlos Mccarthy,Amherst College,United Technologies,Cryptography,Student,Yes
+R1097,David Alvarado,Massachusetts Institute of Technology,American Express,Data Science,Student,No
+R1098,Mark Watts,Davidson College,CVS Health,Systems Analysis,Student,No
+R1099,Jacqueline Ramos,University of Minnesota Twin Cities,Ford Motor,User Experience Design,Student,No
+R1100,Janet Gutierrez,Smith College,Phillips 66,Robotics,Educator,Yes
+R1101,Eunice Poole,University of Southern California,Coca-Cola,Data Science,Student,No
+R1102,Florence Berry,Yale University,FedEx,Quantum Computing,Student,Yes
+R1103,Mario Chapman,University of Miami,Microsoft,Full Stack,Student,No
+R1104,Virginia Deleon,University of Chicago,Charter Communications,Quantum Computing,Student,No
+R1105,Jerry Mcguire,Davidson College,Energy Transfer,Front End,Educator,No
+R1106,Allen Stephens,Oberlin College,Prudential Financial,Back End,Student,Yes
+R1107,Martha Armstrong,Georgetown University,Capital One Financial,Automation,Educator,No
+R1108,Ryan Lopez,College of William & Mary,Oracle,Cryptography,Student,No
+R1109,Allen Williams,Stanford University,Publix Super Markets,Computer Engineering,Student,No
+R1110,Willie Guzman,Lehigh University,Apple,Information Management,Educator,No
+R1111,Robert Hunt,Lehigh University,American Express,Artificial Intelligence,Educator,No
+R1112,Rose Collins,Swarthmore College,PepsiCo,Artificial Intelligence,Professional,No
+R1113,Jacob Reilly,Wellesley College,Albertsons,Information Technology,Student,No
+R1114,Valerie Walsh,University of Wisconsin Madison,Comcast,Robotics,Educator,No
+R1115,Christina Phillips,Claremont McKenna College,Valero Energy,Human Computer Interaction,Student,Yes
+R1116,Janet James,University of Rochester,Honeywell International,Systems Analysis,Student,No
+R1117,Brian Graham,College of the Holy Cross,TJX,Computer Engineering,Student,Yes
+R1118,Aaron Hart,Bowdoin College,Cisco Systems,Systems Analysis,Professional,Yes
+R1119,Ethel Valencia,Pitzer College,UnitedHealth Group,Full Stack,Educator,No
+R1120,Willie Gibson,Georgia Institute of Technology,HCA Healthcare,Biocomputation,Student,No
+R1121,Julie Hunt,Tufts University,Albertsons,Cryptography,Student,Yes
+R1122,Marvin Coleman,Boston College,Tyson Foods,Systems Engineering,Educator,No
+R1123,Marilyn Akhtar,University of North Carolina Chapel Hill,Cigna,Web Development,Student,Yes
+R1124,William Hernandez,Swarthmore College,Goldman Sachs Group,Software Engineering,Professional,Yes
+R1125,Miguel Mills,University of Rochester,United Technologies,Cryptography,Student,Yes
+R1126,Amanda Harmon,University of Wisconsin Madison,American Airlines Group,Back End,Professional,No
+R1127,Manuel Reed,Williams College,Nationwide,Quantum Computing,Professional,No
+R1128,Mike Mendez,Northwestern University,Cigna,Cloud Computing,Educator,Yes
+R1129,Carl Cunningham,Northwestern University,Allstate,Information Technology,Educator,No
+R1130,Bryan Hicks,Boston University,United Continental Holdings,Systems Analysis,Student,No
+R1131,Nancy Hoffman,Pitzer College,American Express,Artificial Intelligence,Student,Yes
+R1132,Kyle Schneider,Colgate University,Energy Transfer,Full Stack,Professional,Yes
+R1133,Debra Porter,California Institute of Technology,Publix Super Markets,Back End,Professional,No
+R1134,Jon Mccarthy,Rice University,Cigna,Database Management,Student,No
+R1135,Albert Smith,United States Military Academy,Verizon Communications,Quantum Computing,Educator,Yes
+R1136,Debra Walton,University of Washington Seattle,Morgan Stanley,Information Management,Student,Yes
+R1137,Erin Hoffman,California Institute of Technology,FedEx,Biocomputation,Educator,No
+R1138,Christopher Reilly,Rice University,Delta Air Lines,Data Mining,Student,No
+R1139,Eddie Phillips,Macalester College,Alphabet,Cryptography,Professional,No
+R1140,Jessica Gardner,University of California Berkeley,CHS,Full Stack,Professional,No
+R1141,Ethel Howell,Dartmouth College,Archer Daniels Midland,Software Engineering,Student,Yes
+R1142,Kim Crawford,Bowdoin College,United Continental Holdings,Systems Analysis,Educator,No
+R1143,Carmen Francis,University of Rochester,Procter & Gamble,Web Applications,Student,Yes
+R1144,Ralph Holt,Bates College,Ford Motor,Human Computer Interaction,Student,Yes
+R1145,Howard Patel,Amherst College,Walgreens Boots Alliance,Information Technology,Student,Yes
+R1146,Florence Lewis,Pitzer College,Cisco Systems,Quantum Computing,Educator,Yes
+R1147,Marie Mason,Hamilton College,TJX,Front End,Student,No
+R1148,James Moss,Washington and Lee University,ConocoPhillips,Automation,Student,No
+R1149,Amanda Moss,University of California Santa Barbara,TJX,Cyber Security,Educator,No
+R1150,Troy Burke,Claremont McKenna College,General Dynamics,User Interface Design,Educator,No
+R1151,Irene Kennedy,United States Air Force Academy,Phillips 66,Computer Networks,Student,Yes
+R1152,Josephine Porter,University of Florida,Target,Biocomputation,Educator,Yes
+R1153,Daniel Houston,Williams College,ConocoPhillips,Information Technology,Student,No
+R1154,Sara Patterson,Brandeis University,AT&T,Cyber Security,Professional,Yes
+R1155,Christine Mckinney,Babson College,General Motors,Cloud Computing,Educator,Yes
+R1156,Marcus Li,Princeton University,Honeywell International,Full Stack,Student,No
+R1157,Xavier Herbert,University of Michigan Ann Arbor,Energy Transfer,User Experience Design,Professional,No
+R1158,Rachel Ingram,Bucknell University,Centene,Mobile Applications,Professional,Yes
+R1159,Ellen Khan,University of Washington Seattle,Boeing,Front End,Student,Yes
+R1160,Kenneth Reyes,Duke University,Target,Information Technology,Student,No
+R1161,Bernard Humphrey,University of Miami,TIAA,Systems Engineering,Educator,Yes
+R1162,William Fowler,University of California Los Angeles,Berkshire Hathaway,Internet of Things,Student,Yes
+R1163,Lois Parks,Wellesley College,Cisco Systems,Information Technology,Student,No
+R1164,Nora Maxwell,University of Michigan Ann Arbor,Kroger,Web Development,Student,No
+R1165,Kathryn Clark,Wake Forest University,Apple,Front End,Professional,No
+R1166,Amy Mohamed,University of Chicago,Walt Disney,Quantum Computing,Student,Yes
+R1167,Michelle Palmer,Lafayette College,Honeywell International,Robotics,Student,No
+R1168,Mario Wade,University of Texas Austin,Humana,Information Technology,Student,No
+R1169,Roy Khan,Bates College,Exxon Mobil,Information Technology,Student,No
+R1170,Eunice Patterson,Georgia Institute of Technology,Deere,Quantum Computing,Student,Yes
+R1171,Debra Fowler,University of Minnesota Twin Cities,Wells Fargo,Quantum Computing,Student,No
+R1172,Leonard Deleon,University of Virginia,General Motors,Data Mining,Professional,Yes
+R1173,Karen Weber,University of California San Diego,Microsoft,Information Technology,Student,No
+R1174,Anthony Chapman,Pomona College,Tyson Foods,Voice Technology,Educator,No
+R1175,Willie Francis,Smith College,Berkshire Hathaway,Mobile Applications,Student,No
+R1176,Doris Khan,Vassar College,Intel,Biocomputation,Student,Yes
+R1177,Leo Porter,Brown University,Centene,Systems Analysis,Educator,Yes
+R1178,Alexander Palmer,Emory University,Walgreens Boots Alliance,Information Management,Professional,No
+R1179,Lisa Williamson,Scripps College,Home Depot,Machine Learning,Student,No
+R1180,Wendy Reilly,University of Texas Austin,Microsoft,Information Management,Student,No
+R1181,Judy Meyer,Pitzer College,American Airlines Group,User Interface Design,Student,No
+R1182,Crystal James,Williams College,3M,Cryptography,Educator,No
+R1183,Allen Watts,University of Wisconsin Madison,Oracle,Front End,Student,No
+R1184,Edwin Campos,Carleton College,Amazon.com,Systems Analysis,Professional,No
+R1185,Teresa Hunter,Barnard College,IBM,Database Management,Student,No
+R1186,Stephen Wagner,Northwestern University,Costco Wholesale,Web Applications,Student,No
+R1187,Chris Green,Kenyon College,ConocoPhillips,Artificial Intelligence,Student,No
+R1188,Justin Patel,Villanova University,Cardinal Health,Automation,Student,Yes
+R1189,Benjamin Leon,Kenyon College,World Fuel Services,Mobile Applications,Professional,Yes
+R1190,Jon Gibson,University of Michigan Ann Arbor,Apple,Artificial Intelligence,Educator,Yes
+R1191,Vincent Austin,University of California Los Angeles,3M,Machine Learning,Student,No
+R1192,Maggie Humphrey,Colorado College,PepsiCo,Information Management,Educator,No
+R1193,Thomas Williamson,Haverford College,Plains GP Holdings,Web Development,Student,No
+R1194,Eugene Carson,University of California Santa Barbara,Sysco,Systems Analysis,Student,Yes
+R1195,Nicholas Barnes,University of Maryland College Park,Cigna,User Experience Design,Professional,No
+R1196,Dawn Kelly,Colorado College,Massachusetts Mutual Life Insurance,Internet of Things,Professional,Yes
+R1197,Jimmy Russell,Haverford College,JPMorgan Chase,Human Computer Interaction,Educator,No
+R1198,Ruby Gutierrez,Oberlin College,Lockheed Martin,Systems Engineering,Professional,No
+R1199,Justin Clark,College of the Holy Cross,Verizon Communications,Data Mining,Student,Yes
+R1200,Florence Graham,University of California San Diego,Apple,Front End,Student,Yes
+R1201,Berenice Gibbons,University of California Irvine,Humana,Front End,Student,Yes
+R1202,Grace Miller,University of Florida,Valero Energy,Systems Analysis,Educator,No
+R1203,Susan Miller,University of Illinois Urbana-Champaign,Valero Energy,Database Management,Student,No
+R1204,Joe Sanderson,University of Chicago,Home Depot,Full Stack,Student,No
+R1205,Sherry Lopez,Vanderbilt University,AT&T,Computer Networks,Student,No
+R1206,Sandra Baldwin,Case Western Reserve University,Walt Disney,Web Applications,Student,No
+R1207,Lori Vega,Princeton University,MetLife,Cryptography,Educator,No
+R1208,Teresa Hernandez,Scripps College,Capital One Financial,Full Stack,Student,No
+R1209,Willie Schneider,Hamilton College,PepsiCo,Automation,Educator,Yes
+R1210,Susan Richards,University of Maryland College Park,Nationwide,Data Mining,Student,No
+R1211,Eleanor Payne,University of Maryland College Park,Allstate,Web Applications,Student,No
+R1212,Janice Vargas,Claremont McKenna College,McKesson,Cloud Computing,Student,No
+R1213,Lois Fox,Bates College,Chevron,Systems Analysis,Professional,No
+R1214,Irene Kennedy,Middlebury College,General Motors,Full Stack,Educator,No
+R1215,Elizabeth Holt,Wellesley College,American Airlines Group,Cloud Computing,Student,No
+R1216,Carmen Kelly,Brigham Young University,TIAA,Data Science,Professional,No
+R1217,Shirley Calderon,Yale University,General Motors,Full Stack,Educator,No
+R1218,Norman Howell,Harvey Mudd College,Microsoft,Artificial Intelligence,Student,No
+R1219,Karen Doyle,Stanford University,Exelon,Machine Learning,Student,Yes
+R1220,Gina Fox,University of Florida,Walgreens Boots Alliance,Voice Technology,Student,No
+R1221,Rina Peterson,Emory University,PepsiCo,Computer Networks,Student,No
+R1222,Doris Kay,Santa Clara University,Home Depot,User Interface Design,Student,No
+R1223,George Woods,Wellesley College,Johnson & Johnson,Computer Networks,Educator,Yes
+R1224,Henry Day,George Washington University,Home Depot,Systems Engineering,Student,No
+R1225,Betty Hicks,Wake Forest University,Goldman Sachs Group,Front End,Professional,No
+R1226,Philip Herbert,University of Richmond,Lowe's,Human Computer Interaction,Professional,Yes
+R1227,Carrie Burns,Colorado School of Mines,Procter & Gamble,Computer Engineering,Student,Yes
+R1228,Bryan Fowler,Duke University,Fannie Mae,Information Technology,Student,Yes
+R1229,Sheila Wade,Georgetown University,Dell Technologies,Voice Technology,Student,Yes
+R1230,Catherine Moran,Swarthmore College,Prudential Financial,Back End,Professional,No
+R1231,Berenice Stuart,University of Wisconsin Madison,Costco Wholesale,Robotics,Professional,No
+R1232,Joseph Francis,Middlebury College,UnitedHealth Group,Web Development,Educator,No
+R1233,Kenneth Reyes,Southern Methodist University,Anthem,Voice Technology,Professional,No
+R1234,Frances Rees,Southern Methodist University,State Farm Insurance,Computer Networks,Student,No
+R1235,Roger Hansen,United States Military Academy,Humana,Computer Engineering,Student,Yes
+R1236,Clarence Alexander,Dartmouth College,Phillips 66,Machine Learning,Student,No
+R1237,Josephine Poole,Johns Hopkins University,AT&T,Web Development,Professional,No
+R1238,Steve Hammond,Brigham Young University,Freddie Mac,Internet of Things,Student,No
+R1239,Terry Henderson,University of Notre Dame,Capital One Financial,Data Science,Student,No
+R1240,Amy Griffiths,Villanova University,Intel,Database Management,Student,No
+R1241,Edwin Maxwell,University of Illinois Urbana-Champaign,AbbVie,Internet of Things,Student,No
+R1242,Ricky Ferguson,Bates College,AbbVie,Machine Learning,Student,No
+R1243,Chad Porter,Boston University,Walgreens Boots Alliance,Software Engineering,Student,Yes
+R1244,Kathryn Newman,United States Military Academy,Procter & Gamble,Mobile Applications,Professional,Yes
+R1245,Nathaniel Maxwell,United States Air Force Academy,Tech Data,Systems Engineering,Educator,No
+R1246,Virginia Baird,Harvey Mudd College,New York Life Insurance,Cyber Security,Educator,No
+R1247,Roy Webster,New York University,Microsoft,Computer Engineering,Student,Yes
+R1248,Josephine Wong,Southern Methodist University,Wells Fargo,Automation,Educator,No
+R1249,Monica Chapman,University of Michigan Ann Arbor,Citigroup,Data Science,Educator,No
+R1250,Andrew Yang,Emory University,Sysco,Front End,Professional,Yes
+R1251,Robert Parks,Washington and Lee University,Citigroup,Software Engineering,Student,No
+R1252,Nicholas Davis,Haverford College,AIG,Back End,Student,No
+R1253,Margaret Velasquez,University of California Los Angeles,Costco Wholesale,Automation,Student,No
+R1254,Andrew Howard,University of Chicago,Exelon,Cyber Security,Student,Yes
+R1255,Denise Castro,Emory University,Anthem,Voice Technology,Professional,Yes
+R1256,Robin Wilkerson,Carnegie Mellon University,Massachusetts Mutual Life Insurance,Mobile Applications,Educator,No
+R1257,Peggy Gibbs,Emory University,Pfizer,Quantum Computing,Professional,Yes
+R1258,Matthew Davis,Kenyon College,AmerisourceBergen,Internet of Things,Educator,No
+R1259,Nicholas Lee,Whitman College,Amazon.com,Web Applications,Student,No
+R1260,Curtis Harris,Brigham Young University,Boeing,Internet of Things,Student,Yes
+R1261,Howard Nichols,University of Virginia,Tyson Foods,Web Applications,Student,No
+R1262,Maria Miller,Brigham Young University,Intel,User Experience Design,Professional,No
+R1263,Barry Holmes,University of Illinois Urbana-Champaign,United Technologies,Cryptography,Student,No
+R1264,Crystal Coleman,Wellesley College,DuPont de Nemours,Automation,Student,No
+R1265,Scott Mcguire,New York University,MetLife,Quantum Computing,Professional,No
+R1266,Joseph Phillips,University of California Santa Barbara,Alphabet,Cryptography,Professional,No
+R1267,Shawn Harrington,University of Southern California,Johnson & Johnson,Software Engineering,Student,Yes
+R1268,Sean Burgess,University of Rochester,Walmart,Cloud Computing,Student,No
+R1269,Ruby Stuart,Oberlin College,Comcast,Machine Learning,Student,Yes
+R1270,Amber Norris,Lafayette College,Home Depot,Internet of Things,Student,No
+R1271,Mike James,Harvard University,PepsiCo,Mobile Applications,Student,No
+R1272,Eric Day,Davidson College,Publix Super Markets,Web Applications,Student,No
+R1273,Kathleen Sharp,College of the Holy Cross,Microsoft,Systems Engineering,Student,No
+R1274,Stephen Maldonado,Babson College,State Farm Insurance,Systems Engineering,Educator,No
+R1275,Karen Yates,Lehigh University,Oracle,Artificial Intelligence,Student,No
+R1276,Fred Cobb,Carnegie Mellon University,Capital One Financial,User Experience Design,Professional,No
+R1277,Anita West,United States Naval Academy,Publix Super Markets,Quantum Computing,Student,No
+R1278,Jennifer Schneider,University of Pennsylvania,Microsoft,Information Management,Student,No
+R1279,Adam Hart,University of Wisconsin Madison,Wells Fargo,Computer Networks,Educator,No
+R1280,Sharon Kelly,Wellesley College,JPMorgan Chase,Computer Networks,Educator,No
+R1281,Martha Mendez,Kenyon College,Verizon Communications,Internet of Things,Student,No
+R1282,Ellen Chapman,Macalester College,AbbVie,Artificial Intelligence,Professional,No
+R1283,Alexander Santos,Washington and Lee University,Massachusetts Mutual Life Insurance,Information Technology,Educator,No
+R1284,Diana Anderson,Boston College,Procter & Gamble,Internet of Things,Educator,No
+R1285,Jean Ferguson,Carleton College,Sysco,Front End,Professional,No
+R1286,Nathan Williams,Harvey Mudd College,CHS,Biocomputation,Student,No
+R1287,Kara Abbott,Northwestern University,McKesson,Machine Learning,Educator,No
+R1288,Eunice Gordon,University of Florida,Albertsons,Information Management,Student,No
+R1289,Don Porter,Middlebury College,HCA Healthcare,Robotics,Student,Yes
+R1290,Eddie Gibbs,University of Notre Dame,United Technologies,Quantum Computing,Student,No
+R1291,Sandra Parks,College of the Holy Cross,Anthem,Back End,Student,No
+R1292,Grace Dawson,Colorado College,AIG,Biocomputation,Professional,No
+R1293,Brian Anderson,Barnard College,Prudential Financial,Cyber Security,Student,Yes
+R1294,Ryan Anderson,Georgetown University,Allstate,Information Technology,Student,Yes
+R1295,William Mackay,University of Wisconsin Madison,Exxon Mobil,Back End,Educator,Yes
+R1296,Kyle Phillips,Barnard College,Enterprise Products Partners,Mobile Applications,Professional,No
+R1297,Teresa Humphrey,Swarthmore College,AbbVie,Back End,Student,No
+R1298,Jennifer Akhtar,United States Naval Academy,Capital One Financial,Software Engineering,Professional,No
+R1299,Christine James,Bowdoin College,Caterpillar,Web Development,Student,No
+R1300,Craig Hart,Columbia University,Freddie Mac,Computer Engineering,Professional,Yes
+R1301,Ethan Sutton,Northwestern University,AIG,Cloud Computing,Student,No
+R1302,Glenn Bailey,Pitzer College,Kroger,Cloud Computing,Student,Yes
+R1303,Julia Daniels,University of Florida,Liberty Mutual Insurance Group,Internet of Things,Educator,Yes
+R1304,Mary Harper,United States Military Academy,Goldman Sachs Group,Web Applications,Professional,No
+R1305,Ralph Cooper,Kenyon College,Oracle,Cryptography,Student,No
+R1306,Walter Martinez,University of California Berkeley,Prudential Financial,Machine Learning,Professional,No
+R1307,Danny Russell,Cornell University,Merck,Data Mining,Educator,No
+R1308,Norma Swanson,University of Florida,Marathon Petroleum,Information Management,Professional,No
+R1309,Clifford Mason,United States Military Academy,Oracle,Systems Analysis,Student,No
+R1310,Don Harrington,Yale University,Centene,Machine Learning,Educator,No
+R1311,William Lyons,Davidson College,Tyson Foods,Automation,Student,No
+R1312,Alfred Lucas,California Institute of Technology,Merck,Automation,Student,No
+R1313,John Patel,Wellesley College,Centene,Web Development,Student,No
+R1314,Nancy Richardson,Cooper Union,Delta Air Lines,Machine Learning,Educator,No
+R1315,Richard Dominguez,Middlebury College,Energy Transfer,Database Management,Student,Yes
+R1316,Nathan Johnson,University of Rochester,Progressive,Quantum Computing,Professional,Yes
+R1317,Martin Harrington,United States Military Academy,Walt Disney,Back End,Educator,No
+R1318,Mark Fernandez,Colorado School of Mines,Prudential Financial,Human Computer Interaction,Student,No
+R1319,Eugene Grant,Bucknell University,Nike,Automation,Student,No
+R1320,Brian Li,Colorado College,Energy Transfer,Cryptography,Professional,Yes
+R1321,Manuel Alexander,University of Southern California,Target,Robotics,Student,No
+R1322,Jonathan Blake,University of Chicago,Alphabet,Human Computer Interaction,Professional,Yes
+R1323,John Stephens,Case Western Reserve University,Exelon,Data Science,Student,No
+R1324,Anne Kay,University of Virginia,Archer Daniels Midland,User Experience Design,Educator,No
+R1325,Richard Richards,New York University,Cisco Systems,Quantum Computing,Educator,Yes
+R1326,Patricia Perkins,Oberlin College,JPMorgan Chase,Database Management,Educator,No
+R1327,George Patel,Villanova University,ConocoPhillips,Human Computer Interaction,Student,No
+R1328,Randall Zimmerman,Stanford University,Nationwide,Systems Engineering,Student,No
+R1329,Christine Vasquez,Smith College,IBM,Information Technology,Student,No
+R1330,Mark Moran,Hamilton College,Verizon Communications,Data Science,Student,No
+R1331,Douglas Collins,Washington and Lee University,Wells Fargo,Machine Learning,Educator,Yes
+R1332,Josephine Rees,Swarthmore College,Honeywell International,Robotics,Student,No
+R1333,Wanda Walton,United States Coast Guard Academy,Berkshire Hathaway,Web Development,Student,Yes
+R1334,Amanda Payne,Tufts University,Dell Technologies,Full Stack,Student,No
+R1335,Cindy Hanson,Georgetown University,Boeing,Information Technology,Student,No
+R1336,Allen Owens,Georgia Institute of Technology,Delta Air Lines,Web Applications,Educator,No
+R1337,Thomas Day,Oberlin College,Chevron,Information Management,Student,Yes
+R1338,Josephine Knight,College of the Holy Cross,Sysco,Software Engineering,Educator,No
+R1339,Gloria Oliver,Duke University,Albertsons,Quantum Computing,Student,No
+R1340,Troy Brooks,Georgetown University,Amazon.com,Cryptography,Student,Yes
+R1341,Carrie Hansen,University of Illinois Urbana-Champaign,Pfizer,Data Science,Student,Yes
+R1342,Marie Steele,Lafayette College,Dell Technologies,Software Engineering,Professional,No
+R1343,Tracy Harmon,Princeton University,Lowe's,Full Stack,Student,No
+R1344,Jordan Moore,Washington and Lee University,Massachusetts Mutual Life Insurance,Mobile Applications,Student,Yes
+R1345,Doris Lawson,United States Coast Guard Academy,Enterprise Products Partners,Cloud Computing,Educator,Yes
+R1346,Walter Garner,Boston College,Cigna,Front End,Student,Yes
+R1347,Joanne Stephens,Case Western Reserve University,DuPont de Nemours,Robotics,Student,No
+R1348,Heather Kelly,Wesleyan University,Anthem,Automation,Student,Yes
+R1349,Betty Vega,Smith College,United Technologies,User Interface Design,Student,Yes
+R1350,Emma Barnes,Emory University,Allstate,Web Applications,Educator,No
+R1351,Willie Valencia,Claremont McKenna College,CHS,User Experience Design,Student,Yes
+R1352,Deborah Cross,Barnard College,Wells Fargo,Systems Engineering,Professional,No
+R1353,Rodney Carpenter,Washington University in St. Louis,Microsoft,Computer Engineering,Student,Yes
+R1354,Francis Perkins,Case Western Reserve University,Home Depot,Mobile Applications,Student,No
+R1355,Timothy Hunt,Georgia Institute of Technology,Anthem,Data Science,Student,Yes
+R1356,Bobby George,Amherst College,United Parcel Service,Information Management,Student,No
+R1357,Melissa Yang,United States Air Force Academy,Caterpillar,Back End,Student,Yes
+R1358,Larry Patel,Claremont McKenna College,Anthem,User Interface Design,Educator,Yes
+R1359,Elaine Phelps,Middlebury College,Facebook,Data Mining,Student,No
+R1360,Joe Burgess,University of Notre Dame,Berkshire Hathaway,Biocomputation,Student,No
+R1361,Lillian Doyle,Villanova University,JPMorgan Chase,Machine Learning,Student,No
+R1362,Nicole Goodman,Colby College,Nationwide,Computer Engineering,Student,No
+R1363,James Barnes,Bowdoin College,Lowe's,Data Science,Student,No
+R1364,Mike Stephens,Swarthmore College,Alphabet,Internet of Things,Professional,Yes
+R1365,Norman Guzman,Bates College,Massachusetts Mutual Life Insurance,Cryptography,Educator,No
+R1366,Juanita Watson,University of Southern California,Fannie Mae,Cloud Computing,Professional,Yes
+R1367,Carrie Kaye,University of Florida,Walgreens Boots Alliance,Full Stack,Educator,No
+R1368,Anne Mcdonald,Dartmouth College,Boeing,Automation,Educator,No
+R1369,Samuel Higgins,Washington University in St. Louis,Coca-Cola,Full Stack,Educator,No
+R1370,Jerry Deleon,Bucknell University,Progressive,Artificial Intelligence,Educator,No
+R1371,Jamie George,University of Illinois Urbana-Champaign,Johnson & Johnson,Web Applications,Student,Yes
+R1372,Nicholas Holmes,University of California Berkeley,General Dynamics,Information Technology,Educator,No
+R1373,Brandon Nunez,University of Wisconsin Madison,Honeywell International,Quantum Computing,Student,No
+R1374,Timothy Nash,Southern Methodist University,CVS Health,Robotics,Student,Yes
+R1375,Martha Chapman,Bucknell University,Massachusetts Mutual Life Insurance,Human Computer Interaction,Student,Yes
+R1376,Dawn Solis,Brigham Young University,Coca-Cola,Robotics,Student,No
+R1377,Amber Dawson,Grinnell College,American Airlines Group,Front End,Student,Yes
+R1378,Marie Doyle,University of Chicago,Citigroup,Full Stack,Educator,No
+R1379,Esther Day,Swarthmore College,United Parcel Service,Computer Engineering,Professional,No
+R1380,Sheila Hart,University of Richmond,Anthem,Computer Networks,Professional,Yes
+R1381,Andrew Fletcher,University of Maryland College Park,American Airlines Group,Automation,Student,No
+R1382,Berenice Castro,Davidson College,United Continental Holdings,User Interface Design,Professional,No
+R1383,Jimmy Gibbons,Rice University,Johnson & Johnson,Systems Engineering,Student,No
+R1384,Melvin Graham,Scripps College,McKesson,Robotics,Educator,Yes
+R1385,Robert Russell,Carnegie Mellon University,Apple,Information Technology,Student,No
+R1386,Curtis Cross,Oberlin College,General Electric,Systems Analysis,Student,No
+R1387,Antonio Fox,Washington University in St. Louis,Walgreens Boots Alliance,User Interface Design,Student,No
+R1388,Fred Grant,University of California Santa Barbara,Tyson Foods,Data Mining,Student,No
+R1389,Stephanie Marshall,Northwestern University,3M,Full Stack,Student,Yes
+R1390,Kathleen Webb,University of Washington Seattle,Honeywell International,Artificial Intelligence,Student,Yes
+R1391,Leslie Wade,United States Merchant Marine Academy,Tech Data,Data Mining,Student,No
+R1392,Phillip James,Grinnell College,IBM,Cryptography,Student,No
+R1393,Thomas Gibbs,Cooper Union,Tyson Foods,Web Applications,Student,No
+R1394,Jake Parks,Stanford University,Chevron,Information Technology,Educator,No
+R1395,Gloria Burns,New York University,HCA Healthcare,Machine Learning,Student,Yes
+R1396,Jerry Perkins,Macalester College,Caterpillar,Computer Engineering,Student,Yes
+R1397,Janet Lawson,Tufts University,Energy Transfer,Artificial Intelligence,Professional,No
+R1398,Paul Cummings,Smith College,JPMorgan Chase,Robotics,Student,No
+R1399,Henry Henderson,Massachusetts Institute of Technology,Anthem,Biocomputation,Student,Yes
+R1400,Kevin Reynolds,Massachusetts Institute of Technology,3M,Information Technology,Student,Yes
+R1401,Stephen Chambers,Cooper Union,Exxon Mobil,Data Science,Student,No
+R1402,Orion Peterson,Massachusetts Institute of Technology,AIG,Data Science,Professional,Yes
+R1403,Ashley Cummings,Case Western Reserve University,Honeywell International,Automation,Professional,No
+R1404,Julie Seymour,Harvard University,Ford Motor,Information Technology,Student,No
+R1405,Judith George,Columbia University,Freddie Mac,Automation,Educator,No
+R1406,Timothy Blair,University of California Davis,Amazon.com,User Interface Design,Student,No
+R1407,Debra Goodman,Oberlin College,Lockheed Martin,Cryptography,Student,No
+R1408,Frank Mckinney,University of Chicago,AbbVie,Information Management,Student,Yes
+R1409,Maggie Carson,Tufts University,Plains GP Holdings,Computer Networks,Professional,No
+R1410,Phillip Mckinney,University of California Irvine,Liberty Mutual Insurance Group,Computer Networks,Educator,No
+R1411,Chris Vasquez,Northwestern University,Cigna,Database Management,Educator,No
+R1412,Tammy Swanson,Vassar College,CVS Health,Systems Engineering,Professional,No
+R1413,Kevin Cole,Northwestern University,DuPont de Nemours,Full Stack,Educator,No
+R1414,Tara Porter,Boston University,Target,Automation,Student,Yes
+R1415,Theresa Caldwell,Claremont McKenna College,Procter & Gamble,Computer Networks,Educator,Yes
+R1416,Henry Cole,University of Texas Austin,Walmart,Database Management,Educator,No
+R1417,Judith Mcguire,University of Chicago,Home Depot,Robotics,Educator,Yes
+R1418,Artemis Mcdonald,Tufts University,Tyson Foods,Voice Technology,Professional,Yes
+R1419,Troy Moore,Georgetown University,Exelon,User Experience Design,Student,Yes
+R1420,Lori Sullivan,Carleton College,Dell Technologies,Mobile Applications,Student,Yes
+R1421,Christine Vega,Duke University,AbbVie,Computer Engineering,Student,No
+R1422,Jason Goodman,Worcester Polytechnic Institute,Wells Fargo,Cloud Computing,Student,No
+R1423,Clifford Fox,Amherst College,Pfizer,Quantum Computing,Professional,No
+R1424,Todd Palmer,Scripps College,Wells Fargo,Back End,Student,Yes
+R1425,Diane Gordon,University of Wisconsin Madison,Best Buy,Voice Technology,Student,No
+R1426,Ethan Klein,University of Southern California,Lockheed Martin,Artificial Intelligence,Professional,Yes
+R1427,Doris Porter,Lafayette College,Morgan Stanley,Biocomputation,Educator,No
+R1428,Emily Parks,Wesleyan University,Cisco Systems,Artificial Intelligence,Professional,Yes
+R1429,Juanita Stone,Wellesley College,ConocoPhillips,Data Science,Educator,Yes
+R1430,Richard Holmes,Macalester College,Chevron,Systems Analysis,Professional,Yes
+R1431,Betty Watson,Bates College,Exelon,Data Mining,Student,Yes
+R1432,Tracy Kennedy,Bates College,Boeing,Data Mining,Professional,Yes
+R1433,Nathaniel Mccarthy,Washington University in St. Louis,Fannie Mae,User Interface Design,Professional,No
+R1434,Tiffany Porter,Wesleyan University,Capital One Financial,Biocomputation,Student,No
+R1435,Marie Padilla,University of California Los Angeles,General Motors,Systems Engineering,Student,No
+R1436,Scott Williamson,Hamilton College,CHS,Database Management,Educator,No
+R1437,Bobby Alexander,University of Maryland College Park,Merck,Quantum Computing,Student,Yes
+R1438,Christopher Gutierrez,Massachusetts Institute of Technology,Wells Fargo,Systems Engineering,Educator,No
+R1439,Patrick Mcguire,Brandeis University,UnitedHealth Group,Quantum Computing,Educator,Yes
+R1440,Benjamin Mack,University of California Santa Barbara,Bank of America,Data Mining,Student,No
+R1441,Gregory Hart,Washington and Lee University,American Express,Quantum Computing,Student,Yes
+R1442,Julie Burton,University of Notre Dame,Apple,Cryptography,Student,No
+R1443,Kelly Mcguire,Vanderbilt University,Honeywell International,Biocomputation,Professional,Yes
+R1444,Bonnie Owens,Johns Hopkins University,Cigna,Information Technology,Student,No
+R1445,Evelyn Davidson,Case Western Reserve University,Walt Disney,Back End,Student,No
+R1446,Ashley Herbert,Haverford College,Cigna,Data Science,Professional,No
+R1447,Norman Hansen,Stanford University,DuPont de Nemours,Information Management,Student,No
+R1448,Sharon Hawkins,George Washington University,Goldman Sachs Group,Computer Engineering,Professional,No
+R1449,James Harrington,Princeton University,General Electric,Human Computer Interaction,Educator,No
+R1450,Nicole Rose,Barnard College,HCA Healthcare,Cloud Computing,Student,No
+R1451,Jack Peterson,Vanderbilt University,New York Life Insurance,Voice Technology,Student,No
+R1452,Antonio Stokes,Whitman College,Best Buy,Cloud Computing,Professional,No
+R1453,Paula Klein,Harvey Mudd College,Chevron,Voice Technology,Student,No
+R1454,Matthew Kay,Claremont McKenna College,Capital One Financial,Cloud Computing,Student,Yes
+R1455,Howard Mack,Smith College,Merck,Mobile Applications,Educator,Yes
+R1456,Albert Doyle,Scripps College,Berkshire Hathaway,Systems Engineering,Student,No
+R1457,Daniel Zimmerman,Princeton University,Coca-Cola,Systems Analysis,Student,No
+R1458,Edwin Cunningham,Cooper Union,Morgan Stanley,Biocomputation,Student,Yes
+R1459,Lois Lloyd,Wellesley College,Bank of America,User Experience Design,Educator,No
+R1460,Sarah Hardy,California Institute of Technology,DuPont de Nemours,Data Mining,Student,No
+R1461,Betty Woods,Georgia Institute of Technology,Centene,Machine Learning,Student,Yes
+R1462,Marcus Parks,George Washington University,Target,Back End,Student,Yes
+R1463,Margaret Lawson,University of Miami,UnitedHealth Group,Computer Networks,Student,Yes
+R1464,Timothy Hart,Hamilton College,Charter Communications,Automation,Student,No
+R1465,Charlotte Connolly,Carnegie Mellon University,Amazon.com,Cyber Security,Student,No
+R1466,Michael Patel,Rice University,Lowe's,Software Engineering,Student,Yes
+R1467,Carlos Hanson,Smith College,Honeywell International,Machine Learning,Student,No
+R1468,Douglas Harmon,Brigham Young University,World Fuel Services,User Interface Design,Professional,No
+R1469,Patrick Johnson,Cornell University,Exxon Mobil,Biocomputation,Educator,No
+R1470,Fred Kennedy,Colorado College,HCA Healthcare,User Experience Design,Student,Yes
+R1471,Eleanor Camacho,United States Military Academy,Charter Communications,Biocomputation,Student,No
+R1472,Tracy Guzman,University of Wisconsin Madison,Costco Wholesale,Automation,Student,No
+R1473,Vincent Davidson,Emory University,Energy Transfer,Software Engineering,Educator,No
+R1474,Sandra Hunter,Whitman College,AIG,Systems Analysis,Educator,Yes
+R1475,Phillip Gordon,University of Minnesota Twin Cities,Massachusetts Mutual Life Insurance,Systems Analysis,Student,Yes
+R1476,Orion Bailey,Wellesley College,Capital One Financial,Front End,Student,No
+R1477,Judy Meyer,College of William & Mary,MetLife,Information Management,Professional,No
+R1478,Elle Vega,University of Minnesota Twin Cities,Morgan Stanley,Mobile Applications,Student,No
+R1479,Teresa Drake,University of California Berkeley,Enterprise Products Partners,Data Mining,Student,Yes
+R1480,Benjamin Lopez,University of Richmond,Honeywell International,Database Management,Student,Yes
+R1481,Mike Ramos,Vanderbilt University,Massachusetts Mutual Life Insurance,Internet of Things,Educator,No
+R1482,Jeff Anderson,Southern Methodist University,TJX,Data Mining,Professional,No
+R1483,Timothy Wade,Harvey Mudd College,Anthem,Back End,Student,No
+R1484,Timothy Holland,Wake Forest University,Merck,Back End,Educator,No
+R1485,Jacob Watts,Worcester Polytechnic Institute,AbbVie,Robotics,Educator,No
+R1486,Randy Baldwin,Middlebury College,Boeing,Mobile Applications,Student,No
+R1487,Billy Weber,Carnegie Mellon University,Enterprise Products Partners,Automation,Student,Yes
+R1488,Travis Fernandez,University of Miami,Delta Air Lines,Automation,Student,No
+R1489,Karen Newman,Cooper Union,HCA Healthcare,Full Stack,Educator,No
+R1490,Jake Gordon,University of Illinois Urbana-Champaign,Albertsons,Web Development,Educator,No
+R1491,Dennis Porter,College of the Holy Cross,United Technologies,Mobile Applications,Educator,No
+R1492,Jessica Kay,Washington and Lee University,Walgreens Boots Alliance,Mobile Applications,Student,No
+R1493,Stephen Hammond,Kenyon College,Exxon Mobil,Computer Engineering,Educator,No
+R1494,Melanie Ortiz,Bowdoin College,Ford Motor,Full Stack,Student,No
+R1495,Christine Calderon,New York University,Best Buy,Data Mining,Student,No
+R1496,Irene Griffin,Worcester Polytechnic Institute,Energy Transfer,Biocomputation,Student,No
+R1497,Victor Rice,Williams College,Pfizer,Systems Analysis,Student,No
+R1498,Esther Clark,University of California Santa Barbara,Marathon Petroleum,Software Engineering,Student,No
+R1499,Judith Hunt,University of Washington Seattle,Costco Wholesale,Database Management,Student,No
+R1500,Juan Frazier,Santa Clara University,General Electric,Automation,Professional,Yes
