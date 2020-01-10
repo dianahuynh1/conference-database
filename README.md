@@ -1,5 +1,5 @@
 # conference-database
-A Java-based database of STEM/computer science conferences. 
+Based in SQL and done in mySQL using a Java connector, this is a database of STEM/computer science conferences. 
 
 The idea of this database was for it to be used from students, educators, and professionals to find conferences that would best align with their academic and career goals. If someone wants to find conferences on certain topics like AI or Cloud Computing or if someone wanted to find conferences where a particular company will be attending.
 
